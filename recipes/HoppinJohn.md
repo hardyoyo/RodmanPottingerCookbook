@@ -1,6 +1,6 @@
 # Hoppin' John
 
-from https://www.badmanners.com/recipes/hoppin-john
+from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hoppin-john)
 
 ** Serves 4-6 **
 
