@@ -1,0 +1,27 @@
+# Instant Pot Lentil Soup
+
+*Instant Pot*
+
+**5 Servings**
+
+---
+
+- *1 T* olive oil
+- *1 T* garlic, chopped
+- *2 C / 1* large onion, chopped
+- *2* large carots, chopped
+- *2* large celery ribs, chopped (optional)
+- *2* potatoes, chopped (optional)
+- *3 C* brown lentils
+- *9 C* water
+- *1 t* herbes de provence
+- *2* bay leaves
+- *4* bouilion cubes or the equivanlent of better than bouilon or broth powder
+
+---
+
+Set instant pot to saute, add oil, saute the garlic, add onions, saute until
+translucent or a bit brown at edges, add carots and celery, saute one minute
+more, add water, beans, everything else, put on the lid, hit the manual button
+and adjust cook time to 7 minutes. Now, think of a side to cook, or start
+slicing bread.
