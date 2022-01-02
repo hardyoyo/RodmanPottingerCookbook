@@ -2,25 +2,27 @@
 
 from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hoppin-john)
 
-** Serves 4-6 **
+*Stovetop*
+
+**4 Servings**
 
 ---
 
-- 1 1/2 C dried black-eyed peas
-- 1 T olive oil
-- 1 onion
-- 2 bell peppers, chopped
-- 3 ribs of cellery, chopped
-- 1-2 t chipotle peppers in adobo sauce
-- 2 t garlic, minced
-- 1 t dried thyme
-- 1 t smoke paprika
-- 1/2 t dried oregano
-- 1/2 t smoked paprika
-- 1/2 t ground black pepper
-- 2 bay leaves
-- 1/4 t salt
-- 3 C vegetable broth
+- *1 1/2 C* dried black-eyed peas
+- *1 T* olive oil
+- *1* onion
+- *2* bell peppers, chopped
+- *3* ribs of cellery, chopped
+- *1-2 t* chipotle peppers in adobo sauce
+- *2 t* garlic, minced
+- *1 t* dried thyme
+- *1 t* smoke paprika
+- *1/2 t* dried oregano
+- *1/2 t* smoked paprika
+- *1/2 t* ground black pepper
+- *2* bay leaves
+- *1/4 t* salt
+- *3 C* vegetable broth
 
 ---
 

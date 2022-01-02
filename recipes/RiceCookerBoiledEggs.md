@@ -1,5 +1,7 @@
 # Rice Cooker Boiledi/Steamed Eggs
 
+*Rice Cooker*
+
 ---
 
 - 6-12 eggs
