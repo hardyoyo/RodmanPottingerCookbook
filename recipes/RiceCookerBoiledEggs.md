@@ -1,4 +1,4 @@
-# Rice Cooker Boiledi/Steamed Eggs
+# Rice Cooker Boiled/Steamed Eggs
 
 *Rice Cooker*
 
