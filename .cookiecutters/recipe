@@ -1,0 +1,14 @@
+# {{ title }}
+
+*{{ commakeywords }}*
+
+**{{ servings }} Servings**
+
+---
+
+- *1 T* ingredient
+
+---
+
+
+{% NORMAL %}
