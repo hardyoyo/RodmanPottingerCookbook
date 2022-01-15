@@ -15,6 +15,7 @@ They both have a sauté button, which makes soups and sauces really easy.
 * it has a bit of smarts, it's not just time-based cooking, it has a sensor to
 determine whether to stop cooking. This also means it has a small water catcher
 that you'll need to empty after you use it.
+* approved for use in many college dorms ¯\_(ツ)_/¯
 
 ## What the Instant Pot does well
 
