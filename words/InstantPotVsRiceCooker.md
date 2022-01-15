@@ -1,7 +1,7 @@
 # Instant Pot vs. Rice Cooker
 
 For most purposes, these appliances are interchangeable. You can use the same
-recipes for each, just know that you can't pressure cook with a rice cooker. But
+recipes for each, just know that you can't pressure cook with a Rice Cooker. But
 they both have similar buttons, and the ratio of water to ingredients is going
 to be the same for either appliance.
 
