@@ -1,5 +1,7 @@
 # Kombu Ramen Broth
 
+Recipe courtesy of Hardy's colleague, Alainna
+
 *soup*
 
 **5 Servings**
