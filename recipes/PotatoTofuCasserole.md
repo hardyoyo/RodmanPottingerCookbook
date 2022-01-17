@@ -36,6 +36,4 @@ milk, stir and simmer until thickened. Add this mixture to the large bowl with
 tofu and potatoes, mix it all thoroughly. Dump the mixture into a shallow glass
 baking dish. Sprinkle the top with cheese. Bake 15 minutes.
 
-## NOTE ##
-
-You can do the potatoes while you're waiting for the tofu to press.
+> ![info](./images/info-icon.png) *You can do the potatoes while you're waiting for the tofu to press.*

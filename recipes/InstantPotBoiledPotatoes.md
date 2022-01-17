@@ -21,9 +21,6 @@ to be cooked, not raw. That's what you're aiming for.
 Cool the potatoes under running cold water, to stop the cooking, and to make
 them easier to handle. Literal hot potatoes are difficult to hold.
 
-## NOTE ##
 
-Boiled potatoes are fantastic things to have on hand. You can eat them with just
-a bit of salt, or get really fancy with salsa, sour cream, shredded cheese. Or
-you can chop them up a bit, sauté with onions and cumin, and use the mixture in
-rolled tacos, or samosas.
+
+> ![info](./images/info-icon.png) *Boiled potatoes are fantastic things to have on hand. You can eat them with just a bit of salt, or get really fancy with salsa, sour cream, shredded cheese. Or you can chop them up a bit, sauté with onions and cumin, and use the mixture in rolled tacos, or samosas.*
