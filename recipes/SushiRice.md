@@ -1,4 +1,4 @@
-# Instant Pot Sushi Rice
+# Sushi Rice
 
 *instant pot, staple*
 

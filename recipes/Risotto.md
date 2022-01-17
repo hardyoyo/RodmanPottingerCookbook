@@ -1,4 +1,4 @@
-# Instant Pot Risotto
+# Risotto
 
 *instant pot*
 

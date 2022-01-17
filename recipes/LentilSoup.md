@@ -1,4 +1,4 @@
-# Instant Pot Lentil Soup
+# Lentil Soup
 
 *Instant Pot*
 
