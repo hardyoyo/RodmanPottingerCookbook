@@ -10,4 +10,4 @@ used to produce a family cookbook, if I keep my act together this year.
 * [Cookie](https://github.com/bbugyi200/cookie): for quickly creating a new recipe
 * [Pandoc](https://pandoc.org/): for converting recipes into PDF files
 * [Scribus](https://www.scribus.net/): for general typesetting of book pages
-
+* [Wikiti Pandoc Book Template](https://github.com/wikiti/pandoc-book-template)
