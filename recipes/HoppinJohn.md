@@ -16,9 +16,8 @@ from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hop
 - *1-2 t* chipotle peppers in adobo sauce
 - *2 t* garlic, minced
 - *1 t* dried thyme
-- *1 t* smoke paprika
+- *1 t* smoked paprika
 - *1/2 t* dried oregano
-- *1/2 t* smoked paprika
 - *1/2 t* ground black pepper
 - *2* bay leaves
 - *1/4 t* salt
