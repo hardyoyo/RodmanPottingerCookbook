@@ -44,4 +44,4 @@ more broth or water. If the peas are tender and you’ve still got too much brot
 in there, just drain some off. Not a big deal. Just check the seasoning when 
 you are all done and add more herbs or spices if you think it needs it.
 
->*You can do this in the instant pot if you're in hurry, soup button, 7 minutes, quick release,*
+> ![ip](./images/ip-icon.png) *You can do this in the instant pot if you're in hurry, soup button, 7 minutes, quick release.*
