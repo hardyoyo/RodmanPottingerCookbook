@@ -1,4 +1,4 @@
-# Instant Pot "Boiled" Potatoes
+# Steamed or Boiled Potatoes
 
 *instant pot, staple*
 
@@ -13,7 +13,7 @@
 ---
 
 Scrub/wash potatoes well, stab them a bit with a fork (you're making vent
-holes). Add water to instant pot, put potatoes in a steamer basket. Cook on
+holes). Add water to cooker, put potatoes in a steamer basket. Cook on
 steam setting for 10 minutes. Natural release. Check tenderness with a fork, if
 necessary, re-cook for 3-5 minutes. You've had potatoes before, you want these
 to be cooked, not raw. That's what you're aiming for.

@@ -36,6 +36,15 @@ $for(classoption)$
   $classoption$$sep$,
 $endfor$
 ]{$documentclass$}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{fontspec}
+% Specify different font for section headings
+\newfontfamily\headingfont[]{Bebas Neue}
+\titleformat*{\section}{\LARGE\headingfont}
+\titleformat*{\subsection}{\Large\headingfont}
+\titleformat*{\subsubsection}{\large\headingfont}
+\renewcommand{\maketitlehooka}{\headingfont}
 $if(beamer)$
 $if(background-image)$
 \usebackgroundtemplate{%
