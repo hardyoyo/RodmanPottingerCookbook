@@ -16,9 +16,10 @@ TEMPLATES = $(shell find templates/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS = 
 
-# Chapters content
-CONTENT = awk 'FNR==1 && NR!=1 {print "\n\n"}{print}' $(RECIPES)
-CONTENT_FILTERS = tee # Use this to add sed filters or other piped commands
+# Recipe content
+CONTENT = awk 'FNR==1 && NR!=1 {print "\n\pagebreak\n\n"}{print}' $(RECIPES)
+#CONTENT_FILTERS = sed '$ a \\\pagebreak' # puts a pagebreak after every line
+CONTENT_FILTERS = tee
 
 # Debugging
 
@@ -63,6 +64,8 @@ book:	epub html pdf docx
 .PHONY: clean
 clean:
 	rm -r $(BUILD)
+	mkdir ${BUILD}
+	touch ${BUILD}/.gitkeep
 
 ####################################################################################################
 # File builders
