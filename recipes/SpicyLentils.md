@@ -1,4 +1,4 @@
-# Spicy Lentils - Instant Pot Style
+# Spicy Lentils
 
 from http://www.thefresh20.com/
 

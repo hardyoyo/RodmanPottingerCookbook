@@ -410,10 +410,8 @@ $if(beamer)$
 $else$
 \maketitle
 $endif$
-$if(abstract)$
-\begin{abstract}
-$abstract$
-\end{abstract}
+$if(description)$
+$description$
 \pagebreak
 $endif$
 $endif$
