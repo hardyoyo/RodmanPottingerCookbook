@@ -28,8 +28,7 @@ from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hop
 
 Rinse the black-eyed peas and throw out any grit or weird looking peas. Put
 the peas in a medium container and cover them with a couple inches of water. Let
-them soak overnight or for at least 6 hours. After they have soaked, drain the
-peas.
+them soak overnight or for at least 6 hours.
 
 Chop the onion, bell peppers, and celery. In a large pot, warm up the olive
 oil over a medium heat. Add the onion and sauté until it starts to
@@ -44,3 +43,5 @@ they are. If you start running out of broth before those are ready, add a little
 more broth or water. If the peas are tender and you’ve still got too much broth
 in there, just drain some off. Not a big deal. Just check the seasoning when 
 you are all done and add more herbs or spices if you think it needs it.
+
+>*You can do this in the instant pot if you're in hurry, soup button, 7 minutes, quick release,*
