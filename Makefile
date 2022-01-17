@@ -17,9 +17,9 @@ COVER_IMAGE = images/cover.png
 MATH_FORMULAS = 
 
 # Recipe content
+#  - ensure there is a pagebreak at the end of every recipe
 CONTENT = awk 'FNR==1 && NR!=1 {print "\n\pagebreak\n\n"}{print}' $(RECIPES)
-#CONTENT_FILTERS = sed '$ a \\\pagebreak' # puts a pagebreak after every line
-CONTENT_FILTERS = tee
+CONTENT_FILTERS = tee # can be used with sed to replace content
 
 # Debugging
 
