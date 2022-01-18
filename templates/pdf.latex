@@ -39,6 +39,7 @@ $endfor$
 \usepackage{titlesec}
 \usepackage{titling}
 \usepackage{fontspec}
+\usepackage{graphicx}
 % Specify different font for section headings
 \newfontfamily\headingfont[]{Bebas Neue}
 \titleformat*{\section}{\LARGE\headingfont}
