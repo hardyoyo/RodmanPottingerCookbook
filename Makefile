@@ -21,6 +21,7 @@ PAGES = recipes/*.md
 PAGES += $(addprefix ./words/,\
   InstantPotVsRiceCooker.md\
   RoastedVegetables.md\
+	InstantPotCheatSheet.md\
   Acknowledgements.md\
 )
 
