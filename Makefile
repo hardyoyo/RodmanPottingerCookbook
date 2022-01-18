@@ -8,7 +8,6 @@ BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = cookbook
 METADATA = metadata.yml
-RECIPES = recipes/*.md
 TOC = --toc --toc-depth 1
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
@@ -16,9 +15,17 @@ TEMPLATES = $(shell find templates/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS = 
 
+## WELL, LET'S GET PARTICULAR ABOUT OUR PAGE ORDER
+PAGES = recipes/*.md
+PAGES += $(addprefix ./words/,\
+  InstantPotVsRiceCooker.md\
+  RoastedVegetables.md\
+  Acknowledgements.md\
+)
+
 # Recipe content
 #  - ensure there is a pagebreak at the end of every recipe
-CONTENT = awk 'FNR==1 && NR!=1 {print "\n\pagebreak\n\n"}{print}' $(RECIPES)
+CONTENT = awk 'FNR==1 && NR!=1 {print "\n\pagebreak\n\n"}{print}' $(PAGES)
 CONTENT_FILTERS = tee # can be used with sed to replace content
 
 # Debugging
@@ -45,7 +52,7 @@ PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex
 
 # Per-format file dependencies
 
-BASE_DEPENDENCIES = $(MAKEFILE) $(RECIPES) $(METADATA) $(IMAGES) $(TEMPLATES)
+BASE_DEPENDENCIES = $(MAKEFILE) $(PAGES) $(METADATA) $(IMAGES) $(TEMPLATES)
 DOCX_DEPENDENCIES = $(BASE_DEPENDENCIES)
 EPUB_DEPENDENCIES = $(BASE_DEPENDENCIES)
 HTML_DEPENDENCIES = $(BASE_DEPENDENCIES)
