@@ -12,6 +12,7 @@ TOC = --toc --toc-depth 1
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
+INCLUDES = $(shell find includes/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS = 
 
@@ -48,7 +49,7 @@ PANDOC_COMMAND = pandoc
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
 EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE)
 HTML_ARGS = --template templates/html.html --standalone --to html5
-PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex
+PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex --include-in-header=includes/left-justify-all-tables-plz.tex
 
 # Per-format file dependencies
 
@@ -56,7 +57,7 @@ BASE_DEPENDENCIES = $(MAKEFILE) $(PAGES) $(METADATA) $(IMAGES) $(TEMPLATES)
 DOCX_DEPENDENCIES = $(BASE_DEPENDENCIES)
 EPUB_DEPENDENCIES = $(BASE_DEPENDENCIES)
 HTML_DEPENDENCIES = $(BASE_DEPENDENCIES)
-PDF_DEPENDENCIES = $(BASE_DEPENDENCIES)
+PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 
 ####################################################################################################
 # Basic actions

@@ -40,24 +40,22 @@ occasionally and cook until tender and lightly browned.
 | Mushrooms, oyster     | torn into strips                                                     |
 | Mushrooms, portabella | Cut lenthwise into 1/2 slices                                        |
 | Parsnips              | Peeled, cut into thin strips                                         |
-| Radishses             | whole, trimmed                                                       |
-| Shallots              | whole or halved                                                      |
 
 ## Roasting time 20-30 minutes
-| Vegetable            | Size/prep                                                             |
-| -------------------- | --------------------------------------------------------------------- |
-| Artichokes, baby     | trimmed baby artichokes, whole or halved                              |
-| Carrots, baby        | whole                                                                 |
-| Belgian endives      | sliced in half                                                        |
-| Cauliflower          | 1 1/2 in. florets                                                     |
-| Garlic               | peeled, each clove halved                                             |
-| Pearl onions         | whole                                                                 |
-| Tomatoes, plum       | whole or halved                                                       |
-| Red onions           | halved                                                                |
-| Sweet peppers        | halved, then cut into 1 in. wedges                                    |
-| Sweet potatoes       | halved crosswise, then cut into 1 in. wedges                          |
-| Turnips              | peeled, then cut into 1 in. cubes, or wedges                          |
-| Yellow onions, large | cut into 10-12 wedges                                                 |
+| Vegetable              | Size/prep                                    |
+| ---------------------- | -------------------------------------------- |
+| Artichokes, *baby*     | trimmed baby artichokes, whole or halved     |
+| Carrots, *baby*        | whole                                        |
+| Belgian endives        | sliced in half                               |
+| Cauliflower            | 1 1/2 in. florets                            |
+| Garlic                 | peeled, each clove halved                    |
+| Pearl onions           | whole                                        |
+| Tomatoes, plum         | whole or halved                              |
+| Red onions             | halved                                       |
+| Sweet peppers          | halved, then cut into 1 in. wedges           |
+| Sweet potatoes         | halved crosswise, then cut into 1 in. wedges |
+| Turnips                | peeled, then cut into 1 in. cubes, or wedges |
+| Yellow onions, *large* | cut into 10-12 wedges                        |
 
 ## Roasting time 30-40 minutes
 | Vegetable       | Size/prep                                                                  |
@@ -71,7 +69,8 @@ occasionally and cook until tender and lightly browned.
 | New potatoes    | scrubbed and unpeeled, halved                                              |
 
 ## Roasing time 50-60 minutes
-| Vegetable    | Size/prep                                                                     |
-| ------------ | ----------------------------------------------------------------------------- |
-| Acorn squash | halved and seeded, cut side up on baking sheet                                |
-| Beets, small | whole, unpeeled, scrubbed, wrapped in aluminum foil peel skin after roasting  |
+| Vegetable      | Size/prep                                                                    |
+| -------------- | ---------------------------------------------------------------------------- |
+| Acorn squash   | halved and seeded, cut side up on baking sheet                               |
+| Beets, *small* | whole, unpeeled, scrubbed, wrapped in aluminum foil peel skin after roasting |
+
