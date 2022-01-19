@@ -21,7 +21,7 @@ Use pizza dough cycle, will be done in less than an hour.
 
 ### Pizza 
 
-Preheat oven t 450°F, bake for 12-15 minutes
+Preheat oven to 450°F, bake for 12-15 minutes
 
 ### Par-bake 
 

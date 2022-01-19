@@ -16,7 +16,7 @@ INCLUDES = $(shell find includes/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS = 
 
-## WELL, LET'S GET PARTICULAR ABOUT OUR PAGE ORDER
+## START WITH ALL THE RECIPES, THEN THE WORDS
 PAGES = recipes/*.md
 PAGES += $(addprefix ./words/,\
   InstantPotVsRiceCooker.md\

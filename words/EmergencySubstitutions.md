@@ -1,6 +1,6 @@
 # Emergency Substitutions
 
-| If you don't have                | Subsgtitute                                     |
+| If you don't have                | Substitute                                     |
 | -------------------------------- | ----------------------------------------------- |
 | 1 T cornstarch (for thickening)  | 2 T allpurpose or gluent-free flour             |
 | 1 t baking powder                | 1/2 t cream of tartar + 1/2 t baking soda       |
