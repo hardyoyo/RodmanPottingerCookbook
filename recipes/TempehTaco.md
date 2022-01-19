@@ -29,7 +29,7 @@ on getting ready for the tacos: you'll want to chop tomatoes, avacado, and
 whatever other fixings you want (lettuce? onion? cheese? definitely salsa).
 Enjoy your tacos!
 
-## HINT ##
+### HINT 
 
 If you don't have time for marinading the Tempeh, add a bit more Lime Juice,
 and cook it up right away, it'll be fine!

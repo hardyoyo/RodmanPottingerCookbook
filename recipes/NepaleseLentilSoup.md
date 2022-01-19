@@ -30,7 +30,7 @@ for 7 minutes. Natural pressure release is better, but you can do a quick
 release if you want. Stir in lemon and cilantro, serve either as a soup, or over
 rice.
 
-## NOTES
+### NOTES
 
 - Almost any sort of recipe ready/diced tomatoes will work, but be careful, some
 of the "fire roasted" options will include spices. "Salsa Style" *will* be spicy

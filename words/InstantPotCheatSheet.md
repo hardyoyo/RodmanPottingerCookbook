@@ -52,16 +52,26 @@ above. *Pay attention to the max fill line*. If soaked, just cover the beans.
 \newpage
 
 ## Rice and Grains in the Instant Pot
-| Food | Quantity | Rice:Water Ratio | Cooking Time | Perfect for 5 | Venting Method |
-| ---- | -------- | ---------------- | ------------ | ------------- | -------------- |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               | Quick Release  |
-|      |          |                  |              |               |                |
+| Food          | Quantity | Rice:Water Ratio | Cooking Time | Perfect for 5 | Venting Method |
+| ------------- | -------- | ---------------- | ------------ | ------------- | -------------- |
+| Barley, pearl | 2 C+     | 1:2.5            | 10 min       | 2:5           | Quick Release  |
+| Congee, thick | 2 C+     | 1.4:1.5          | 15-20 min    | 3:3+          | Quick Release  |
+| Millet        | 2 C+     | 1:1.75           | 1-3 min      | 2:3.5         | Quick Release  |
+| Oats, quick   | 2 C+     | 1:2              | 1-3 min      | 2:4           | Quick Release  |
+| Oats, steel   | 2 C+     | 2:3              | 2-3 min      | 2:3           | Quick Release  |
+| Porridge      | 2 C+     | 1.6:1.7          | 5-7 min      | 2.25:3.5      | Quick Release  |
+| Quinoa        | 2 C+     | 1:2              | 8 min        | 2:4           | Quick Release  |
+| Rice, basmati | 2 C+     | 1:1.5            | 4 min        | 2:3           | Quick Release  |
+| Rice, brown   | 2 C+     | 1:1.25           | 22 min       | 2:2.5         | Quick Release  |
+| Rice, jasmine | 2 C+     | 1:1              | 4 min        | 2:2           | Quick Release  |
+| Rice, white   | 2 C+     | 1:1.5            | 4 min        | 2:3           | Quick Release  |
+| Rice, wild    | 2 C+     | 1:3              | 22 min       | 2:6           | Quick Release  |
+
+The quanity column above might be confusing, it just means: make at least 2 C 
+for these ratios. The "perfect for 5" column already does the math for you, and 
+should be roughly correct. It'll feed 5 people. You'll probably have leftovers, 
+but that's OK, leftovers are awesome! If you're cooking for fewer people, maybe 
+start with the basic ratio and then work from there if you find you haven't 
+cooked enough. Trust your gut, though, if you think you need more food, double 
+it.
+

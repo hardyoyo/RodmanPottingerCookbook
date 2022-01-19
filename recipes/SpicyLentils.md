@@ -29,7 +29,7 @@ lentils, put on cover, hit manual button, set for 15 minutes. When the cooker
 beeps, do a natural release... or a quick release, it doesn't matter, these are
 lentils. When you have the lid open, stir in the lime juice.
 
-## USES, NOTES ##
+### USES, NOTES 
 
 Taco filling, salad topping, or tear up some kale and put it in a tortilla to
 make an awesome wrap. I recommend goddess dressing with a splash of Sriracha as

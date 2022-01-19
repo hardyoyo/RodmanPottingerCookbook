@@ -18,7 +18,7 @@ Dump it all into the cooker, stir, cook for 22 minutes, natural release.
 
 > ![info](./images/info-icon.png) *If you scale up the recipe, don't let it sit long, or the rice will scald.*
 
-## NOTES
+### NOTES
 
 This rice will come out looking a tad too wet. Don't freak out, it's done, just stir the rice a bit, and let it sit... it'll soak up that water.
 

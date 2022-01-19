@@ -8,7 +8,7 @@ BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = cookbook
 METADATA = metadata.yml
-TOC = --toc --toc-depth 1
+TOC = --toc --toc-depth 2
 METADATA_ARGS = --metadata-file $(METADATA)
 IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
@@ -22,6 +22,7 @@ PAGES += $(addprefix ./words/,\
   InstantPotVsRiceCooker.md\
   RoastedVegetables.md\
 	InstantPotCheatSheet.md\
+	EmergencySubstitutions.md\
   Acknowledgements.md\
 )
 

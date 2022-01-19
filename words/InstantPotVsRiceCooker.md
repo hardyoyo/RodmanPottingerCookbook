@@ -7,7 +7,7 @@ to be the same for either appliance.
 
 They both have a sauté button, which makes soups and sauces really easy.
 
-## What the Rice Cooker does well
+### What the Rice Cooker does well
 
 * white rice (comes out perfectly fluffy)
 * oatmeal (ditto, perfect)
@@ -17,7 +17,7 @@ determine whether to stop cooking. This also means it has a small water catcher
 that you'll need to empty after you use it.
 * approved for use in many college dorms ¯\\\_(ツ)_/¯
 
-## What the Instant Pot does well
+### What the Instant Pot does well
 
 * brown rice (comes out softer, better texture)
 * pressure cooking is typically slightly faster than the Rice Cooker

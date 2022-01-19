@@ -13,7 +13,7 @@ go too crazy, probably just salt is fine. Whatever, it's going to be delicious
 no matter what. Place pan on the middle rack of the preheated oven. Stir
 occasionally and cook until tender and lightly browned.
 
-## Roasting time 10-15 minutes
+### Roasting time 10-15 minutes
 | Vegetable       | Size/prep                                                  |
 | --------------- | ---------------------------------------------------------- |
 | Asparugus       | whole, trimmed                       |
@@ -29,7 +29,7 @@ occasionally and cook until tender and lightly browned.
 | Yellow squash   | cut into 1/2 in slices               |
 | Zucchini        | quartered, sliced into 1 in. sticks  |
 
-## Roasting time 15-20 minutes
+### Roasting time 15-20 minutes
 | Vegetable             | Size/prep                                                            |
 | --------------------- | -------------------------------------------------------------------- |
 | Brussels sprouts      | trimmed and halved                                                   |
@@ -41,7 +41,7 @@ occasionally and cook until tender and lightly browned.
 | Mushrooms, portabella | Cut lenthwise into 1/2 slices                                        |
 | Parsnips              | Peeled, cut into thin strips                                         |
 
-## Roasting time 20-30 minutes
+### Roasting time 20-30 minutes
 | Vegetable              | Size/prep                                    |
 | ---------------------- | -------------------------------------------- |
 | Artichokes, *baby*     | trimmed baby artichokes, whole or halved     |
@@ -57,7 +57,7 @@ occasionally and cook until tender and lightly browned.
 | Turnips                | peeled, then cut into 1 in. cubes, or wedges |
 | Yellow onions, *large* | cut into 10-12 wedges                        |
 
-## Roasting time 30-40 minutes
+### Roasting time 30-40 minutes
 | Vegetable       | Size/prep                                                                  |
 | --------------- | -------------------------------------------------------------------------- |
 | Buternut squash | peeled and cut into 1 in. chunks                                           |
@@ -68,7 +68,7 @@ occasionally and cook until tender and lightly browned.
 | Kohlrabi        | peeled and cut into 1 in. cubes                                            |
 | New potatoes    | scrubbed and unpeeled, halved                                              |
 
-## Roasing time 50-60 minutes
+### Roasing time 50-60 minutes
 | Vegetable      | Size/prep                                                                    |
 | -------------- | ---------------------------------------------------------------------------- |
 | Acorn squash   | halved and seeded, cut side up on baking sheet                               |

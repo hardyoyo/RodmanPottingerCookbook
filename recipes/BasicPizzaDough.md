@@ -19,11 +19,11 @@
 
 Use pizza dough cycle, will be done in less than an hour.
 
-## Pizza ##
+### Pizza 
 
 Preheat oven t 450°F, bake for 12-15 minutes
 
-## Par-bake ##
+### Par-bake 
 
 You can make just the crust, and freeze it for later. 350°F oven, 7-10 minutes,
 until toasty (you want it to keep it's shape after it cools). Can freeze the

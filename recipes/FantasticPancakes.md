@@ -24,7 +24,7 @@ are fine. Pour on to a hot griddle or a big skillet if you don't have a griddle.
 Go for about 3-4 in. pancakes, they're fun to eat with your fingers. Or make
 shapes if you need to entertain people, or yourself.
 
-## Options
+### Options
 
 You can substitute Gluten Free flour if you're cooking for someone with a gluten
 sensitivity or preference. You can substitute 2 eggs if you don't have the flax
