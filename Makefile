@@ -51,7 +51,7 @@ PANDOC_COMMAND = pandoc
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
 EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE)
 HTML_ARGS = --template templates/html.html --standalone --to html5
-PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex --include-in-header=includes/left-justify-all-tables-plz.tex
+PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex --include-in-header=includes/table-prefs.tex
 
 # Per-format file dependencies
 

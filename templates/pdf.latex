@@ -40,6 +40,7 @@ $endfor$
 \usepackage{titling}
 \usepackage{fontspec}
 \usepackage{graphicx}
+\usepackage[table]{xcolor}
 % Specify different font for section headings
 \newfontfamily\headingfont[]{Bebas Neue}
 \titleformat*{\section}{\LARGE\headingfont}
