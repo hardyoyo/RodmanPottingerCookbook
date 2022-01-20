@@ -14,6 +14,7 @@ go too crazy, probably just salt is fine. Whatever, it's going to be delicious
 no matter what. Place pan on the middle rack of the preheated oven. Stir
 occasionally and cook until tender and lightly browned.
 
+\rowcolors{2}{gray!20}{white}
 ### Roasting time 10-15 minutes
 | Vegetable       | Size/prep                                                  |
 | --------------- | ---------------------------------------------------------- |
@@ -23,13 +24,13 @@ occasionally and cook until tender and lightly browned.
 | Broccoli        | cut into 1-2 in. pieces              |
 | Garlic          | Peeled and cut into thin slices      |
 | Corn on the cob | Husks removed                        |
-| Leeks           | Tough green tops trimmed off; sliced |
 | Okra, small     | whole, trimmed                       |
 | Radishes        | whole, trimmed                       |
 | Tomatillos      | whole, husks removed                 |
 | Yellow squash   | cut into 1/2 in slices               |
 | Zucchini        | quartered, sliced into 1 in. sticks  |
 
+\rowcolors{2}{gray!20}{white}
 ### Roasting time 15-20 minutes
 | Vegetable             | Size/prep                                                            |
 | --------------------- | -------------------------------------------------------------------- |
@@ -42,6 +43,8 @@ occasionally and cook until tender and lightly browned.
 | Mushrooms, portabella | Cut lenthwise into 1/2 slices                                        |
 | Parsnips              | Peeled, cut into thin strips                                         |
 
+\newpage
+\rowcolors{2}{gray!20}{white}
 ### Roasting time 20-30 minutes
 | Vegetable              | Size/prep                                    |
 | ---------------------- | -------------------------------------------- |
@@ -58,17 +61,20 @@ occasionally and cook until tender and lightly browned.
 | Turnips                | peeled, then cut into 1 in. cubes, or wedges |
 | Yellow onions, *large* | cut into 10-12 wedges                        |
 
+\rowcolors{2}{gray!20}{white}
 ### Roasting time 30-40 minutes
-| Vegetable       | Size/prep                                                                  |
-| --------------- | -------------------------------------------------------------------------- |
-| Buternut squash | peeled and cut into 1 in. chunks                                           |
-| Carrots         | cut into 1 in. slices                                                      |
-| Daikon radishes | peeled and cut into 1/2 in dices                                           |
-| Potaoes, baking | peeled or scrubbed, cut into 1 in slices                                   |
-| Rutabagas       | peeled and cut into 1 in. cubes                                            |
-| Kohlrabi        | peeled and cut into 1 in. cubes                                            |
-| New potatoes    | scrubbed and unpeeled, halved                                              |
+| Vegetable       | Size/prep                                |
+| --------------- | ---------------------------------------- |
+| Buternut squash | peeled and cut into 1 in. chunks         |
+| Carrots         | cut into 1 in. slices                    |
+| Daikon radishes | peeled and cut into 1/2 in dices         |
+| Potaoes, baking | peeled or scrubbed, cut into 1 in slices |
+| Rutabagas       | peeled and cut into 1 in. cubes          |
+| Kohlrabi        | peeled and cut into 1 in. cubes          |
+| New potatoes    | scrubbed and unpeeled, halved            |
+|                 |                                          |
 
+\rowcolors{2}{gray!20}{white}
 ### Roasing time 50-60 minutes
 | Vegetable      | Size/prep                                                                    |
 | -------------- | ---------------------------------------------------------------------------- |

@@ -37,11 +37,27 @@ $for(classoption)$
 $endfor$
 ]{$documentclass$}
 \usepackage{titlesec}
+
+% left/right page numbers
+\usepackage{titleps}
+\renewpagestyle{plain}{%
+\sethead{}{}{}
+\setfoot[\thepage][][]{}{}{\thepage}
+}%
+\pagestyle{plain}
+
 \usepackage{titling}
 \usepackage{fontspec}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{fancyhdr}
+\fancyhead[LE,RO]{\leftmark}
+\fancyhead[RE,LO]{\rightmark}
+% left/right page numbers for fancy pages, too
+\fancyfoot{} % clear footer
+\fancyfoot[LE,RO]{\thepage}
+
+
 % Use dots for the TOC
 \usepackage{tocloft}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
@@ -429,6 +445,11 @@ $endif$
 $if(description)$
 $description$
 \pagebreak
+% blank page after the title page, plz
+\newpage
+\thispagestyle{empty}
+\mbox{}
+\newpage
 $endif$
 $endif$
 
@@ -445,14 +466,17 @@ $if(beamer)$
 $if(toc-title)$
   \frametitle{$toc-title$}
 $endif$
+  \pagebreak
   \tableofcontents[hideallsubsections]
 \end{frame}
+\newpage
 $else$
 {
 $if(colorlinks)$
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
 $endif$
 \setcounter{tocdepth}{$toc-depth$}
+
 \tableofcontents
 \pagebreak
 }

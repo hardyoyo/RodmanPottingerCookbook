@@ -1,4 +1,5 @@
 \pagestyle{fancy}
+\rowcolors{2}{gray!20}{white}
 # Emergency Substitutions
 
 | If you don't have                | Substitute                                     |

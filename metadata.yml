@@ -16,4 +16,6 @@ papersize: letter
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true
+geometry: twoside
+
 ---
