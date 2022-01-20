@@ -1,27 +1,27 @@
 # Instant Pot Cheat Sheets
 
 ## Steaming food in the Instant Pot
-| Food                       | Cooking Time (fresh) | Venting |
-| -------------------------- | -------------------- | ------- |
-| Cauliflower                | 1 min                | Quick   |
-| Corn on the cob            | 1 min                | Quick   |
-| Mixed veggies              | 1 min                | Quick   |
-| Potatoes, *cubed*          | 1 min                | Quick   |
-| Potatoes, small, whole     | 3-5 min              | Quick   |
-| Potatoes, large, whole     | 5-8 min              | Quick   |
-| Squash, butternut, cubed   | 1-2 min              | Quick   |
-| Squash, butternut, halved  | 4-6 min              | Quick   |
-| Sweet Potato, cubed        | 1 min                | Quick   |
-| Sweet Potato, large, whole | 5-8 min              | Quick   |
-| Asparagus, whole or cut    | 1 min                | Quick   |
-| Green beans (or yellow)    | 1 min                | Quick   |
-| Broccoli                   | 2-3 min              | Quick   |
-| Brussels sprouts, whole    | 1 min                | Quick   |
-| Cabbage, wedges            | 1 min                | Quick   |
-| Cabbage, halved            | 3 min                | Quick   |
-| Cabbage, whole             | 4-5 min              | Quick   |
-| Carrots, chunked           | 1-2 min              | Quick   |
-| Carrots, whole             | 3 min                | Quick   |
+| Food                         | Cooking Time (fresh) | Venting |
+| ---------------------------- | -------------------- | ------- |
+| Cauliflower                  | 1 min                | Quick   |
+| Corn on the cob              | 1 min                | Quick   |
+| Mixed veggies                | 1 min                | Quick   |
+| Potatoes, *cubed*            | 1 min                | Quick   |
+| Potatoes, small, *whole*     | 3-5 min              | Quick   |
+| Potatoes, large, *whole*     | 5-8 min              | Quick   |
+| Squash, butternut, *cubed*   | 1-2 min              | Quick   |
+| Squash, butternut, *halved*  | 4-6 min              | Quick   |
+| Sweet Potato, *cubed*        | 1 min                | Quick   |
+| Sweet Potato, large, *whole* | 5-8 min              | Quick   |
+| Asparagus, *whole or cut*    | 1 min                | Quick   |
+| Green beans (or yellow)      | 1 min                | Quick   |
+| Broccoli                     | 2-3 min              | Quick   |
+| Brussels sprouts, *whole*    | 1 min                | Quick   |
+| Cabbage, *wedges*            | 1 min                | Quick   |
+| Cabbage, *halved*            | 3 min                | Quick   |
+| Cabbage, *whole*             | 4-5 min              | Quick   |
+| Carrots, *chunked*           | 1-2 min              | Quick   |
+| Carrots, *whole*             | 3 min                | Quick   |
 
 > ![steamer](./images/steamer-icon.png) Add 1 C of water to the bowl (be sure it's in there), then put food in a steamer
 basket, basket in the cooker, lid on,  press the steam button, set the time as 
