@@ -1,3 +1,4 @@
+\pagestyle{fancy}
 # Essential Tools for your Kitchen
 
 Wooden Spoons

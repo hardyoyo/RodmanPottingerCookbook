@@ -11,9 +11,8 @@ description: |
   not apply to recipes (Google it if you don't believe us), but we will make an
   effort to include attribution when we are able. We ask that you do the same.
   Thanks!
-mainfont: Open Sans
+mainfont: Roboto
 papersize: letter
-
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true

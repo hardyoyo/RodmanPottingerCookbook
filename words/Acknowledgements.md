@@ -1,3 +1,4 @@
+\pagestyle{fancy}
 # Acknowledgements
 
 - Cover sketch by Delia Pottinger

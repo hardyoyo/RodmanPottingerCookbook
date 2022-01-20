@@ -1,5 +1,5 @@
+\pagestyle{fancy}
 # Instant Pot Cheat Sheets
-
 ## Steaming food in the Instant Pot
 | Food                         | Cooking Time (fresh) | Venting |
 | ---------------------------- | -------------------- | ------- |
@@ -22,6 +22,7 @@
 | Cabbage, *whole*             | 4-5 min              | Quick   |
 | Carrots, *chunked*           | 1-2 min              | Quick   |
 | Carrots, *whole*             | 3 min                | Quick   |
+|                              |                      |         |
 
 > ![steamer](./images/steamer-icon.png) Add 1 C of water to the bowl (be sure it's in there), then put food in a steamer
 basket, basket in the cooker, lid on,  press the steam button, set the time as 
@@ -29,7 +30,7 @@ in the table above.
 
 \newpage
 
-## Dry or Soaked Beans and Lentils in the Instant Pot
+## Dry/Soaked Beans and Lentils in the Instant Pot
 | Food                    | Quantity | Dry    | Soaked      | Venting |
 | ----------------------- | -------- | ------ | ----------- | ------- |
 | Black Beans             | 2 C +    | 20 min | 3 min       | Quick   |
@@ -45,6 +46,7 @@ in the table above.
 | Pigeon peas             | 2 C +    | 10 min | 2-3 min     | Natural |
 | Pinto beans             | 2 C +    | 10 min | 2-3 min     | Natural |
 | Soybeans                | 2 C +    | 35 min | 17 min      | Quick   |
+|                         |          |        |             |         |
 
 >![ip](./images/ip-icon.png) Add water with the beans. If dry, completely cover the beans, plus about 2 in
 above. *Pay attention to the max fill line*. If soaked, just cover the beans.

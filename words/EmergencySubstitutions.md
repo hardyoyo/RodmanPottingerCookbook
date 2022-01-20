@@ -1,3 +1,4 @@
+\pagestyle{fancy}
 # Emergency Substitutions
 
 | If you don't have                | Substitute                                     |

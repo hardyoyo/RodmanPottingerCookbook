@@ -1,3 +1,4 @@
+\pagestyle{fancy}
 # Roasted Vegetables
 
 Preheat the oven to 450°F. Grab some parchment paper--*not* waxed paper... if 

@@ -41,6 +41,10 @@ $endfor$
 \usepackage{fontspec}
 \usepackage{graphicx}
 \usepackage{booktabs}
+\usepackage{fancyhdr}
+% Use dots for the TOC
+\usepackage{tocloft}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 \usepackage[table]{xcolor}
 % Specify different font for section headings
 \newfontfamily\headingfont[]{Bebas Neue}
@@ -54,7 +58,7 @@ $if(background-image)$
   \includegraphics[width=\paperwidth]{$background-image$}%
 }
 $endif$
-\usepackage{pgfpages}
+\usepackage{pdfpages}
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{: }
 \setbeamercolor{caption name}{fg=normal text.fg}
