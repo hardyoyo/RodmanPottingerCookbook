@@ -7,6 +7,7 @@
 BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = cookbook
+FINAL_FILENAME = RodmanPottingerFamilyCookbook.pdf
 METADATA = metadata.yml
 TOC = --toc --toc-depth 2
 METADATA_ARGS = --metadata-file $(METADATA)
@@ -44,7 +45,7 @@ CONTENT_FILTERS = tee # can be used with sed to replace content
 # Combined arguments
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
-	
+
 PANDOC_COMMAND = pandoc
 
 # Per-format options
@@ -94,6 +95,9 @@ pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 .PHONY: docx
 docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
+.PHONY: final
+final:  $(BUILD)/pdf/RodmanPottingerFamilyCookbook.pdf
+
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	mkdir -p $(BUILD)/epub
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
@@ -113,4 +117,8 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	mkdir -p $(BUILD)/docx
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
+	@echo "$@ was built"
+
+$(BUILD)/pdf/$(FINAL_FILENAME): $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf $(FINAL_FILENAME).pdf 
 	@echo "$@ was built"
