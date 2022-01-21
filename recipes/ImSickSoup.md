@@ -1,11 +1,11 @@
 # I'm Sick Soup
 
+We came up with this one time when we really wanted something like chicken soup.
+This is better.
+
 *soup*
 
 **8 Servings**
-
-We came up with this one time when we really wanted something like chicken soup.
-This is better.
 
 ---
 

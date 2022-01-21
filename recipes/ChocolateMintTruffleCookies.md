@@ -1,14 +1,14 @@
 # Chocolate Mint Truffle Cookies
 
-*desert*
-
-**60 Servings**
-
 This is a holiday favorite. The mint truffle Hershey's Kisses are a seasonal
 thing, you'll only see them around Christmas. Keep an eye out for their
 appearance, and snag a few, so you can make a batch or two of these. They make
 perfect gifts for neighbors or the mail man, so make a bunch, just try not to
 eat them all at once.
+
+*desert*
+
+**60 Servings**
 
 ---
 

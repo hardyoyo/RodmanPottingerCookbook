@@ -1,11 +1,11 @@
 # Spaghetti Pancake
 
+What's that? You boiled too many noodles? Put them in the fridge and have them
+for breakfast (or lunch, or dinner).
+
 *dinner*
 
 **5 Servings**
-
-What's that? You boiled too many noodles? Put them in the fridge and have them
-for breakfast (or lunch, or dinner).
 
 ---
 
