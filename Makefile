@@ -7,7 +7,7 @@
 BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = cookbook
-FINAL_FILENAME = RodmanPottingerFamilyCookbook.pdf
+FINAL_FILENAME = RodmanPottingerFamilyCookbook
 METADATA = metadata.yml
 TOC = --toc --toc-depth 2
 METADATA_ARGS = --metadata-file $(METADATA)
@@ -96,7 +96,7 @@ pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
 .PHONY: final
-final:  $(BUILD)/pdf/RodmanPottingerFamilyCookbook.pdf
+final:  $(BUILD)/pdf/$(FINAL_FILENAME).pdf
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	mkdir -p $(BUILD)/epub
@@ -119,6 +119,6 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
 	@echo "$@ was built"
 
-$(BUILD)/pdf/$(FINAL_FILENAME): $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
-	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf $(FINAL_FILENAME).pdf 
+$(BUILD)/pdf/$(FINAL_FILENAME).pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf $@
 	@echo "$@ was built"
