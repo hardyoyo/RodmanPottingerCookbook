@@ -10,7 +10,7 @@ description: |
   This is a family cookbook for the Rodman/Pottinger household. Copyright does
   not apply to recipes (Google it if you don't believe us), but we will make an
   effort to include attribution when we are able. We ask that you do the same.
-  Thanks!
+  Thanks! The source code for this cookbook lives at https://github.com/hardyoyo/RodmanPottingerCookbook
 mainfont: Roboto
 papersize: letter
 # Filter preferences:

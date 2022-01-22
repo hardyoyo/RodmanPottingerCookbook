@@ -21,6 +21,7 @@ This fajita filling is also perfect for burritos.
 - *1 T* salsa, any kind
 - *1 T* lime juice
 - *1/4 t* liquid smoke or smoked paprika
+
 ---
 
 Put it all into a medium bowl. Let the Soy Curls soak for about 10 minutes.
