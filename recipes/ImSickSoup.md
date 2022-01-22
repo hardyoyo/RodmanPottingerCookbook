@@ -17,7 +17,8 @@ This is better.
 - *3* carrot (chopped)
 - *10 C* water
 - *4 t* Better than Bouillon
-- *1 T* broth powder
+- *1 T* broth powder or
+- *1* bouillon cube
 - *1 packet of Knorrs Spring Vegetabl Soup (optional)
 - *1 can* chickpeas or
 - *1 block* extra firm tofu
@@ -44,3 +45,13 @@ You *could* do this in an instant pot, but if so, try to just use the sauté
 button and simmer the soup like you would on the stove. The smell of this soup
 is part of the magic. You won't get nearly enough of that if you try to cook
 this under pressure.
+
+### To Make Gluten-free
+
+Use "rice sticks" (wide rice noodles), available at asion food stores. Break the
+noodles into shorter lengths (about 3 inches or less) and soak in a bowl of room
+temperature water for about 30 minutes (which is less than the prep time and
+simmering time, so just start soaking them whenever you remember). When the soup
+is done, as you serve each bowl, add the noodles to the soup in the bowl, so
+they stay firm. Or, if you don't care about firm noodles, dump them into the
+main pot when the soup is done.
