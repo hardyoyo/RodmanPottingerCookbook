@@ -46,7 +46,7 @@ button and simmer the soup like you would on the stove. The smell of this soup
 is part of the magic. You won't get nearly enough of that if you try to cook
 this under pressure.
 
-### To Make Gluten-free
+### Gluten-free Alternative
 
 Use "rice sticks" (wide rice noodles), available at asion food stores. Break the
 noodles into shorter lengths (about 3 inches or less) and soak in a bowl of room
