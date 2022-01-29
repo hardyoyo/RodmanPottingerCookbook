@@ -9,6 +9,7 @@
 - *1 C* short grain brown rice
 - *1 3/4 C* water
 - *1 T* agave nectar
+- *1 T* rice vinegar
 - *3 dashes* salt
 
 ---
