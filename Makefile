@@ -121,5 +121,5 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	@echo "$@ was built"
 
 $(BUILD)/pdf/$(FINAL_FILENAME).pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
-	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf $@
+	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf GroceryList.pdf $@
 	@echo "$@ was built"

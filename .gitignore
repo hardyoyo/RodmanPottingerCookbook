@@ -1,3 +1,5 @@
 build/*
 *.log
 *.pdf
+!Coverpage.pdf
+!GroceryList.pdf
