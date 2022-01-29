@@ -14,5 +14,11 @@ sizes, but be sure there is one big enough for you to mix up a batch of cookie
 dough, or spaghetti pancake.
 
 Spatulas
-: a plastic one is good for non-stick pans, a metal one is nicer (the edge is 
+: A plastic one is good for non-stick pans, a metal one is nicer (the edge is 
 sharper), but should only be used on stainless steel pans, or on cast iron.
+
+Plastic Scrapers
+: A plastic scraper is the perfect tool for cleaning up cast iron pans, it is
+also handy for getting all sorts of other kitchen things clean, like spatulas
+with gunk stuck to them, etc. You need at least one, but we recommend getting a
+bunch, because they're easy to lose.

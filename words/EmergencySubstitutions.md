@@ -6,7 +6,6 @@
 | -------------------------------- | ----------------------------------------------- |
 | 1 T cornstarch (for thickening)  | 2 T allpurpose or gluent-free flour             |
 | 1 t baking powder                | 1/2 t cream of tartar + 1/2 t baking soda       |
-| 1 package active dry yeast       | 1 cake compressed yeast                         |
 | 1 C sugar                        | 1 C brown sugar or 2 C powdered sugar           |
 | 1/4 C dry bread crumbs           | 3/4 C soft bread crumbs or 1/4 C cracker crumbs |
 | 1 C honey                        | 1 1/4 C sugar plus 1/4 C liquid                 |
