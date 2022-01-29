@@ -21,7 +21,8 @@ MATH_FORMULAS =
 PAGES = recipes/*.md
 PAGES += $(addprefix ./words/,\
   InstantPotVsRiceCooker.md\
-	Tools.md\
+  Glossary.md\
+  Tools.md\
   RoastedVegetables.md\
 	InstantPotCheatSheet.md\
 	EmergencySubstitutions.md\
