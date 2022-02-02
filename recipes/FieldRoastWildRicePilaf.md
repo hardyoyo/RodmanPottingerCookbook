@@ -11,7 +11,7 @@
 - *1* package of Field Roast Smoked Apple Sage Sausage, chopped
 - *2* cloves of garlic, chopped (use jarrred, don't be a hero)
 - *2 C* wild rice mix (whatever you can find, bulk is great)
-- *2 1/2* C water
+- *2 1/2 C* water
 - *2 t* Better Than Bouillon or 2 veggie bouillon cubes
 
 ---

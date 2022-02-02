@@ -12,7 +12,7 @@ and is good for you, too.
 - *1* 16 oz. can of tomato sauce
 - *1* 6 oz. can of tomato paste
 - *1* 16 oz. can of water (use the tomato sauce can)
-- *2 1/2* T chilli powder
+- *2 1/2 T* chilli powder
 - *1 T* garlic, minced
 - *1 T* dehydrated onion (chopped, not powdered)
 - *1/4 C* lime juice

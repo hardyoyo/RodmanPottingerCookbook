@@ -48,10 +48,7 @@ this under pressure.
 
 ### Gluten-free Alternative
 
-Use "rice sticks" (wide rice noodles), available at asion food stores. Break the
-noodles into shorter lengths (about 3 inches or less) and soak in a bowl of room
-temperature water for about 30 minutes (which is less than the prep time and
-simmering time, so just start soaking them whenever you remember). When the soup
-is done, as you serve each bowl, add the noodles to the soup in the bowl, so
-they stay firm. Or, if you don't care about firm noodles, dump them into the
-main pot when the soup is done.
+Use "rice sticks" (wide rice noodles). Break the noodles into shorter lengths
+(about 3 inches or less) and soak in a bowl of room temperature water for about
+30 minutes. When the soup is done, as you serve each bowl, add the noodles to
+the soup in the bowl.

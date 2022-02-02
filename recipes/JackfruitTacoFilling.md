@@ -17,7 +17,7 @@
 - *2 t* chili powder
 - *1 t* cumin
 - *1 t* smoked paprika
-- *1/4* salt
+- *1/4 t* salt
 
 ---
 
