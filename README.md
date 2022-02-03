@@ -10,7 +10,7 @@ TLDR, if you're just here for recipes, you can find them in the [recipes](./reci
 * [RecipeMD](https://recipemd.org/): for the excellent markdown recipe format, and a few nice [tools](https://recipemd.org/recommended_tools.html).
 * [Cookie](https://github.com/bbugyi200/cookie): for quickly creating a new recipe
 * [Pandoc](https://pandoc.org/): for converting recipes into PDF files
-* [poppler-utilsa](https://packages.debian.org/sid/poppler-utils): for it's
+* [poppler-utilsa](https://packages.debian.org/sid/poppler-utils): for its
 handy pdf-unite tool, so I can slap the coverpage on the final PDF of the
 cookbook.
 * [Scribus](https://www.scribus.net/): for general typesetting of book pages
