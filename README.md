@@ -38,4 +38,5 @@ that work remains to be done.
 
 `ack "[1-9]\*"` is a good way to find a common  typo in a recipe, it's easy to
 forget to include the units inside the `*1 T *` markup for quantity of
-ingredients... That `ack` search will find those mistakes, so you can fix them.
+ingredients... That [ack](https://beyondgrep.com/) search will find those 
+mistakes, so you can fix them.
