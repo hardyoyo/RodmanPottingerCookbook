@@ -17,8 +17,8 @@ cookbook.
 
 ## How to Use
 
-The Makefile is from the Wikiti Pandoc Book Template, the docs there are good,
-but, here's a terse bit of suggestions:
+The Makefile is from the [Wikiti Pandoc Book Template](https://github.com/wikiti/pandoc-book-template),
+the docs there are good, but, here's a terse bit of suggestions:
 
 `make pdf` will generate the basic cookbook.pdf file, and this is the easiest to
 navigate because the page count matches the page numbers, so jumping to the
