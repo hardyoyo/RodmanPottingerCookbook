@@ -24,8 +24,8 @@ PAGES += $(addprefix ./words/,\
   Glossary.md\
   Tools.md\
   RoastedVegetables.md\
-	InstantPotCheatSheet.md\
-	EmergencySubstitutions.md\
+  InstantPotCheatSheet.md\
+  EmergencySubstitutions.md\
   Acknowledgements.md\
 )
 
