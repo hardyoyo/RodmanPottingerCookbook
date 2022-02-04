@@ -35,6 +35,6 @@ and either air fry them (spray with a bit of olive oil) or pan-fry them in a
 splash of olive oil, until they are crispy without being entirely charred. If 
 you *do* char them, don't worry, they'll still taste good. Boil the noodles.
 When the rice is done, everything should be ready to assemble. Go in this order:
-rice, lentis, mac, sauce, garnish. Or, refer to the cheetsheat below.
+rice, lentils, mac, sauce, garnish. Or, refer to the cheetsheat below.
 
 ![Koshari Cheat Sheet](./images/koshari-cheatsheet.jpg)
