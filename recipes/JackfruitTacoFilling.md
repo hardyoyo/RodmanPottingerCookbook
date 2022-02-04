@@ -25,7 +25,7 @@ Chop the jackfruit into thin slices. Slice them from the core to the edge (like
 you are trying to split a piece of pie that's too big). This will help to give
 a shredded texture. Take a large skillet and heat oil on a medium-high flame.
 Add onions and garlic to hot oil and sauté them for 5 minutes till they turn
-brown and soft. Add jackfruit, water, bouillon, agave, lemon juice, and other
+brown and soft. Add jackfruit, water, bouillon, agave, lime juice, and other
 spices and cover. Reduce the heat to a minimum until half of the liquid is
 evaporated and jackfruit becomes soft. Using a potato masher, mash the jackfruit
 to get them shredded. If the jackfruit is wet, cook them more and if they seem
