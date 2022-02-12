@@ -1,7 +1,7 @@
 # Breakfast Casserole
 
 from
-http://www.aberdeenskitchen.com/2019/03/easy-vegetarian-hash-brown-breakfast-casserole/
+aberdeenskitchen.com/2019/03/easy-vegetarian-hash-brown-breakfast-casserole/
 
 While this seems like it would take a while to cook, it's the perfect thing to
 make if you're already puttering in the kitchen anyway. Most of the time is
