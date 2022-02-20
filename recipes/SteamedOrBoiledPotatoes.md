@@ -12,6 +12,10 @@
 
 ---
 
+DO NOT TRY TO USE THIS RECIPE WITH THE RICE COOKER. POTATOES ARE TOO BIG AND
+DENSE TO STEAM EFFECTIVELY IN A RICE COOKER. YOU NEED A PRESSURE COOKER LIKE THE
+INSTANT POT FOR THIS RECIPE.
+
 Scrub/wash potatoes well, stab them a bit with a fork (you're making vent
 holes). Add water to cooker, put potatoes in a steamer basket. Cook on
 steam setting for 10 minutes. Natural release. Check tenderness with a fork, if
