@@ -19,8 +19,8 @@ waiting, so... you can stack this with other things.
 - *1* bell pepper, diced (or any sort of colorful pepper you might have)
 - *1* small onion, diced
 - *2 t* garlic, minced
-- *1 C* colby jack cheese, shredded
-- *1 C* mozzarella cheese, shredded
+- *1 C* colby jack cheese, shredded, for crust
+- *1 C* mozzarella cheese, shredded, for topping
 - *1 t* salt
 - *1/8 t* pepper
 - *1/8 t* paprika
@@ -28,7 +28,7 @@ waiting, so... you can stack this with other things.
 
 ---
 
-Preheat oven to 450°F. Grease a 9x13 in baking dish. Pour hashbrowns into the
+Preheat oven to 450°F. Grease a 8x8 in baking dish. Pour hashbrowns into the
 baking dish and press into an even layer. Evenly drizzle with olive oil and
 sprinkle with salt. Bake in preheated oven for 30 minutes, until edges are just
 starting to turn brown. Remove from heat and cool for 5 minutes. Reduce heat of
@@ -41,3 +41,9 @@ cheeses. Bake another 35 minutes until the center of the casserole is set in the
 middle and the edges are bubbling. If it seems like it might need a bit more
 time, turn off the oven and let it sit in the cooling oven for about 5 more
 minutes. Take it out and let it cool for 5 more minutes, then serve and eat!
+
+### NOTES ###
+If you decide to scale up this recipe so it fits into a 13x9 baking dish,
+you'll be using about 16 eggs. Also, don't forget that half the cheese goes on
+the hashbrown crust. This gives the casserole a lot more structure. It's OK if
+you forget and put all the cheese on top, it'll still taste great.

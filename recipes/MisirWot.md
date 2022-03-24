@@ -1,4 +1,4 @@
-# Misir Wot
+# Misir Wot {#MisirWot}
 
 from https://ministryofcurry.com/ethiopian-spicy-lentil-stew-instant-pot/
 
