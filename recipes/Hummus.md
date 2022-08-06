@@ -1,6 +1,6 @@
 # Basic Hummus
 
-From: https://www.epicurious.com/recipes/food/views/hummus-237832
+from: https://www.epicurious.com/recipes/food/views/hummus-237832
 
 *staple*
 

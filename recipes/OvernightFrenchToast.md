@@ -1,6 +1,6 @@
 # Overnight French Toast
 
-From: https://www.thepioneerwoman.com/food-cooking/recipes/a10733/baked-french-toast/
+from: https://www.thepioneerwoman.com/food-cooking/recipes/a10733/baked-french-toast/
 but we've dialed back the fat and sugar, because, really.
 
 *breakfast, crowd pleaser*

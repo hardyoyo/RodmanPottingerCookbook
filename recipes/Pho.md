@@ -1,6 +1,6 @@
 # Pho (Vietnamese Soup)
 
-From: https://cookieandkate.com/vegetarian-pho-recipe/
+from: https://cookieandkate.com/vegetarian-pho-recipe/
 
 *soup, Instant Pot*
 
