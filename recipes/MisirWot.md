@@ -13,7 +13,7 @@ the lentils into a thick paste, then thinning it to the consistency you want.
 
 - *2 C* red lentils
 - *2 T* olive oil or ghee
-- *1* red onion
+- *1* red onion, chopped
 - *2 t* ginger, grated
 - *4 t* garlic, minced
 - *2 T* berbere spice blend
