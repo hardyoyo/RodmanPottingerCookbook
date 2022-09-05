@@ -51,7 +51,4 @@ use it for the frosting). Whisk well to remove any clumps. Add the softened
 vegan butter and mix with a hand mixer until creamed and well combined. Add 
 half of the powdered sugar and half of the almond milk, and mix until combined. 
 Add the rest of the powdered sugar and vanilla extract. Mix starting on low, 
-and turn to high. Mix until fluffy and combined. If the frosting seems too dry, 
-add more milk, a tablespoon or two at a time. If the frosting seems too wet and 
-doesn't hold it's shape, add more powdered sugar until it thickens up. Frost 
-the cake using an icing spatula or just a butter knife.
+and turn to high. Mix until fluffy and combined.
