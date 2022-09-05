@@ -10,8 +10,8 @@
 - *1/4 t* sesame oil
 - *1* onion, chopped
 - *1 t* garlic, minced
-- *2 C* vegetable broth
 - *1* 15 oz can recipe ready tomatoes
+- *1 can* water (slightly less than 1 can if you're going for Dal)
 - *1* 13 oz can of coconut milk
 - *1 C* red lentils
 - *2 t* ginger (minced)
@@ -36,3 +36,6 @@ rice.
 of the "fire roasted" options will include spices. "Salsa Style" *will* be spicy
 hot. Which is fine, if that's what you want, but spicy Dal isn't everyone's cup
 of tea.
+- If you're going for Dal instead of soup (thicker texture) don't add an entire
+can of water, try slightly less than a full can.
+- START THE RICE FIRST!

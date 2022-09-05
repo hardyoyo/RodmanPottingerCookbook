@@ -17,12 +17,13 @@ This is our usual, "anything goes", chilli recipe.
 - *1 C* mushrooms, sliced (optional)
 - *1* can of diced tomatoes
 - *3* 15 oz cans of beans, any kind
-- *2 C* water
+- *1.5 C* water
 - *2 t* Better than Bouillon or 1-2 bouillon cubes
-- 1 T chilli powder
-- 1 T paprika
-- 1 t smoked paprika
-- 1/8 C TVP (optional)
+- *1 T* chilli powder
+- *1 T* paprika
+- *1 t* smoked paprika
+- *1/8 C* TVP (optional)
+- *1 small can* diced green chillies (optional)
 
 ---
 

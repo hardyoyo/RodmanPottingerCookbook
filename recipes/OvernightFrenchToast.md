@@ -44,6 +44,3 @@ minutes for a softer, more bread pudding texture or for 1 hour-plus or more for
 a firmer, crisper texture.
 
 This will smell amazing, and will probably wake people up.
-
-Scoop out individual portions. Top with butter, drizzle with warm pancake
-syrup, and sprinkle with blueberries.

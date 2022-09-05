@@ -2,7 +2,7 @@
 
 AKA "Daddy's Famous Pasta"
 
-*pasta sauce, vegan*
+*pasta sauce, can be vegan*
 
 **5 Servings**
 
@@ -14,7 +14,8 @@ AKA "Daddy's Famous Pasta"
 - *2T* Olive Oil
 - *1 t* Garlic, minced
 - *1/4 t* Salt
-- *2 T* Parmesan Cheese
+- *2 T* Parmesan Cheese (substitute 1 T Nutritional Yeast for vegan)
+- *1/8 t* Nutmeg (don't overdo this)
 
 ---
 

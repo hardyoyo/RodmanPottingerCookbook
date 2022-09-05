@@ -43,3 +43,8 @@ refrigerate up to 24 hours. Remove plastic wrap and cover with foil. Bake in a
 
 Can be frozen, but if you do, be sure to thaw it out before you try to cook it,
 then follow the directions above.
+
+### MAKE 2, ONE WITH GLUTEN-FREE NOODLES
+
+Two stockpots, only cook about half of each package of noodles. Use two 8x8 in.
+casserole dishes.

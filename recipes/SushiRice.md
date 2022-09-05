@@ -41,7 +41,7 @@ this up.
 | ingredient                   | 4 rolls | 6 rolls | 8 rolls |
 | ---------------------------- | ------- | ------- | ------- |
 | short grain brown rice       | 2 C     | 3 C     | 4 C     |
-| water                        | 3 1/2 C | 5 1/4 C | 7 C     |
+| water                        | 3 1/4 C | 4 3/4 C | 6 C     |
 | agave nectar                 | 2 T     | 3 T     | 4 T     |
 | rice vinegar                 | 2 T     | 3 T     | 4 T     |
 | salt                         | 1/4 t   | 3/8 t   | 1/2 t   |

@@ -2,7 +2,7 @@
 
 from: https://www.wellandgood.com/vegan-lemon-rice-soup-recipe/amp/
 
-*soup, vegan*
+*soup, vegan, Instant Pot*
 
 **5 Servings**
 
@@ -25,15 +25,13 @@ from: https://www.wellandgood.com/vegan-lemon-rice-soup-recipe/amp/
 
 ---
 
-Heat the olive oil in a large heavy-bottomed pot over medium heat. Add the
-onions, carrots, and celery. Cook until soft and translucent, five minutes.
-Add garlic, oregano, salt, and pepper. Cook until fragrant, one to two minutes.
+Heat the olive oil in an Instant Pot on sauté. Add the onions, carrots, and 
+celery. Cook until soft and translucent, five minutes. Add garlic, oregano, 
+salt, and pepper. Cook until fragrant, one to two minutes.
 
 Stir in the zucchini, rice, and bay leaves until well incorporated, about one
-more minute. Add the vegetable broth and water and bring the mixture to a boil.
+more minute. Add the water and Better than Bouillon, put the lid on the cooker,
+and set it for 20 minutes.
 
-Reduce heat to a low simmer and cook covered until rice is fluffy and
-vegetables are soft, 30 minutes.
-
-Remove from heat and stir in as much of the lemon juice as you’d like. Garnish
+Open the lid, stir in as much of the lemon juice as you’d like. Garnish
 with chopped parsley and lemon slices, if desired. Serve immediately.

@@ -12,7 +12,7 @@ from http://www.thefresh20.com/
 - *4* carrots, diced
 - *1* onion, diced
 - *4* garlic cloves, minced (use jared minced garlic, it's easy)
-- *1* chipotle pepper in adobo, minced (freeze the leftovers, makes it easier to handle)
+- *1 t* chipotle pepper in adobo, minced (freeze the leftovers, makes it easier to handle)
 - *2 T* tomato paste (freeze the leftovers in 2T chunks)
 - *1 t* Cumin
 - *1* bay leaf
