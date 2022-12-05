@@ -1,4 +1,4 @@
-# Vegan Tteokbokki
+# Tteokbokki
 
 from https://www.thecheaplazyvegan.com/vegan-tteokbokki/
 

@@ -1,4 +1,4 @@
-# Vegan Japchae
+# Japchae
 
 *Gluten Free, Vegan, Noodles, Korean*
 
