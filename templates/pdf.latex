@@ -38,6 +38,10 @@ $endfor$
 ]{$documentclass$}
 \usepackage{titlesec}
 
+% we like indexes
+\usepackage{makeidx}
+\makeindex
+
 % left/right page numbers
 \usepackage{titleps}
 \renewpagestyle{plain}{%

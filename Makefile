@@ -28,6 +28,7 @@ PAGES += $(addprefix ./words/,\
   InstantPotCheatSheet.md\
   EmergencySubstitutions.md\
   Acknowledgements.md\
+  Index.md\
 )
 
 # Recipe content

@@ -1,0 +1,5 @@
+\pagestyle{fancy}
+# Index
+
+\printindex
+
