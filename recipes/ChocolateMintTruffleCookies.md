@@ -28,7 +28,7 @@ eat them all at once.
 
 ---
 
-Preheat oven o 350°F. Line a baking sheet with a silicone mat or parchment
+Preheat oven to 350°F. Line a baking sheet with a silicone mat or parchment
 paper. In a bowl, whisk together flour, cocoa powder, baking powder, baking
 soda, and salt. Set aside. Combine sugar, cream cheese and melted butter in a
 large bowl and whisk until the mixture forms a smooth paste. Whisk in oil. Add
