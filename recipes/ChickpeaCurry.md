@@ -1,8 +1,8 @@
-# Chickpea Curry
+# Basic Chickpea Curry
 
-from: The Modern Ayurvedic Cookbook, page 141
+adapted from The Modern Ayurvedic Cookbook, by Amrita Sondhi
 
-*curry*
+*Indian, Curry*
 
 **6 Servings**
 
