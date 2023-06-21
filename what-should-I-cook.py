@@ -4,7 +4,8 @@ import click
 import os
 import subprocess
 
-RECIPES_HOME = "/Users/hpotting/workspace/cookbook/recipes"
+# use the RECIPES_HOME environment variable if it exists, otherwise assume the current working directory is fine
+RECIPES_HOME = os.getenv('RECIPES_HOME', os.getcwd())
 
 
 @click.command()
@@ -58,6 +59,9 @@ def show_recipe(recipe):
     # You can modify this command based on how you want to display the recipe
     command = f"rich {recipe}"
     subprocess.run(command, shell=True, cwd=RECIPES_HOME)
+
+    # skip a line, it looks better that way
+    print()
 
 # Function to clear the screen based on the operating system
 def clear_screen():
