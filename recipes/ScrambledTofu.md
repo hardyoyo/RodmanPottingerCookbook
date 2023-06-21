@@ -1,8 +1,8 @@
 # Scrambled Tofu
 
-*breakfast, Vegan, Gluten-free*
-
 from: The Chicago Diner Cookbook, by Chef Jo A. Kaucher
+
+*breakfast, Vegan, Gluten-free*
 
 **4 Servings**
 
