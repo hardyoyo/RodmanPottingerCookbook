@@ -46,7 +46,6 @@ def generate_search_query(ingredients):
 
 def parse_recipes(output):
     # Parse the output of the recipemd-find command to extract the recipe choices
-    # You may need to adapt this parsing logic based on the actual output format
     return output.strip().split("\n")
 
 
@@ -56,7 +55,6 @@ def show_recipe(recipe):
     clear_screen()
 
     # Execute a command to display the details of the selected recipe
-    # You can modify this command based on how you want to display the recipe
     command = f"rich {recipe}"
     subprocess.run(command, shell=True, cwd=RECIPES_HOME)
 
