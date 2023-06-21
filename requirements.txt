@@ -1,4 +1,4 @@
 recipemd
 click
-rich
+rich-cli
 
