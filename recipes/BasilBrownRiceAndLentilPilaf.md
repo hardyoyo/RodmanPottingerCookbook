@@ -35,3 +35,6 @@ while you wait.
 
 Resist the urge to add any other spices to this recipe. The basil is the star of
 the show, let it shine.
+
+After the natural release is done, stir in the nutritional yeast. If you're not
+vegan, you can use parmesean cheese instead. Or both, both works.
