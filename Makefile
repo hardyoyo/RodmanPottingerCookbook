@@ -32,7 +32,7 @@ PAGES += $(addprefix ./words/,\
 
 # Recipe content
 #  - ensure there is a pagebreak at the end of every recipe
-CONTENT = awk 'FNR==1 && NR!=1 {print "\n\pagebreak\n\n"}{print}' $(PAGES)
+CONTENT = awk 'FNR==1 && NR!=1 {print "\n\\pagebreak\n\n"}{print}' $(PAGES)
 CONTENT_FILTERS = tee # can be used with sed to replace content
 
 # Debugging
