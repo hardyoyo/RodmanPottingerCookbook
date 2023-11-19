@@ -28,3 +28,20 @@ used that has worked well.
 That's it, that's the plan: Misir Wot, then one or two other dishes. If you want
 to really explore Ethiopian Cuisine, we recommend the book Teff Love by Kittee
 Berns.
+
+
+\newpage
+## Holidays
+
+Having a bunch of people over for a big holiday meal has some unique logistics
+challenges. You'll probably ask folks to bring a side dish, however, assuming
+you're a vegetarian, someone is going to want to bring meat. And it's nearly
+certain someone is going to bring something that needs to pop into the oven at
+some point. So, your goal is to move as many things as you can into crock pots,
+or an instant pot or rice cooker in slow cooker mode.
+
+Instead of typing up a plan, I'm going to paste a scan of the handwritten notes
+from Debbie, which we've used for years. This will hopefully inspire you to make
+your own plan, or you can just borrow ours.
+
+![Thanksgiving Cheat Sheet](./images/thanksgiving-cheatsheet.jpg)
