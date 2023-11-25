@@ -10,6 +10,7 @@
 - *2 C* water for the cooker
 
 ---
+
 This is a single-serving recipe, but you can make as many servings as you can
 find mugs to fit in the instant pot. So far, the most we've made in one go is 3
 mugs. If you find exactly the right size/shape mug (triangles would be perfect)
