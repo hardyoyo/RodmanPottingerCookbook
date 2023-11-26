@@ -38,3 +38,4 @@ When the rice is done, everything should be ready to assemble. Go in this order:
 rice, lentils, mac, sauce, garnish. Or, refer to the cheetsheat below.
 
 ![Koshari Cheat Sheet](./images/koshari-cheatsheet.jpg)
+\label{Koshari}

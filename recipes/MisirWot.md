@@ -34,3 +34,4 @@ followed by natural pressure release. Open Instant Pot, Stir everything. Add
 more water to bring the stew to desired consistency. Mix well. Garnish with
 chopped cilantro and squeeze fresh lime juice on top before serving with
 steamed rice or bread
+\label{misir-wot}

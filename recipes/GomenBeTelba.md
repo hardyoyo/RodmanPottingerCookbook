@@ -41,3 +41,5 @@ thickened and the greens are very tender, about 5 minutes longer. Season to
 taste with salt and pepper.
 
 Try to finish this dish up in a day or so, it doesn't keep well in the fridge.
+
+\label{gomem-be-telba}

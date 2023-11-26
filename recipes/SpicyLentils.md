@@ -35,7 +35,7 @@ Taco filling, salad topping, or tear up some kale and put it in a tortilla to
 make an awesome wrap. I recommend goddess dressing with a splash of Sriracha as
 a sauce for the wrap.
 
-This is also one of the main ingredients in [Koshari](./Koshari.md).
+This is also one of the main ingredients in [Koshari](./Koshari.md) (see page \pageref{Koshari}).
 
 If you can only find a 7 oz. can of Chipotle peppers, don't fret, just chop the
 entire can, then keep the extra in a small jar in the fridge, because I can
