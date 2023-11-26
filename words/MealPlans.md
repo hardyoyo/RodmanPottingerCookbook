@@ -46,3 +46,7 @@ from Debbie, which we've used for years. This will hopefully inspire you to make
 your own plan, or you can just borrow ours.
 
 ![Thanksgiving Cheat Sheet](./images/thanksgiving-cheatsheet.jpg)
+
+Here are some recipes you should consider making:
+
+Holiday Roast (see page \pageref{holiday-roast}
