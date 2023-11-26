@@ -32,6 +32,40 @@ That's it, that's the plan: Misir Wot, then one or two other dishes. If you want
 to really explore Ethiopian Cuisine, we recommend the book _Teff Love_ by Kittee
 Berns.
 
+## Fancy Ass Pasta !
+
+This is super easy, but involves a lot of moving parts, so here's the plan.
+
+1. Start boiling two pots of water for pasta choices. One for gluten-free
+   noodles, one for regular noodles.
+2. Get stuff ready: 2 glass bowls for the pasta, pasta forks, collander in the
+   sink, all plastic stuff out of the sink.
+3. Slice and sauté some add-ins: mushrooms are good, so is spinach. For the
+   spinach, add some olive oil and garlic, and a splash of Braggs.
+4. Water is probably boiling, the gluten-free noodles will be done faster
+   than the regular noodles, so start them first.
+5. Set a timer for the GF noodles. The time will be on the package.
+6. Make sauce (see Creamy Pesto Sauce, on page \pageref{creamy-pesto-sauce}).
+7. If making a sauce feels overwhelming at this point, it's cool, just heat up
+   some red sauce from a jar. It'll all be great. Actually, you can do both,
+   mixing sauces is fun and tasty.
+8. When the timer goes off for the GF pasta, dump it into the collander, then
+   transfer to a glass bowl.
+9. Put about half of the sauce on the GF pasta, and let your GF eaters know it's
+   ready, because GF pasta needs to be eaten quickly. But don't forget the other
+   pot of noodles!
+10. The other pasta should be ready, dump it into the collander, then transfer
+    to another glass bowl.
+11. Put the other half of the sauce on the regular pasta. Let everyone know food
+    is ready to eat. Put add-ins in serving bowls if you want to be fancy about it.
+12. Enjoy, you've earned it.
+
+Warm bread really sends this one over the top. If you have some french bread
+and/or GF french bread, definitely work that into the plan. I'd recommend
+pre-heating the oven first. I'd probably put the bread in at step 2.
+
+Like I said, lots of moving parts. But worth it.
+
 
 \newpage
 ## Holidays
@@ -53,4 +87,7 @@ Here are some recipes you should consider making:
 
 * Holiday Roast (see page \pageref{holiday-roast})
 * Kale and Brussels Sprout Salad (see page \pageref{kale-and-brussels-sprout-salad})
+* Slow-Cooker Brown-Sugared Baby Carrots (see page \pageref{slow-cooker-brown-sugared-baby-carrots})
+* Pumpkin Pie with Pecan Oat Crust (see page \pageref{pumpkin-pie-with-pecan-oat-crust})
+* Five Minute Gluten-Free Gravy (see page \pageref{gravy})
 
