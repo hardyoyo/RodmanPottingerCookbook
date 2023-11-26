@@ -17,7 +17,8 @@
 - *1 pinch* salt
 - *1/3 C* sliced almonds, toasted
 - *1/3 C* dried cranberries
-- *sprinkle* parmesean cheese, as a garnish, optional
+- parmesean cheese, as a garnish, optional
+
 ---
 
 Dressing: in a pint jar, add olive oil, lemon juice, vinegar, mustard, agave,
