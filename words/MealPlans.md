@@ -34,11 +34,11 @@ Berns.
 \newpage
 ## Holidays
 
-Having a bunch of people over for a big holiday meal has some unique logistics
-challenges. You'll probably ask folks to bring a side dish, however, assuming
-you're a vegetarian, someone is going to want to bring meat. And it's nearly
-certain someone is going to bring something that needs to pop into the oven at
-some point. So, your goal is to move as many things as you can into crock pots,
+Having a bunch of people over for a big holiday meal has some unique challenges.
+You'll probably ask folks to bring a side dish, however, assuming you're a
+vegetarian, someone is going to want to bring meat. And it's nearly certain
+someone is going to bring something that needs to pop into the oven at some
+point. So, your goal is to move as many things as you can into crock pots,
 or an instant pot or rice cooker in slow cooker mode.
 
 Instead of typing up a plan, I'm going to paste a scan of the handwritten notes
@@ -49,4 +49,6 @@ your own plan, or you can just borrow ours.
 
 Here are some recipes you should consider making:
 
-Holiday Roast (see page \pageref{holiday-roast}
+* Holiday Roast (see page \pageref{holiday-roast})
+* Kale and Brussels Sprout Salad (see page \pageref{kale-and-brussels-sprout-salad})
+
