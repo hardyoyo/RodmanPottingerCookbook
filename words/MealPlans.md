@@ -25,7 +25,8 @@ used that has worked well.
    on 425°F, coat a roasting pan or glas baking dish with a bit of olive oil,
    sprinkle more olive oil on the veggies and toss them, sprinkle some salt,
    pepper, roasted garlic powder, and berbere (careful with the last one, it's
-   *the* spice for Ethiopian food, but it's also spicy hot).
+   *the* spice for Ethiopian food, but it's also spicy hot). Roast for about
+   20-30 minutes.
 
 That's it, that's the plan: Misir Wot, then one or two other dishes. If you want
 to really explore Ethiopian Cuisine, we recommend the book Teff Love by Kittee
