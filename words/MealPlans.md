@@ -17,8 +17,9 @@ used that has worked well.
    juice and a dash of salt as a dressing. Add more veggies if you have 'em
    (maybe a bit of the red onion from the Misir Wot?).
 3. If you have some greens of some sort (Kale, Mustard, Collard) You can make
-   [Gomen Be'telba](#gomen-be-telba) (see page \pageref{gomen-be-telba}) or Ye'Tikil
-   Gomen Be'karot.
+   [Gomen Be'telba](#gomen-be-telba) (see page \pageref{gomen-be-telba}) or if
+   you have cabbage, you can make Ye'Tikil Gomen Be'Karot (see page
+   \pageref{ye-tikil-gomen-be-karot}).
 4. Roasting some veggies is a really easy way to add another dish to this feast.
    Chop up some carrots and potatoes, and zucchini if you have any, set the oven
    on 425°F, coat a roasting pan or glas baking dish with a bit of olive oil,
