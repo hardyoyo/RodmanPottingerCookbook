@@ -44,3 +44,10 @@ mistakes, so you can fix them.
 
 `ack --ignore-file ext:css "\b([a-zA-Z]+'?[a-zA-Z]+)\s+\1\b"` is a good way to
 find repeated words, like the dreaded `the the`.
+
+`grep -Pzl '(?s)^#[^\n]*\n\n\*.*\*' *.md` when run inside the recipes folder,
+will give you a list of the recipes that are missing attribution lines.
+
+`grep -Pzol '(?s)(?<!\n)\n---\n(?!.*---\n)' *.md` when run inside the recipes
+folder, will give you a list of the recipes that do not have blank lines around
+the horizontal rules in them, which is a very common error for recipemd files.

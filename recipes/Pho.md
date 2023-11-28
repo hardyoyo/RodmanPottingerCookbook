@@ -20,6 +20,7 @@ from: https://cookieandkate.com/vegetarian-pho-recipe/
 - Pho spices satchet (from an Asian grocery store)
 - Garnishes (mung bean sprouts, basil or cilantro, thinly sliced green onion,
 carrots, jalapeno, small wedges of lime)
+
 ---
 
 Set the instant pot to sauté. Sauté the onion until it's just turning brown,

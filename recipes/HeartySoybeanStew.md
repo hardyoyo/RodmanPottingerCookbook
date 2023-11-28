@@ -1,5 +1,7 @@
 # Hearty Soybean Stew
 
+from _Korean Vegetarian Cooking_ by Shin Kim
+
 *korean, soup*
 
 **8 Servings**

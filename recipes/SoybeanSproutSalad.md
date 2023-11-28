@@ -1,5 +1,7 @@
 # Soybean Sprout Salad
 
+from _Korean Vegetarian Cooking_ by Shin Kim
+
 *korean, salad, side-dish*
 
 **6 Servings**
