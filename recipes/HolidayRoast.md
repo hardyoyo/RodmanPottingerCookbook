@@ -32,7 +32,7 @@ pausing about half way to scrape down the sides with a spatula (just remember,
 the S blade is sharp, so try not to ruin your spatula). Once the wet mixture has
 fully combined, add the chickpea flour to the mix and process for about 45-60
 seconds, until a thick and uniform mixture forms. Transfer the mixture to the
-bread loaf paan. Press the mixture into the pan until it fills it completely and
+bread loaf pan. Press the mixture into the pan until it fills it completely and
 evenly. It doesn't have to be perfectly smooth, but you don't want huge lumps.
 Bake for 30 minutes. Remove the bread pan and reduce the temperature of the oven
 to 350°F. Flip the pan onto a parchment-lined baking sheet, and dump out the
