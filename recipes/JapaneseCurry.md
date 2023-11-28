@@ -1,6 +1,6 @@
-# Gluten-Free Vegan Japanese Curry
+# Japanese Curry
 
-*gluten-free, vegani, instant pot*
+*gluten-free, vegan, instant pot*
 
 **8 Servings**
 
