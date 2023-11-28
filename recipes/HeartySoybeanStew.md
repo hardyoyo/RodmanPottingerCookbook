@@ -14,7 +14,7 @@
 - *8* oz. of button mushrooms, cut into medium dice
 - *3-4 C* vegetable stock, or water and bouilion
 - *1* block of extra firm tofu, pressed and cut into medium dice
-- 1 jalapeno pepper, thinly sliced, optional, for garnish
+- *1* jalapeno pepper, thinly sliced, optional, for garnish
 - Jasmine rice, for serving
 
 ---
