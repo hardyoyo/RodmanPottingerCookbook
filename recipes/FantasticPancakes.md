@@ -1,5 +1,8 @@
 # Fantastic Vegan Pancakes
 
+This has been in our recipe collection on an index card forever. Don't know
+where it's from.
+
 *breakfast, vegan*
 
 **5 Servings**
@@ -28,5 +31,5 @@ shapes if you need to entertain people, or yourself.
 
 You can substitute Gluten Free flour if you're cooking for someone with a gluten
 sensitivity or preference. You can substitute 2 eggs if you don't have the flax
-seeds, or don't care about being vegan, but, you really should have flax seeds 
+seeds, or don't care about being vegan, but, you really should have flax seeds
 handy.

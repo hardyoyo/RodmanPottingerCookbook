@@ -1,5 +1,9 @@
 # Crunchy Cornbread
 
+Not sure where this recipe is from. I think I gave it the name when I typed it
+up 20 years ago. We've been making it longer than that. The flax seed is an egg
+substitute, but combining it with all the liquid ingredients is a nice speed-up.
+
 *quickbread*
 
 **8-12 Servings**

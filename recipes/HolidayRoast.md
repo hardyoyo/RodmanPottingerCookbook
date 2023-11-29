@@ -1,5 +1,7 @@
 # Holiday Roast
 
+From: https://frommybowl.com/homemade-vegan-holiday-roast/print/9480/
+
 *Gluten-Free, Vegan*
 
 **6 Servings**
@@ -40,6 +42,6 @@ tofu. Use a pastry brush to lightly cover the top and sides with your baste.
 Return the tofu to the oven and bake an additional 30-35 minutes until the
 exterior has browned and the tofu feels firm to the touch. Remove from oven when
 you think it's ready, and let it sit for at least 5 minutes to set before
-slicing. 
+slicing.
 
 \label{holiday-roast}

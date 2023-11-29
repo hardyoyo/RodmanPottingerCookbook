@@ -1,5 +1,9 @@
 # Black Bean Soup
 
+Based loosely on the Black Bean Soup recipe in _The New Laurel's Kitchen_ by
+Laurel Robertson, Carol Flinders and Brian Ruppenthal, but the timings are from
+the tiny Instant Pot cookbook that comes with the cooker.
+
 *instant pot*
 
 **6 Servings**

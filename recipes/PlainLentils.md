@@ -1,5 +1,7 @@
 # Plain Lentils
 
+This one Hardy just typed up, it's so simple. The ultimate late night snack.
+
 *staple*
 
 **2 Servings**

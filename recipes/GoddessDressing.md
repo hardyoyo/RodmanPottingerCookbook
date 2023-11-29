@@ -1,5 +1,8 @@
 # Goddess Dressing
 
+from:
+http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.html
+
 *salad dressing, gluten-free*
 
 **12 Servings**

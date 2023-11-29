@@ -1,5 +1,8 @@
 # Quick-Soaked Cashew Cheese Alternative
 
+The recipe is mostly from _This Cheese is Nuts_ by Julie Piatt, but I rewrote 
+the instructions to emphasize her speedy alternative instructions.
+
 *staple*
 
 **5 Servings**

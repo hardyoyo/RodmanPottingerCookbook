@@ -1,5 +1,7 @@
 # Five Minute Gluten-Free Gravy
 
+From: https://www.glutenfreepalate.com/5-minute-gravy-4-ingredients/
+
 *sauce, gluten-free*
 
 **8 Servings**

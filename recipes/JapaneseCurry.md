@@ -1,5 +1,7 @@
 # Japanese Curry
 
+From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
+
 *gluten-free, vegan, instant pot*
 
 **8 Servings**

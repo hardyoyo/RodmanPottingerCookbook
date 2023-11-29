@@ -1,5 +1,7 @@
 # Drop Biscuits
 
+from _Nikki and David Goldbeck's American Wholefoods Cuisine_ by Nikki Goldbeck
+
 *breakfast*
 
 **5 Servings**
@@ -18,7 +20,7 @@
 
 Preheat oven to 425°F. Combine dry ingredients, and stir them until they are
 well-mixed. Stir in oil until mixture is crumbly. Add sweetener and enough milk 
-to make a soft dough (might not need the  amount specified, depends on the 
-weather. Scoop 2 in. sized balls of dough with a spoon and drop onto a lightly 
-greased baking sheet (or use a silicone baking sheet liner). Bake for about 12 
+to make a soft dough (might not need the  amount specified, depends on the
+weather. Scoop 2 in. sized balls of dough with a spoon and drop onto a lightly
+greased baking sheet (or use a silicone baking sheet liner). Bake for about 12
 minutes until browned. Stay nearby, don't burn your biscuits!

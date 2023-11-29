@@ -1,5 +1,10 @@
 # Basil, Brown Rice and Lentil Pilaf
 
+Hardy made this one up, when a coworker gave him a massive amount of basil. It
+used to be way more complex, until Debbie figured out we could cook the lentils
+and the rice at the same time, in the same pot. It doesn't have to be vegan, if
+you don't mind cheese, substitute parmesean cheese for nutritional yeast.
+
 *instant pot, vegan, gluten-free*
 
 **8 Servings**
