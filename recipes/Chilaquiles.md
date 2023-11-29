@@ -8,7 +8,7 @@ A great way to use up corn tortillas.
 ---
 
 - *12* corn tortillas (or more)
-- *1/2* 8oz. can of green chillies
+- *Half* 8oz. can of green chillies
 - *1 t* garlic, minced
 - *1 T* olive oil
 - *1* large onion
