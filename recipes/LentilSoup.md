@@ -26,7 +26,7 @@ celery, you can substitute lots more garlic if you don't have celery.
 ---
 
 Set instant pot to saute, add oil, saute the garlic, add onions, saute until
-translucent or a bit brown at edges, add carots and celery, saute one minute
+translucent or a bit brown at edges, add carrots and celery, saute one minute
 more, add water, beans, everything else, put on the lid, hit the manual button
 and adjust cook time to 7 minutes. Now, think of a side to cook, or start
 slicing bread.
