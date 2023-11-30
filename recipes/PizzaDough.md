@@ -1,5 +1,7 @@
 # Basic Pizza Dough
 
+From _The Breadman's Health Bread Book_ by George Burnett
+
 *bread machine*
 
 **5 Servings**

@@ -1,5 +1,7 @@
 # Sweet Potato and Black Bean Empanadas
 
+From _The Complete Gluten-Free Vegan Cookbook_ by Justin Weber
+
 *vegan, gluten-free*
 
 **15 Servings**

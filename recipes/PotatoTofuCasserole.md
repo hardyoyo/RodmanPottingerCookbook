@@ -1,5 +1,7 @@
 # Potato/Tofu Casserole
 
+From _Vegetariana_ by Nava Atlas
+
 *main dish*
 
 **5 Servings**

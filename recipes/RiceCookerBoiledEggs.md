@@ -1,5 +1,7 @@
 # Rice Cooker Boiled/Steamed Eggs
 
+From the cookbook that comes with the cooker.
+
 *Rice Cooker*
 
 ---

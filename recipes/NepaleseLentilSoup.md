@@ -1,5 +1,9 @@
 # Nepalese Lentil Soup (AKA Dal)
 
+Hardy synthesized this recipe from several found online. We usually make this
+slightly thicker and eat it as Dal, but it does make a nice soup if you add
+enough water.
+
 *Instant Pot, soup*
 
 **5 Servings**
@@ -11,7 +15,8 @@
 - *1* onion, chopped
 - *1 t* garlic, minced
 - *1* 15 oz can recipe ready tomatoes
-- *1 can* water (slightly less than 1 can if you're going for Dal)
+- *1 can* water (slightly less than 1 can if you're going for Dal, more if you
+want soup))
 - *1* 13 oz can of coconut milk
 - *1 C* red lentils
 - *2 t* ginger (minced)
