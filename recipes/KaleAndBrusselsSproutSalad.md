@@ -1,5 +1,7 @@
 # Kale and Brussels Sprout Salad
 
+from: https://www.bonappetit.com/recipe/kale-and-brussels-sprout-salad
+
 *salad*
 
 **8 Servings**
