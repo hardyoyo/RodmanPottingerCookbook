@@ -12,7 +12,7 @@ from http://www.thefresh20.com/
 - *4* carrots, diced
 - *1* onion, diced
 - *4* garlic cloves, minced (use jared minced garlic, it's easy)
-- *1 t* chipotle pepper in adobo, minced (freeze the leftovers, makes it easier to handle)
+- *1 t* chipotle pepper in adobo, minced (refrigerate the leftovers, makes it easier to handle)
 - *2 T* tomato paste (freeze the leftovers in 2T chunks)
 - *1 t* Cumin
 - *1* bay leaf
@@ -29,7 +29,7 @@ lentils, put on cover, hit manual button, set for 15 minutes. When the cooker
 beeps, do a natural release... or a quick release, it doesn't matter, these are
 lentils. When you have the lid open, stir in the lime juice.
 
-### USES, NOTES 
+### USES, NOTES
 
 Taco filling, salad topping, or tear up some kale and put it in a tortilla to
 make an awesome wrap. I recommend goddess dressing with a splash of Sriracha as

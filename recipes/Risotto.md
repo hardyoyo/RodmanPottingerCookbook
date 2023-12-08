@@ -13,6 +13,7 @@ from them, but this version is pretty much all Hardy.
 - *3 C* Arborio Rice
 - *6 C* Water
 - *3 t* Better Than Bouillon or broth powder
+- *1 t* Mushroom Powder (optional)
 - *1* Onion, chopped
 - *1 t* Garlic, minced
 - *1* swig of White Cooking Wine
@@ -24,11 +25,20 @@ from them, but this version is pretty much all Hardy.
 
 ---
 
-Sauté the onion in olive oil until translucent (about 5 minutes), add rice,
-toast the rice... it's done when it goes from clear to a bit brown at edges, and
-smells nice and toasty. Add a swig of white cooking wine to deglaze (optional,
-if you don't have wine, don't sweat it, you can deglaze with the water, which is
-the exact next thing you're going to add).  Add broth/water, stir, close cooker,
-cook for 7 minutes at high pressure. Open cooker with a fast release. Melt 1T of
-butter, margarine or goat cheese. Add Parmesean cheese or nutritional yeast,
-stir. Add nutmeg, stir again, and serve.
+Sauté the onion in olive oil until translucent (about 5 minutes), add garlic and
+mushroom power (if using). Sauté 30 seconds more, then add rice, toast the rice.
+It's done when it goes from white to clear, and a bit brown at edges, and smells
+nice and toasty. Add a swig of white cooking wine to deglaze (optional, if you don't have
+wine, don't sweat it, you can deglaze with the water, which is the exact next
+thing you're going to add).  Add broth/water, stir, close cooker, cook for 7
+minutes at high pressure. Open cooker with a fast release. Melt 1T of butter,
+margarine or goat cheese. Add Parmesean cheese or nutritional yeast, stir. Add
+nutmeg, stir again, and serve.
+
+To scale this recipe back a bit:
+
+2 C rice
+4 C water
+1 1/2 t Better than Bouillon or broth power
+1/2 onion
+1/2 t garlic, minced

@@ -33,5 +33,6 @@ cooker, sauté the onion, cellery and carrot. When the onion looks like it's
 getting a bit brown, add in whatever else you're adding (peppers, chillies,
 mushrooms) and sauté a bit more until it all smells good, add the spices, add
 the tomatoes, add the beans, add the TVP. Pop on a lid, hit the chilli button,
-set the time for 3 minutes. Natural release. Maybe make some corn bread while
-you wait.
+set the time for 3 minutes (longer if you put in lots of fresh tomatoes, or any
+frozen suff... if you did, 10 minutes should do it). Natural release. Maybe
+make some corn bread while you wait.

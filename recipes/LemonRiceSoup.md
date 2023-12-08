@@ -14,10 +14,10 @@ from: https://www.wellandgood.com/vegan-lemon-rice-soup-recipe/amp/
 - *3* celery stalks, chopped
 - *3 t* garlic, minced
 - *1/2 t* oregano
-- *1 t* salt
+- *1/4 t* salt
 - *1/2 t* black pepper
 - *1* zucchini, chopped
-- *1/2 C* short-grain rice
+- *3/4 C* short-grain rice
 - *2* bay leaves
 - *6 C* water
 - *2 t* Better than Bouillon

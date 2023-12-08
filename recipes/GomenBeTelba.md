@@ -41,5 +41,9 @@ thickened and the greens are very tender, about 5 minutes longer. Season to
 taste with salt and pepper.
 
 Try to finish this dish up in a day or so, it doesn't keep well in the fridge.
+Neither does Injera (the large flat bread, made with Teff). You can freeze the
+Injera... Gomen Be'Telba doesn't freeze well.
+
+See also Misir Wat (page \pageref{misir-wat}).
 
 \label{gomem-be-telba}

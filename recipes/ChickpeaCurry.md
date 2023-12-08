@@ -18,16 +18,17 @@ adapted from The Modern Ayurvedic Cookbook, by Amrita Sondhi
 - *1/2 t* garam masala
 - *1/4 t* cayenne pepper, or to taste
 - *1 t* lemon juice
+- *1* 8oz can of tomato sauce
 - *1/4 C* cilantro leaves, chopped
 
 ---
 
 In a large skillet on medium, heat the oil. Add onions and sauté until they
 start to brown, 3-4 minutes. Add ginger and spices (except the cilantro), and
-sauté for another minute. Add chickpeas (including liquid from the can), bring
-to a boil, then reduce heat to medium-low and simmer about 20 minutes. When
-chickpeas are tender but not mushy, add lemon juice and adjust for salt. Garnish
-with cilantro and serve.
+sauté for another minute. Add chickpeas (including liquid from the can) and
+tomato sauce, bring to a boil, then reduce heat to medium-low and simmer about
+20 minutes. When chickpeas are tender but not mushy, add lemon juice and adjust
+for salt. Garnish with cilantro and serve.
 
 ### CURRY SEASONING NOTE
 

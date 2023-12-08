@@ -33,5 +33,8 @@ Instant Pot lid with pressure valve to sealing. Cook on Manual for 15 minutes
 followed by natural pressure release. Open Instant Pot, Stir everything. Add
 more water to bring the stew to desired consistency. Mix well. Garnish with
 chopped cilantro and squeeze fresh lime juice on top before serving with
-steamed rice or bread
+steamed rice or bread.
+
+See also see Gomen Be'Telba (page \pageref{gomem-be-telba}).
+
 \label{misir-wot}

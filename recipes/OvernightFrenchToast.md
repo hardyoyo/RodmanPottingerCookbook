@@ -9,15 +9,13 @@ but we've dialed back the fat and sugar, because, really.
 
 ---
 
-- *1 T* ingredient
-
 - *1* loaf crusty sourdough or French bread (gluten-free is fine)
 - *8* eggs
-- *2 C* milk
+- *2 1/2 C* milk
 - *1/4 C* sugar
 - *1/4 C* brown sugar
 - *2 T* vanilla extract
-- *1/4 C* flour (gluten-free is fine)
+- *1/4 C* flour (gluten-free is fine, but be sure you used GF bread, too)
 - *1/4 C* firmly packed brown sugar
 - *1 t* cinnamon
 - *1/4 t* salt
@@ -28,7 +26,7 @@ but we've dialed back the fat and sugar, because, really.
 
 For the French toast: Grease the baking pan with butter. Tear the bread into
 chunks, or cut into cubes, and evenly distribute in the pan. Crack the eggs in
-a big bowl. Whisk together the eggs, milk, cream, granulated sugar, brown sugar
+a big bowl. Whisk together the eggs, milk, granulated sugar, brown sugar
 and vanilla. Pour evenly over the bread. Cover the pan tightly and store in the
 fridge until needed (overnight preferably). Or you can make it and bake it
 right away---delicious no matter what!

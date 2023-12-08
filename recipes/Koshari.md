@@ -14,7 +14,7 @@ from: [Nikki & David Goldbeck's American Wholefoods Cuisine](https://isbn.nu/045
 - *4 C* Spicy Lentils
 - *2 C* cooked elbow macaroni
 - *1* 16 oz. can of fire-roasted diced tomatoes
-- *1* 8 oz. can of tomato sauce
+- *1* 16 oz. can of tomato sauce
 - *1 t* agave
 - *1 t* salt
 - *1 t* chili powder
