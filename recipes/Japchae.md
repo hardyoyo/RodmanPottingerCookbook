@@ -40,3 +40,11 @@ in the mushrooms and carrot, fry for a minute. Add in the zucchini and
 scallions, fry for another minute. Turn down the heat a bit, add in the noodles,
 spinach, tofu and sauce. Toss and cook until the sauce is all soaked up. Serve
 and garnish with sesame seeds.
+
+> ![info](./images/info-icon.png) *Use 2 colanders to "blanch" the spinach in
+"easy mode": put your spinach in a large colander, then put a smaller colander
+on top, and put your colander stack in the sink. Drain your noodles in the
+stacked colanders, and your spinach will be perfectly blanched by the boiling
+water. You might think you only have one colander, but you can always improvise
+something to make this idea work. Even if you have to use a coffee filter for
+the top colander.
