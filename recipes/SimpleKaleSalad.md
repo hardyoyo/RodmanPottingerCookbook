@@ -30,3 +30,8 @@ because you're adding a dressing. Sprinkle with some salt and massage the kale
 with your clean fingers unil the kale softens a bit. Drizzle the dressing over
 the kale and toss well. Add the almonds and dried fruit. Toss again and serve,
 with a shake-jar of parmesean cheese at hand, for any non-vegans.
+
+If you want a slightly more substantial kale-based salad, check out Kale and
+Brussels Sprout Salad, on page \pageref{kale-and-brussels-sprout-salad}.
+
+\label{simple-kale-salad}

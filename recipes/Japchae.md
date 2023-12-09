@@ -47,4 +47,4 @@ on top, and put your colander stack in the sink. Drain your noodles in the
 stacked colanders, and your spinach will be perfectly blanched by the boiling
 water. You might think you only have one colander, but you can always improvise
 something to make this idea work. Even if you have to use a coffee filter for
-the top colander.
+the top colander.*

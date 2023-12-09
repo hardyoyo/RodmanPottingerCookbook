@@ -34,4 +34,7 @@ untilit's time to eat. When ready, mix the dressing into the salad, top with
 almonds and cheese (or nutritional yeast if this will be vegan), and more salt
 and pepper to suit your taste.
 
+If you want a lighter kale-based salad, check out Simple Kale Salad, on page \pageref{simple-kale-salad}.
+
+
 \label{kale-and-brussels-sprout-salad}
