@@ -11,7 +11,7 @@ from: [Nikki & David Goldbeck's American Wholefoods Cuisine](https://isbn.nu/045
 ---
 
 - *4 C* cooked brown rice
-- *4 C* Spicy Lentils
+- *4 C* Spicy Lentils (see page \pageref{spicy-lentils}).
 - *2 C* cooked elbow macaroni
 - *1* 16 oz. can of fire-roasted diced tomatoes
 - *1* 16 oz. can of tomato sauce

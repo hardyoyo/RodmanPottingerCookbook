@@ -27,3 +27,6 @@ it evenly to form a tight cake. Cook pancake over medium-low heat until its
 bottom is golden brown, about 10 minutes. Divide the pancake into 4 sectors, and
 turn it one section at a time. Brown the pancake on the other side, 3-5 minutes.
 Serve with ketchup.
+
+
+\label{spachetti-pancake}
