@@ -18,7 +18,7 @@ dish that traditionally isn't vegan.
 - *2* carrots, chopped (optional)
 - *1* Onion small, sliced thinly
 - *3 T* Gluten-free Gochujang Korean red pepper paste
-- *1 T* Gochugaru Korean red chili pepper flakes (optional) or use more gochujang
+- *2 t* Gochugaru Korean red chili pepper flakes (optional) or use more gochujang
 - *2 T* Tamari
 - *2 T* Agave Nectar or maple syrup
 - *1 T* Garlic minced
