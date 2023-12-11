@@ -32,3 +32,5 @@ This stuff doesn't *melt* so, you'll want to keep it warm, and then top
 whatever you're adding "cheese" to, like a pizza, or a casserole, after
 it has finished cooking and is still warm. If you're going for "drizzle"
 be sure to add enough water to the "cheese" so it'll actually do that.
+
+\label{cheese-alternative}
