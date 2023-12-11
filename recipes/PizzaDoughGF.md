@@ -49,4 +49,4 @@ pizza) that's the best choice for this dough. It will come out perfectly crispy.
 From our experience, topping your GF pizza should be pretty spare: a few veggies
 and a drizzle of sauce on top of them, after the pizza is cooked, will work out
 best. Try a drizzle of Quick-Soaked Cashew Cheese Alternative (see page
-\pageref{cheese-alernative}). Or just Olive Oil and Sea Salt.
+\pageref{cheese-alternative}). Or just Olive Oil and Sea Salt.
