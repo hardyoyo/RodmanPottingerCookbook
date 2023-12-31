@@ -49,7 +49,7 @@ this up.
 | rice vinegar                 | 2 T     | 3 T     | 4 T     |
 | salt                         | 1/4 t   | 3/8 t   | 1/2 t   |
 
-If you use *real* sushi rice, it's a white rice, so 1:1 ration, cook for 5
+If you use *real* sushi rice, it's a white rice, so 1:1 ratio, cook for 5
 minutes in the cooker, 10 minutes natural release. In the rice cooker, you just
 hit the "white rice" button and let it do its thing. Remember 1:1 ratio of rice
 to water, all other ingredients are the same. It works great!
