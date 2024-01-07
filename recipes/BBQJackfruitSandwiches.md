@@ -28,7 +28,7 @@ https://www.peacefuldumpling.com/recipe/vegan-crock-pot-recipes-bbq-pulled-jackf
 
 ---
 
-Drain the cans of jackfruit in a collandr, set aside. In a bowl add the garlic, 
+Drain the cans of jackfruit in a collander, set aside. In a bowl add the garlic, 
 onion, ketchup, oil, molasses, sugar, rice vinegar, spices, salt and pepper. 
 Stir until it's a sauce. Place the drained jackfruit and the sauce in a
 crockpot, making sure to gently coat all the jackfruit in the sauce evenly. Set
