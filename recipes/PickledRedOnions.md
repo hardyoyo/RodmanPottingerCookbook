@@ -14,6 +14,7 @@ From: https://www.allrecipes.com/recipe/262197/pickled-red-onions
 - *1 t* Agave syrup
 - *5* whole black peppercorns
 - *1* pint mason jar
+
 ---
 
 Gather all ingredients. Thinly slice red onion. Pack onion slices into a clean 1
