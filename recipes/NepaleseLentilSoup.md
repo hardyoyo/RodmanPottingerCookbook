@@ -44,3 +44,6 @@ of tea.
 - If you're going for Dal instead of soup (thicker texture) don't add an entire
 can of water, try slightly less than a full can.
 - START THE RICE FIRST!
+- See also see Brown Lentil Dal (page \pageref{brown-lentil-dal}),
+and Chickpea Curry (page \pageref{chickpea-curry}).
+\label{nepalese-lentil-soup}

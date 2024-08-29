@@ -3,6 +3,8 @@
 The kind you get in the store is full of oil and fat. This tastes a lot better,
 and is good for you, too.
 
+\label{enchilada-sauce}
+
 *sauce*
 
 **5 Servings**

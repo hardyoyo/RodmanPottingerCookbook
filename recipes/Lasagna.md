@@ -1,4 +1,4 @@
-# Basic Lasagna
+# Lasagna
 
 This classic is from the _Better Homes and Gardens New Cook Book, 10th Edition_
 There are still copies of this edition available, from thrift stores who sell

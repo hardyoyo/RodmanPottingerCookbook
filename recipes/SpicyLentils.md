@@ -16,7 +16,7 @@ from http://www.thefresh20.com/
 - *2 T* tomato paste (freeze the leftovers in 2T chunks)
 - *1 t* Cumin
 - *1* bay leaf
-- *3-4 C* vegetable broth (just enough to cover the lentils)
+- *4 C* vegetable broth
 - *2 C* brown lentils
 - *2 T* lime juice
 

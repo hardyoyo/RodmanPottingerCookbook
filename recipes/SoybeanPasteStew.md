@@ -1,4 +1,4 @@
-# Hearty Soybean Stew
+# Soybean Paste Stew
 
 from _Korean Vegetarian Cooking_ by Shin Kim
 
@@ -14,7 +14,7 @@ from _Korean Vegetarian Cooking_ by Shin Kim
 - *2* medium potatoes, peeled and cut into small dice
 - *2* medium zucchini, cut into small dice
 - *8* oz. of button mushrooms, cut into medium dice
-- *3-4 C* vegetable stock, or water and bouilion
+- *7-8 C* vegetable stock, or water and bouilion
 - *1* block of extra firm tofu, pressed and cut into medium dice
 - *1* jalapeno pepper, thinly sliced, optional, for garnish
 - Jasmine rice, for serving
@@ -30,4 +30,11 @@ and it's no big deal if there's a little bit of foam. Add tofu, bring to boil
 again, remove from heat, serve hot with rice, garnish with peppers for anyone
 who wants to add some heat or a tasty/peppery crunch.
 
-\label{hearty-soybean-stew}
+> ![info](./images/info-icon.png) *This soup has a reputation for being
+"stinky", mostly because the soybean paste can have a very powerful smell,
+especially when you're starting out with the soup. It will quickly moderate, and
+smell really amazing. Trust us. Some versions of soybean paste have been
+moderated for western kitchens, but, really, if it smells like a lot, that's a
+good sign, you're cooking with authentic Korean soybean paste. Gaja!*
+
+\label{soybean-paste-stew}

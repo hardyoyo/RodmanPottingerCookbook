@@ -1,4 +1,4 @@
-# Basic Chickpea Curry
+# Chickpea Curry
 
 adapted from The Modern Ayurvedic Cookbook, by Amrita Sondhi
 
@@ -8,7 +8,7 @@ adapted from The Modern Ayurvedic Cookbook, by Amrita Sondhi
 
 ---
 
-- *1 can* Chickpeas
+- *1 can* Chickpeas (or more, fill the skillet!)
 - *2 T* olive oil
 - *1 small* onion, minced
 - *1 T* ginger, minced
@@ -37,3 +37,8 @@ tumeric, cumin and coriander... with maybe some other additions like garam
 masala. This recipe aims for a very specific taste, so you'll be mixing those
 spices, to get the curry just right. Remember this recipe, if you have a recipe
 that calls for curry powder, you can just make your own.
+
+See also see Brown Lentil Dal (page \pageref{brown-lentil-dal}),
+and Nepalese Lentil Soup (aka Dal) (page \pageref{nepalese-lentil-soup}).
+
+\label{chickpea-curry}

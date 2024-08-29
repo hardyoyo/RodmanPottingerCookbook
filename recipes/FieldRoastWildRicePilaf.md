@@ -22,7 +22,7 @@ Field Roast and a Beyond Brat on the side, let people choose.
 
 ---
 
-Sauté onion in the cooker. Add garlici (if you're using it). Add field roast
+Sauté onion in the cooker. Add garlic (if you're using it). Add field roast
 sauté a minute more. Add rice, brown a bit more (3 or 4 minutes), stirring
 constantly. Add water and bouillon, put on the lid, lock it, cook for 20
 minutes, let it natural release.

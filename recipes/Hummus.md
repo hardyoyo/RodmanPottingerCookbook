@@ -1,4 +1,4 @@
-# Basic Hummus
+# Hummus
 
 from: https://www.epicurious.com/recipes/food/views/hummus-237832
 

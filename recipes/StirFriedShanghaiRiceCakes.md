@@ -19,7 +19,7 @@ From https://drivemehungry.com/stir-fried-shanghai-rice-cakes-chao-nian-gao/
 - *2 T* GF Dark Soy Sauce (or just use more Tamari)
 - *2 T* GF Oyster Sauce
 - *2 t* brown sugar
-- *3/4* brown rice vinegar
+- *3/4 t* brown rice vinegar
 - *3 t* garlic, minced
 
 ---
@@ -30,7 +30,7 @@ cooks more evenly. If you'd prefer the green onion to be smaller, that's fine,
 it's up to you. If you're using dried rice cakes, soak them about 3 hours before
 eating, OR overnight. Any sort of rice cake is improved by a soak in water, so
 whatever rice cake you're using, soak them in water for 30 minutes. There's a
-lot of chopping here, start the rice cakes soaking, then start thechopping,
+lot of chopping here, start the rice cakes soaking, then start the chopping,
 they'll be ready to use when you get around to them. Oh, at some point, separate
 the rice cakes that are stuck together... they won't unstick while you cook
 them, so handle that now. After chopping, mix the sauce ingredients in a bowl

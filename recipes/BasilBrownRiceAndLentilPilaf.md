@@ -43,3 +43,11 @@ the show, let it shine.
 
 After the natural release is done, stir in the nutritional yeast. If you're not
 vegan, you can use parmesean cheese instead. Or both, both works.
+
+
+> ![info](./images/info-icon.png) *You can make this on the road with
+ingredients from Walmart. They sell a can of cooked lentils, and they have brown
+rice in a bag, canned tomatoes, and a tube of chopped basil, if you can't find
+fresh basil. It's OK to skip the nutritional yeast if you're winging it on the
+road. We made this on vacation in Halifax, NS, in a tiny apartment, and it was
+really a nice treat.*
