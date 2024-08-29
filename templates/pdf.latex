@@ -38,6 +38,9 @@ $endfor$
 ]{$documentclass$}
 \usepackage{titlesec}
 
+% some packages need to use calc, but don't seem to load it, so we do it for them here
+\usepackage{calc}
+
 % left/right page numbers
 \usepackage{titleps}
 \renewpagestyle{plain}{%

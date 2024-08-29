@@ -44,6 +44,6 @@ Try to finish this dish up in a day or so, it doesn't keep well in the fridge.
 Neither does Injera (the large flat bread, made with Teff). You can freeze the
 Injera... Gomen Be'Telba doesn't freeze well.
 
-See also Misir Wat (page \pageref{misir-wat}).
+See also Misir Wat (page \pageref{misir-wot}).
 
 \label{gomem-be-telba}
