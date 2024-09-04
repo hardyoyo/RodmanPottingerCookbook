@@ -3,3 +3,4 @@ build/*
 *.pdf
 !Coverpage.pdf
 !GroceryList.pdf
+.venv/
