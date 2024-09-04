@@ -347,9 +347,9 @@
         }
       }
     },
-    "texlive.combined.scheme-minimal@latest": {
-      "last_modified": "2023-10-25T20:49:13Z",
-      "resolved": "github:NixOS/nixpkgs/75a52265bda7fd25e06e3a67dee3f0354e73243c#texlive.combined.scheme-minimal",
+    "texlive.combined.scheme-full@latest": {
+      "last_modified": "2023-11-05T21:02:37Z",
+      "resolved": "github:NixOS/nixpkgs/803429df05d70634744f2518f3c4fff4d77792c7#texlive.combined.scheme-full",
       "source": "devbox-search",
       "version": "2022-final",
       "systems": {
@@ -357,41 +357,41 @@
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/z3r5gf8mchj8rxgfl10ihi2skj86lscz-texlive-combined-minimal-2022-final",
+              "path": "/nix/store/2j47pcrwd8vnbh2s05g0nyivhis2gzqq-texlive-combined-full-2022-final",
               "default": true
             }
           ],
-          "store_path": "/nix/store/z3r5gf8mchj8rxgfl10ihi2skj86lscz-texlive-combined-minimal-2022-final"
+          "store_path": "/nix/store/2j47pcrwd8vnbh2s05g0nyivhis2gzqq-texlive-combined-full-2022-final"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/mw5q6frqk5s2l812ls5832c6s06ad3m7-texlive-combined-minimal-2022-final",
+              "path": "/nix/store/800b7j12wcidvilhm9bizj2jxy34cyg5-texlive-combined-full-2022-final",
               "default": true
             }
           ],
-          "store_path": "/nix/store/mw5q6frqk5s2l812ls5832c6s06ad3m7-texlive-combined-minimal-2022-final"
+          "store_path": "/nix/store/800b7j12wcidvilhm9bizj2jxy34cyg5-texlive-combined-full-2022-final"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/q41jyzzxb0y5sj60xs9a02sbpbi9hkxl-texlive-combined-minimal-2022-final",
+              "path": "/nix/store/37vqawx795b25mr7i6cf7yk00yfxyq5q-texlive-combined-full-2022-final",
               "default": true
             }
           ],
-          "store_path": "/nix/store/q41jyzzxb0y5sj60xs9a02sbpbi9hkxl-texlive-combined-minimal-2022-final"
+          "store_path": "/nix/store/37vqawx795b25mr7i6cf7yk00yfxyq5q-texlive-combined-full-2022-final"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/qavz2smmq85qmw9inm55zqr4f6zwff6c-texlive-combined-minimal-2022-final",
+              "path": "/nix/store/8j83m0yn3aakwndj2y75n73ndd3l7kz3-texlive-combined-full-2022-final",
               "default": true
             }
           ],
-          "store_path": "/nix/store/qavz2smmq85qmw9inm55zqr4f6zwff6c-texlive-combined-minimal-2022-final"
+          "store_path": "/nix/store/8j83m0yn3aakwndj2y75n73ndd3l7kz3-texlive-combined-full-2022-final"
         }
       }
     },
