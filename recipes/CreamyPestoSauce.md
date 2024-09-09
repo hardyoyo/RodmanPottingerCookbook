@@ -1,6 +1,6 @@
 # Creamy Pesto Sauce
 
-AKA "Daddy's Famous Pasta"
+from: The Saucy Vegetarian, by Joanne Stepaniak
 
 *pasta sauce, can be vegan*
 
@@ -8,7 +8,7 @@ AKA "Daddy's Famous Pasta"
 
 ---
 
-- *1* package of self-stable/Silken Tofu
+- *1* package of shelf-stable/Silken Tofu
 - *2T* fresh Basil (or 1 T of pesto sauce from a jar)
 - *2T* Miso, sweet white
 - *2T* Olive Oil
@@ -22,5 +22,7 @@ AKA "Daddy's Famous Pasta"
 Combine all ingredients in a blender, and process until fairly smooth.
 
 This makes for a lightning-fast dinner, and is a very common meal at our house.
+
+When our kids were young, we called this "Dad's famous Pasta."
 
 \label{creamy-pesto-sauce}
