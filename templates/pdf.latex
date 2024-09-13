@@ -66,7 +66,7 @@ $endfor$
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 \usepackage[table]{xcolor}
 % Specify different font for section headings
-\newfontfamily\headingfont[]{Bebas Neue}
+\newfontfamily\headingfont[ Path = fonts/ ]{BebasNeue-Regular}
 \titleformat*{\section}{\LARGE\headingfont}
 \titleformat*{\subsection}{\large\headingfont}
 \titleformat*{\subsubsection}{\headingfont}
