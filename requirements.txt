@@ -1,4 +1,5 @@
 recipemd
 click
 rich-cli
+pdfreader
 
