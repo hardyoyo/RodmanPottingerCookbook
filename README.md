@@ -16,6 +16,21 @@ cookbook.
 * [Scribus](https://www.scribus.net/): for general typesetting of book pages
 * [Wikiti Pandoc Book Template](https://github.com/wikiti/pandoc-book-template)
 
+## Getting Started
+
+This project includes a [Devbox](https://www.jetify.com/devbox/docs/quickstart/) configuration, to help you get a development environment going.
+
+Steps to get the cookbook running on your local machine, with Devbox
+1. Make sure [Devbox](https://www.jetify.com/devbox/docs/quickstart/) is
+   installed
+2. `devbox shell` downloads requirements and launches a devbox development environment 
+3. skip down to the "how to use" section for commands you can run
+
+NOTE: The first time you run `devbox shell` may take a while to complete due to 
+Devbox downloading prerequisites and package catalogs required by Nix. This 
+delay is a one-time cost, and future invocations and package additions should 
+resolve much faster.
+
 ## How to Use
 
 The Makefile is from the [Wikiti Pandoc Book Template](https://github.com/wikiti/pandoc-book-template),
