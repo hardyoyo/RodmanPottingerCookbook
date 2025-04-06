@@ -52,3 +52,5 @@ while you're at work, you'll just have to trust your luck.
 If you get tired of this recipe, grab the book, there's a few more Biga-based
 recipes in it, and it's a great book. Me, I'm lazy, and this is a good system,
 it works for me.
+
+\label{SemolinaCountryBread}
