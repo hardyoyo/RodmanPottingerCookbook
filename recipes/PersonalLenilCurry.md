@@ -8,7 +8,7 @@
 
 - *1 t* olive oil
 - *1/2* onion, chopped (freeze the other half)
-- *1* roma tomato, chapped
+- *1* roma tomato, chopped
 - *1* small Jalepeńo, chopped
 - *1 t* garlic, minced
 - *1/4 t* red curry paste (optional)
