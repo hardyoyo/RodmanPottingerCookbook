@@ -15,7 +15,7 @@
 - *1/2 t* curry powder
 - *1/4 C* red lentils
 - *1 C* water
-- *1/2 t* Better than Bouillion or broth powsder
+- *1/2 t* Better than Bouillion or broth powder
 - A few leaves of fresh cilantro if you have it
 - *1/8 t* salt
 
