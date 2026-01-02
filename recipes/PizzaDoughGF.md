@@ -1,4 +1,4 @@
-# Gluten-Free Pizz Dough
+# Gluten-Free Pizza Dough
 
 From: Gluten-Free Artisan Bread in Five Minutes a Day by Jeff Hertzberg, MD and
 Zoė François

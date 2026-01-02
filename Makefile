@@ -15,7 +15,7 @@ IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
 INCLUDES = $(shell find includes/ -type f)
 COVER_IMAGE = images/cover.png
-MATH_FORMULAS = 
+MATH_FORMULAS =
 
 ## START WITH ALL THE RECIPES, THEN THE WORDS
 PAGES = recipes/*.md
@@ -69,14 +69,18 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 # Basic actions
 ####################################################################################################
 
-.PHONY: all
-all:	book
+.PHONY: help all book clean epub html pdf docx final
 
-.PHONY: book
+help:	## -- Display this help message
+	@echo "Available targets:"
+	@grep -E '^[a-zA-Z_-]+:.*## --' $(MAKEFILE_LIST) | \
+		awk 'BEGIN {FS = ":.*## -- "}; {printf "  %-15s %s\n", $$1, $$2}'
+
+all:	book ## -- Build all formats
+
 book:	epub html pdf docx
 
-.PHONY: clean
-clean:
+clean:	## -- Clean up build directory
 	rm -r $(BUILD)
 	mkdir ${BUILD}
 	touch ${BUILD}/.gitkeep
@@ -85,20 +89,15 @@ clean:
 # File builders
 ####################################################################################################
 
-.PHONY: epub
-epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub
+epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub ## -- Build EPUB file
 
-.PHONY: html
-html:	$(BUILD)/html/$(OUTPUT_FILENAME).html
+html:	$(BUILD)/html/$(OUTPUT_FILENAME).html ## -- Build HTML file
 
-.PHONY: pdf
-pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf ## -- Build PDF file
 
-.PHONY: docx
-docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx
+docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx ## -- Build DOCX file
 
-.PHONY: final
-final:  $(BUILD)/pdf/$(FINAL_FILENAME).pdf
+final:  $(BUILD)/pdf/$(FINAL_FILENAME).pdf ## -- Build final PDF file
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	mkdir -p $(BUILD)/epub
