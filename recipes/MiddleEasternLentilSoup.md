@@ -8,8 +8,8 @@ From: https://www.hungrypaprikas.com/instant-pot-easy-lentil-soup/
 
 ---
 
-- *2* onions, diced
-- *1* potato, diced
+- *1* onion, diced
+- *2* potatoes, diced
 - *1* carrot, diced (optional)
 - *2 C* red lentils
 - *3 t* vegetable oil
@@ -18,7 +18,7 @@ From: https://www.hungrypaprikas.com/instant-pot-easy-lentil-soup/
 - *1/2 t* turmeric
 - *1 t* black pepper
 - *8-10 C* water or broth
-- *2 t* Better Than Bouillon, if using water
+- *3 t* Better Than Bouillon, if using water
 - *1 t* Lemon juice, optional
 
 ---
@@ -36,4 +36,6 @@ and salt half way through. For the Instant Pot, manually release the pressure
 valve and blend the soup using an immersion blender. For the stove top, you can 
 leave it chunky or blend it as well. Taste and adjust the salt and also the
 water. If you like it thinner, add more water and allow it to cook for a few
-more minutes on sauté mode.
+more minutes on sauté mode. Like a lot of soups, this one would be improved with
+about 1t of mushroom powder, and a sprinkle of black garlic, if you have any.
+But those are both optional.
