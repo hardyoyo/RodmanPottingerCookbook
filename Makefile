@@ -69,7 +69,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 # Basic actions
 ####################################################################################################
 
-.PHONY: help all book clean epub html pdf docx final
+.PHONY: help all book clean epub html pdf docx final check
 
 help:	## -- Display this help message
 	@echo "Available targets:"
@@ -84,6 +84,22 @@ clean:	## -- Clean up build directory
 	rm -r $(BUILD)
 	mkdir ${BUILD}
 	touch ${BUILD}/.gitkeep
+
+check:	## -- Validate all RecipeMD files
+	@failed=0; \
+	for f in recipes/*.md; do \
+		if ! .venv/bin/recipemd --title "$$f" > /dev/null 2>&1; then \
+			echo "  FAILED: $$f"; \
+			.venv/bin/recipemd --title "$$f" 1>&2 2>&1; \
+			failed=1; \
+		fi; \
+	done; \
+	if [ $$failed -eq 1 ]; then \
+		echo "Some recipes failed validation!"; \
+		exit 1; \
+	else \
+		echo "All recipes are valid!"; \
+	fi
 
 ####################################################################################################
 # File builders
