@@ -130,7 +130,7 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	mkdir -p $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(LUA_FILTER) --template templates/pdf.latex --include-in-header=includes/table-prefs.tex -o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(LUA_FILTER) --template templates/pdf.latex --include-in-header=includes/table-prefs.tex -o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
 	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
 	-makeindex $(BUILD)/pdf/$(OUTPUT_FILENAME).idx 2>/dev/null
 	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
