@@ -38,3 +38,5 @@ the torilla in. It keeps the tortilla from sticking, and it adds a nice touch.
 - If you don't have a food processor, you can still make this, but it's more work.
 You can shred the sweet potato with a cheese grater. It totally works, I
 promise, that's how we used to make this.
+
+\label{sweet-potato-black-bean-quesadilla}

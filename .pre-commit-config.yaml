@@ -3,4 +3,4 @@ repos:
     rev: v0.0.1
     hooks:
       - id: validate-recipemd
-        exclude: ^AGENTS\.md$
+        exclude: ^(AGENTS\.md|TODO\.md|words/)
