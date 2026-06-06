@@ -45,7 +45,7 @@ This is super easy, but involves a lot of moving parts, so here's the plan.
 4. Water is probably boiling, the gluten-free noodles will be done faster
    than the regular noodles, so start them first.
 5. Set a timer for the GF noodles. The time will be on the package.
-6. Make sauce (see Creamy Pesto Sauce, on page \pageref{creamy-pesto-sauce}).
+6. Make sauce (see Creamy Pesto Sauce, on page \pageref{pesto-sauce}).
 7. If making a sauce feels overwhelming at this point, it's cool, just heat up
    some red sauce from a jar. It'll all be great. Actually, you can do both,
    mixing sauces is fun and tasty.

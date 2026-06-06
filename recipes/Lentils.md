@@ -41,4 +41,4 @@ If you can only find a 7 oz. can of Chipotle peppers, don't fret, just chop the
 entire can, then keep the extra in a small jar in the fridge, because I can
 guarantee you'll make this recipe again.
 
-\label{spicy-lentils}
+\label{lentils}

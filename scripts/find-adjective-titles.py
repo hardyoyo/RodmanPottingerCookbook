@@ -20,7 +20,6 @@ ADJECTIVES = {
     "festive", "spirited",
     "comfortable", "edible",
     "classic", "organic",
-    "scrambled",
     "cheesy", "buttery", "juicy",
     "gluten",     # gluten free
     "vegan",
@@ -85,6 +84,7 @@ NOT_ADJECTIVES = {
     "steamed",
     "not",
     "refried",
+    "scrambled",
     "roasted",
     "plain",
     "overnight",
