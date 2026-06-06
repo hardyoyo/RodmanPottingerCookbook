@@ -20,6 +20,7 @@ MATH_FORMULAS =
 ## START WITH ALL THE RECIPES, THEN THE WORDS
 PAGES = recipes/*.md
 PAGES += $(addprefix ./words/,\
+  MidnightSnacks.md\
   MealPlans.md\
   InstantPotVsRiceCooker.md\
   Glossary.md\
