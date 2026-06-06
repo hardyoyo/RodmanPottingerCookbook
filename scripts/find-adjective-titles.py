@@ -5,7 +5,7 @@ import re
 import sys
 
 ADJECTIVES = {
-    "sweet", "spicy", "creamy", "crispy", "crunchy", "chewy",
+    "sweet", "creamy", "crispy", "crunchy", "chewy",
     "baked", "fried", "grilled", "smoked",
     "fermented",
     "simple", "easy", "quick", "fast", "basic",
@@ -85,6 +85,7 @@ NOT_ADJECTIVES = {
     "not",
     "refried",
     "scrambled",
+    "spicy",
     "roasted",
     "plain",
     "overnight",
