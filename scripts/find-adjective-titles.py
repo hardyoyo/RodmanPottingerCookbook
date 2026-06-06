@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""Find recipe titles starting with an adjective that may hide them alphabetically."""
+"""Find recipe filenames starting with an adjective that may hide them alphabetically."""
+import os
+import re
 import sys
 
-# ---- Curated list of adjectives commonly used as recipe prefixes ----
 ADJECTIVES = {
     "sweet", "spicy", "creamy", "crispy", "crunchy", "chewy",
     "roasted", "baked", "fried", "grilled", "smoked", "steamed",
     "pickled", "fermented",
-    "homemade",
     "simple", "easy", "quick", "fast", "basic",
     "warm", "cold", "hot", "chilled",
     "plain",
@@ -16,62 +16,89 @@ ADJECTIVES = {
     "flaky", "tender",
     "rich", "thick", "chunky", "smooth",
     "savory", "tangy", "zesty",
-    "stir-fried", "stir fried",
-    "slow-cooker", "slow cooker",
-    "old-fashioned",
-    "steamed or boiled",
+    "slow",        # slow cooker
+    "stir",        # stir fried
+    "old",
     "not",
     "fantastic",
-    "quick-soaked",
     "festive", "spirited",
     "comfortable", "edible",
     "classic", "organic",
+    "scrambled",
+    "cheesy", "buttery", "juicy",
+    "gluten",     # gluten free
+    "vegan",
+    "vegetarian",
+    "homemade",
 }
 
 SKIP_FIRST = {
-    "gluten-free", "gluten free", "vegan", "vegetarian",
+    "gluten",     # gluten free
+    "vegan",
+    "vegetarian",
 }
 
 KNOWN_COMPOUNDS = {
     "sweet potato", "black bean", "brown rice", "red onion", "green onion",
     "dark chocolate", "white bean", "yellow onion", "red pepper", "green pepper",
+    "slow cooker", "instant pot", "rice cooker",
+    "field roast", "soy curl",
+    "red wine", "white wine",
+    "green chili", "red chili",
+    "brown sugar", "powdered sugar",
+    "soy sauce", "fish sauce", "worcestershire sauce",
+    "olive oil", "sesame oil", "coconut oil",
+    "baking soda", "baking powder",
+    "brown lentil", "red lentil", "green lentil",
+    "brussels sprout",
 }
 
-# ---- Rule-based adjective detection (catches novel adjectives) ----
+SKIP_WORDS = {"and", "or", "with", "the", "a", "an", "of"}  # conjunctions to skip when suggesting
 
-# Common English adjective suffixes
+NOUN_LOOKING = {
+    "pot", "field", "rice", "bean", "bread", "onion", "pepper",
+    "chocolate", "cake", "egg", "cheese", "cream",
+    "potato", "carrot", "celery", "garlic", "ginger",
+    "chicken", "beef", "pork", "tofu", "tempeh", "seitan",
+    "water", "broth", "stock", "sauce", "oil", "butter",
+    "sugar", "salt", "pepper", "flour", "corn",
+    "lemon", "lime", "apple", "banana", "berry",
+    "cheese", "yogurt", "milk", "cream",
+    "noodle", "pasta", "rice", "bread", "tortilla",
+    "soup", "salad", "stew", "curry", "chili",
+    "cookie", "cake", "pie", "brownie", "muffin",
+    "sauce", "dressing", "gravy", "salsa", "pesto",
+    "breakfast", "lunch", "dinner",
+}
+
 ADJ_SUFFIXES = ("ic", "al", "ous", "ful", "less", "ish", "like", "some")
 
-# Past/present participle suffixes
-PARTICIPLE_SUFFIXES = ("ed", "ing")
-
-# Words that match ADJ_SUFFIXES but are NOT adjectives
 NOT_ADJECTIVES = {
     "garlic", "broccoli", "cilantro",
     "curry", "gravy", "chili", "chilli", "miso",
     "sushi", "soy", "pho", "naan",
     "tofu", "tempeh", "seitan",
     "stock", "broth", "sauce", "juice",
-    "guacamole",
+    "guacamole", "hummus",
     "udon", "soba", "ramen",
     "salsa", "pasta", "pizza", "taco", "queso",
     "vegetable",
     "five", "six", "seven", "eight", "nine", "ten",
+    "brat", "loaf",
+    "oatmeal", "cornmeal", "cornbread",
 }
 
-# Past-participle looking words that are nouns (not adjectives)
 ED_NOUNS = {
     "bread", "seed", "noodle", "rice", "sauce",
     "tofu", "tempeh", "seitan",
+    "red", "green", "blue", "white", "black", "brown", "gold",
 }
 
-# Ing-looking words that are nouns (not adjectives)
 ING_NOUNS = {
     "spring", "morning", "evening", "topping", "stuffing",
     "pudding", "dressing",
 }
 
-# Cuisine/language-origin words (not filing-adjectives)
 CUISINES = {
     "spanish", "english", "irish", "dutch", "french", "polish",
     "japanese", "chinese", "korean", "vietnamese", "taiwanese",
@@ -79,75 +106,94 @@ CUISINES = {
     "thai", "greek", "turkish", "lebanese", "swedish", "swiss",
 }
 
+POSSESSIVE_NAMES = {
+    "liams", "hersheys",
+}
 
-def _is_adj_suffix(word):
-    """Check if word looks like an adjective by its suffix."""
-    w = word.lower().replace("-", " ").replace("_", " ")
-    # Check multi-word compounds like "stir fried"
-    parts = w.split()
-    first = parts[0]
 
-    if first in CUISINES:
+def split_filename(name):
+    """Split CamelCase filename into lowercase words."""
+    name = name.replace(".md", "")
+    s = re.sub(r"(?<=[a-z])(?=[A-Z])", " ", name)
+    s = re.sub(r"(?<=[A-Z])(?=[A-Z][a-z])", " ", s)
+    s = re.sub(r"[-_]", " ", s)
+    return s.lower().split()
+
+
+def is_adjective(word):
+    """Check if a word is likely an adjective."""
+    if word in ADJECTIVES:
+        return True
+    if word in NOT_ADJECTIVES:
         return False
-    if first in NOT_ADJECTIVES:
+    if word in CUISINES:
         return False
-
-    if first.endswith(ADJ_SUFFIXES):
+    if word in POSSESSIVE_NAMES:
+        return False
+    if word in ED_NOUNS or word in ING_NOUNS:
+        return False
+    if word.endswith(ADJ_SUFFIXES):
         return True
-    if first.endswith("ed") and first not in ED_NOUNS:
+    if word.endswith("ed") and word not in ED_NOUNS:
         return True
-    if first.endswith("ing") and first not in ING_NOUNS:
+    if word.endswith("ing") and word not in ING_NOUNS:
         return True
-    # Short common adjectives that don't fit suffixes
-    if first in {"fresh", "soft", "hard", "firm", "cool", "light", "dark"}:
+    if word in {"fresh", "soft", "hard", "firm", "cool", "light", "dark"}:
         return True
     return False
 
 
-def check_title(title):
-    lower = title.lower()
-    words = lower.split()
+def check_filename(path):
+    """Check if filename starts with an adjective. Returns (first_adj, suggestion) or None."""
+    base = os.path.basename(path)
+    words = split_filename(base)
     if not words:
         return None
-    first_word = words[0]
-    first_two = " ".join(words[:2])
 
-    if first_word in SKIP_FIRST:
+    first = words[0]
+    second = words[1] if len(words) > 1 else ""
+    first_two = f"{first} {second}"
+
+    # Skip dietary labels
+    if first in SKIP_FIRST:
         return None
+
+    # Skip known compound ingredients
     if first_two in KNOWN_COMPOUNDS:
         return None
 
-    # Check curated list first (including multi-word)
-    if first_two in ADJECTIVES:
-        return first_two.capitalize()
-    if first_word in ADJECTIVES:
-        return first_word.capitalize()
+    # Skip possessive names
+    if first in POSSESSIVE_NAMES:
+        return None
 
-    # Fall back to suffix heuristics
-    adj = _is_adj_suffix(first_word)
-    if adj:
-        return first_word.capitalize()
+    # Remove leading adjectives to suggest a better filename
+    rest = words[:]
+    adjs = []
+    while rest and (is_adjective(rest[0]) or rest[0] in SKIP_WORDS):
+        next_two = f"{rest[0]} {rest[1]}" if len(rest) > 1 else ""
+        if next_two in KNOWN_COMPOUNDS:
+            break
+        adjs.append(rest.pop(0))
 
-    return None
+    if adjs:
+        adj_str = " ".join(adjs)
+        suggested = "".join(w.capitalize() for w in rest) if rest else ""
+        if suggested:
+            return (first, f"  {base} starts with adjective \"{adj_str}\" → consider {suggested}.md")
+        else:
+            return (first, f"  {base} starts with adjective \"{adj_str}\" (no obvious main word)")
 
-
-def title_from_file(path):
-    with open(path) as f:
-        for line in f:
-            if line.startswith("# "):
-                return line[2:].strip()
     return None
 
 
 def main():
     found = False
     for path in sorted(sys.argv[1:]):
-        title = title_from_file(path)
-        if title is None:
+        if not path.endswith(".md"):
             continue
-        adj = check_title(title)
-        if adj:
-            print(f'  "{title}" starts with adjective "{adj}"')
+        result = check_filename(path)
+        if result:
+            print(result[1])
             found = True
     if not found:
         print("  OK")
