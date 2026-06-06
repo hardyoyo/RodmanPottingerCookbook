@@ -18,7 +18,6 @@ ADJECTIVES = {
     "slow",        # slow cooker
     "stir",        # stir fried
     "old",
-    "not",
     "fantastic",
     "festive", "spirited",
     "comfortable", "edible",
@@ -86,6 +85,8 @@ NOT_ADJECTIVES = {
     "personal",
     "pickled",
     "steamed",
+    "not",
+    "refried",
     "brat", "loaf",
     "oatmeal", "cornmeal", "cornbread",
 }
