@@ -74,6 +74,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 ####################################################################################################
 
 .PHONY: help all book clean epub html pdf docx final check
+.PHONY: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting proofread
 
 help:	## -- Display this help message
 	@echo "Available targets:"
@@ -89,7 +90,7 @@ clean:	## -- Clean up build directory
 	mkdir ${BUILD}
 	touch ${BUILD}/.gitkeep
 
-check:	## -- Validate all RecipeMD files
+check:	## -- Validate all RecipeMD files (includes HR formatting check)
 	@failed=0; \
 	for f in recipes/*.md; do \
 		if ! $(RECIPEMD) --title "$$f" > /dev/null 2>&1; then \
@@ -98,12 +99,41 @@ check:	## -- Validate all RecipeMD files
 			failed=1; \
 		fi; \
 	done; \
+	\
+	hits=$$(awk 'FNR==1{prev=""} /^---$$/ && prev != "" {print FILENAME ":" FNR ": no blank line before ---"} prev ~ /^---$$/ && $$0 != "" {print FILENAME ":" (FNR-1) ": no blank line after ---"} {prev=$$0}' recipes/*.md); \
+	if [ -n "$$hits" ]; then \
+		echo "$$hits"; \
+		failed=1; \
+	fi; \
+	\
 	if [ $$failed -eq 1 ]; then \
-		echo "Some recipes failed validation!"; \
+		echo ""; \
+		echo "Some checks failed!"; \
 		exit 1; \
 	else \
-		echo "All recipes are valid!"; \
+		echo "All checks passed!"; \
 	fi
+
+find-missing-units:	## -- Find possible missing ingredient units (digit before *)
+	@hits=$$(grep -n '[1-9]\*' recipes/*.md 2>/dev/null); \
+	if [ -n "$$hits" ]; then echo "$$hits"; else echo "  OK"; fi
+
+find-repeated-words:	## -- Find possible repeated words (e.g. "the the")
+	@hits=$$(grep -nP '(\b[a-zA-Z]+)\s+\1\b' recipes/*.md 2>/dev/null); \
+	if [ -n "$$hits" ]; then echo "$$hits"; else echo "  OK"; fi
+
+find-missing-attribution:	## -- Find recipes with tags but no Source: line
+	@cd recipes && missing=0; \
+	for f in $$(grep -Pzl '(?s)^#[^\n]*\n\n\*.*\*' *.md 2>/dev/null); do \
+		grep -q 'Source:' "$$f" || { echo "MISSING Source: $$f"; missing=1; }; \
+	done; \
+	if [ $$missing -eq 0 ]; then echo "  OK"; fi
+
+check-hr-formatting:	## -- Check horizontal rules have blank lines around them
+	@hits=$$(awk 'FNR==1{prev=""} /^---$$/ && prev != "" {print FILENAME ":" FNR ": no blank line before ---"} prev ~ /^---$$/ && $$0 != "" {print FILENAME ":" (FNR-1) ": no blank line after ---"} {prev=$$0}' recipes/*.md); \
+	if [ -n "$$hits" ]; then echo "$$hits"; else echo "  OK"; fi
+
+proofread: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting ## -- Run all proofreading checks
 
 ####################################################################################################
 # File builders

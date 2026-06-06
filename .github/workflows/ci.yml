@@ -18,8 +18,10 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install recipemd
-        run: pip install --break-system-packages recipemd
+      - name: Install tools
+        run: |
+          apt-get update && apt-get install -y ack
+          pip install --break-system-packages recipemd
 
       - name: Validate recipes
         run: make check RECIPEMD=recipemd
