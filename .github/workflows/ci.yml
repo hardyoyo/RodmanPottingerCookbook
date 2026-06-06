@@ -12,17 +12,17 @@ jobs:
     container:
       image: danteev/texlive:latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - name: Set up Python virtualenv
-        run: |
-          apt-get update && apt-get install -y python3-venv
-          python3 -m venv .venv
-          .venv/bin/pip install --upgrade pip
-          .venv/bin/pip install recipemd
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install recipemd
+        run: pip install recipemd
 
       - name: Validate recipes
-        run: make check
+        run: make check RECIPEMD=recipemd
 
       - name: Build PDF
         run: make pdf
