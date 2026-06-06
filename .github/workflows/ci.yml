@@ -9,23 +9,20 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    container:
+      image: danteev/texlive:latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xelatex texlive-latex-extra \
-            texlive-fonts-recommended texlive-fonts-extra
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-      - name: Set up Python virtualenv
-        run: |
-          python3 -m venv .venv
-          .venv/bin/pip install --upgrade pip
-          .venv/bin/pip install recipemd
+      - name: Install recipemd
+        run: pip install --break-system-packages recipemd
 
       - name: Validate recipes
-        run: make check
+        run: make check RECIPEMD=recipemd
 
       - name: Build PDF
         run: make pdf

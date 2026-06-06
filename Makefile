@@ -35,6 +35,7 @@ PAGES += $(addprefix ./words/,\
 #  - ensure there is a pagebreak at the end of every recipe
 CONTENT = awk 'FNR==1 && NR!=1 {print "\n\\pagebreak\n\n"}{print}' $(PAGES)
 CONTENT_FILTERS = tee # can be used with sed to replace content
+RECIPEMD = .venv/bin/recipemd
 
 # Debugging
 
@@ -91,9 +92,9 @@ clean:	## -- Clean up build directory
 check:	## -- Validate all RecipeMD files
 	@failed=0; \
 	for f in recipes/*.md; do \
-		if ! .venv/bin/recipemd --title "$$f" > /dev/null 2>&1; then \
+		if ! $(RECIPEMD) --title "$$f" > /dev/null 2>&1; then \
 			echo "  FAILED: $$f"; \
-			.venv/bin/recipemd --title "$$f" 1>&2 2>&1; \
+			$(RECIPEMD) --title "$$f" 1>&2 2>&1; \
 			failed=1; \
 		fi; \
 	done; \
