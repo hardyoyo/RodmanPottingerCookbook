@@ -19,7 +19,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install recipemd
-        run: pip install recipemd
+        run: pip install --break-system-packages recipemd
 
       - name: Validate recipes
         run: make check RECIPEMD=recipemd
