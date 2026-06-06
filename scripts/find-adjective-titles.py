@@ -6,12 +6,10 @@ import sys
 
 ADJECTIVES = {
     "sweet", "spicy", "creamy", "crispy", "crunchy", "chewy",
-    "roasted", "baked", "fried", "grilled", "smoked",
+    "baked", "fried", "grilled", "smoked",
     "fermented",
     "simple", "easy", "quick", "fast", "basic",
     "warm", "cold", "hot", "chilled",
-    "plain",
-    "overnight",
     "flaky", "tender",
     "rich", "thick", "chunky", "smooth",
     "savory", "tangy", "zesty",
@@ -87,6 +85,9 @@ NOT_ADJECTIVES = {
     "steamed",
     "not",
     "refried",
+    "roasted",
+    "plain",
+    "overnight",
     "brat", "loaf",
     "oatmeal", "cornmeal", "cornbread",
 }
