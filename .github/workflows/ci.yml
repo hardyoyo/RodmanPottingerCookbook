@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jetify-com/devbox-install-action@v0.11.0
+        with:
+          enable-cache: true
+
+      - name: Validate recipes
+        run: make check
+
+      - name: Build PDF
+        run: make pdf
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cookbook-pdf
+          path: build/pdf/cookbook.pdf
