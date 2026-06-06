@@ -89,8 +89,9 @@ clean:	## -- Clean up build directory
 	mkdir ${BUILD}
 	touch ${BUILD}/.gitkeep
 
-check:	## -- Validate all RecipeMD files
+check:	## -- Validate all RecipeMD files and run proofreading checks
 	@failed=0; \
+	echo "=== RecipeMD Validation ==="; \
 	for f in recipes/*.md; do \
 		if ! $(RECIPEMD) --title "$$f" > /dev/null 2>&1; then \
 			echo "  FAILED: $$f"; \
@@ -98,11 +99,35 @@ check:	## -- Validate all RecipeMD files
 			failed=1; \
 		fi; \
 	done; \
+	echo ""; \
+	echo "=== Proofreading ==="; \
+	issues=0; \
+	\
+	hits=$$(grep -nP '(\b[a-zA-Z]+)\s+\1\b' recipes/*.md 2>/dev/null); \
+	if [ -n "$$hits" ]; then \
+		echo "$$hits"; \
+		echo "  FAILED: Possible repeated words found"; \
+		issues=1; \
+	fi; \
+	\
+	hits=$$(awk 'FNR==1{prev=""} /^---$$/ && prev != "" {print FILENAME ":" FNR ": no blank line before ---"} prev ~ /^---$$/ && $$0 != "" {print FILENAME ":" (FNR-1) ": no blank line after ---"} {prev=$$0}' recipes/*.md); \
+	if [ -n "$$hits" ]; then \
+		echo "$$hits"; \
+		echo "  FAILED: Horizontal rules missing blank lines"; \
+		issues=1; \
+	fi; \
+	\
+	if [ "$$issues" -eq 0 ]; then \
+		echo "  OK"; \
+	else \
+		failed=1; \
+	fi; \
+	echo ""; \
 	if [ $$failed -eq 1 ]; then \
-		echo "Some recipes failed validation!"; \
+		echo "Some checks failed!"; \
 		exit 1; \
 	else \
-		echo "All recipes are valid!"; \
+		echo "All checks passed!"; \
 	fi
 
 ####################################################################################################
