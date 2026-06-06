@@ -12,9 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jetify-com/devbox-install-action@v0.11.0
-        with:
-          enable-cache: true
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xelatex texlive-latex-extra \
+            texlive-fonts-recommended texlive-fonts-extra
+
+      - name: Set up Python virtualenv
+        run: |
+          python3 -m venv .venv
+          .venv/bin/pip install --upgrade pip
+          .venv/bin/pip install recipemd
 
       - name: Validate recipes
         run: make check
