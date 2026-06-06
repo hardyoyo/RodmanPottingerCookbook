@@ -65,6 +65,8 @@ $endfor$
 \usepackage{tocloft}
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 \usepackage[table]{xcolor}
+\usepackage{imakeidx}
+\makeindex
 % Specify different font for section headings
 \newfontfamily\headingfont[ Path = fonts/ ]{BebasNeue-Regular}
 \titleformat*{\section}{\LARGE\headingfont}
@@ -537,4 +539,6 @@ $for(include-after)$
 $include-after$
 
 $endfor$
+\cleardoublepage
+\printindex
 \end{document}

@@ -44,6 +44,8 @@ CONTENT_FILTERS = tee # can be used with sed to replace content
 
 # FILTER_ARGS = --filter pandoc-crossref
 
+LUA_FILTER = --lua-filter=scripts/indexer.lua
+
 # Combined arguments
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
@@ -55,7 +57,7 @@ PANDOC_COMMAND = pandoc
 DOCX_ARGS = --standalone --reference-doc templates/docx.docx
 EPUB_ARGS = --template templates/epub.html --epub-cover-image $(COVER_IMAGE)
 HTML_ARGS = --template templates/html.html --standalone --to html5
-PDF_ARGS = --template templates/pdf.latex --pdf-engine xelatex --include-in-header=includes/table-prefs.tex
+PDF_ENGINE = xelatex
 
 # Per-format file dependencies
 
@@ -128,7 +130,12 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	mkdir -p $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(PDF_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(TOC) $(MATH_FORMULAS) $(METADATA_ARGS) $(LUA_FILTER) --template templates/pdf.latex --include-in-header=includes/table-prefs.tex -o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	-makeindex $(BUILD)/pdf/$(OUTPUT_FILENAME).idx 2>/dev/null
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	rm -f $(BUILD)/pdf/$(OUTPUT_FILENAME).tex $(BUILD)/pdf/$(OUTPUT_FILENAME).aux $(BUILD)/pdf/$(OUTPUT_FILENAME).idx $(BUILD)/pdf/$(OUTPUT_FILENAME).ilg $(BUILD)/pdf/$(OUTPUT_FILENAME).ind $(BUILD)/pdf/$(OUTPUT_FILENAME).log $(BUILD)/pdf/$(OUTPUT_FILENAME).out $(BUILD)/pdf/$(OUTPUT_FILENAME).toc
 	@echo "$@ was built"
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
