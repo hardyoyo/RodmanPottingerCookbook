@@ -48,7 +48,26 @@ push/PR.
 Add a `release` target to the Makefile that cuts a new release of the cookbook
 with compiled PDFs uploaded as artifacts on the release page.
 
-## Adopt improvements from Make for DevOps Makefile
-There's a fork of this project framework for a "Make for DevOps" book whose
-Makefile has some nice improvements worth porting back here. Review and adopt
-any relevant targets, patterns, or organization ideas.
+## Port improvements from Make for DevOps Makefile [IN PROGRESS]
+
+The "Make for DevOps" Makefile has improvements worth porting back.
+
+### ✅ Already ported (branch: `port-makefile-improvements`)
+
+- `.ONESHELL` + safer `.SHELLFLAGS` (+ `SHELL := /bin/bash`) for error resilience
+- `.DEFAULT_GOAL := help` — show help by default
+- `check-pdf-prereqs` target — checks xelatex is available with install instructions
+- `stats` target — word counts, page counts, PDF metadata
+- `clean` with conditional deletion — won't error if build dir doesn't exist
+- Git metadata generation (`$(TMP_METADATA)`) — embed commit SHA/date/URL in build
+- `$(ECHO_BUILDING)` / `$(ECHO_BUILT)` helpers for consistent build feedback
+- OS-aware `$(COPY_CMD)` via `uname` detection (macOS uses `cp -P`, Linux `cp --parent`)
+- Base dependencies include `$(MAKEFILE)` — rebuild when Makefile changes
+- `$(MKDIR_CMD)` / `$(RMDIR_CMD)` abstraction
+
+### ⏳ Still to consider
+
+- `$(PROGRESS_BAR)` function — countdown during long builds
+- `stale-chapters` → `stale-recipes` target — find recipes needing recent edits
+- `toc` target — generate table of contents from source files
+- `validate` target — check for forbidden words in source
