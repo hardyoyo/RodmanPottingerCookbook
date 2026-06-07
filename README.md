@@ -1,5 +1,7 @@
 # Rodman/Pottinger Cookbook Project
 
+[![CI](https://github.com/hardyoyo/RodmanPottingerCookbook/actions/workflows/ci.yml/badge.svg)](https://github.com/hardyoyo/RodmanPottingerCookbook/actions/workflows/ci.yml)
+
 This is a collection of recipes we use on a regular basis, and will hopefully be
 used to produce a family cookbook, if I keep my act together this year.
 TLDR, if you're just here for recipes, you can find them in the [recipes](./recipes/) folder.

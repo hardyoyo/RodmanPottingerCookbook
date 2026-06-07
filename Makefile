@@ -74,7 +74,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 ####################################################################################################
 
 .PHONY: help all book clean epub html pdf docx final check
-.PHONY: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting proofread
+.PHONY: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting find-adjective-titles proofread
 
 help:	## -- Display this help message
 	@echo "Available targets:"
@@ -133,7 +133,10 @@ check-hr-formatting:	## -- Check horizontal rules have blank lines around them
 	@hits=$$(awk 'FNR==1{prev=""} /^---$$/ && prev != "" {print FILENAME ":" FNR ": no blank line before ---"} prev ~ /^---$$/ && $$0 != "" {print FILENAME ":" (FNR-1) ": no blank line after ---"} {prev=$$0}' recipes/*.md); \
 	if [ -n "$$hits" ]; then echo "$$hits"; else echo "  OK"; fi
 
-proofread: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting ## -- Run all proofreading checks
+find-adjective-titles:	## -- Find titles starting with an adjective (e.g. "Sweet Arepas" under S instead of A)
+	@python3 scripts/find-adjective-titles.py recipes/*.md; exit 0
+
+proofread: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting find-adjective-titles ## -- Run all proofreading checks
 
 ####################################################################################################
 # File builders

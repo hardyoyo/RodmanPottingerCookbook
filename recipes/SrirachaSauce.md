@@ -36,7 +36,7 @@ thicken a little as it cools). Transfer to jars or bottles and refrigerate.
 
 Source: https://www.allrecipes.com/recipe/235276/how-to-make-homemade-sriracha-sauce/
 
-\label{homemade-sriracha-sauce}
+\label{sriracha-sauce}
 
 ### NOTES
 

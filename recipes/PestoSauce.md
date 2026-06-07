@@ -25,4 +25,4 @@ This makes for a lightning-fast dinner, and is a very common meal at our house.
 
 When our kids were young, we called this "Dad's famous Pasta."
 
-\label{creamy-pesto-sauce}
+\label{pesto-sauce}

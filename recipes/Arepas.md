@@ -1,4 +1,4 @@
-# Sweet Yellow Cornmeal Arepas
+# Arepas
 
 From: http://www.oster.com/recipedetail.aspx?id=81 (via Wayback Machine)
 
@@ -34,4 +34,4 @@ Serve warm.
 
 Source: http://www.oster.com/recipedetail.aspx?id=81
 
-\label{sweet-yellow-cornmeal-arepas}
+\label{arepas}
