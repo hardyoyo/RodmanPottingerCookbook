@@ -19,8 +19,8 @@
 - *1 inch* ginger, grated
 - *6-8 C* Napa cabbage, thinly sliced (or 2 bell peppers, sliced)
 - *1/4 C* roasted white sesame seeds
-- *handful* Thai basil or cilantro
-- *drizzle* toasted sesame oil
+- *1 C* Thai basil or cilantro, loosely packed
+- *1 t* toasted sesame oil
 
 ---
 
