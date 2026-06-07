@@ -47,3 +47,8 @@ push/PR.
 ## Release target
 Add a `release` target to the Makefile that cuts a new release of the cookbook
 with compiled PDFs uploaded as artifacts on the release page.
+
+## Adopt improvements from Make for DevOps Makefile
+There's a fork of this project framework for a "Make for DevOps" book whose
+Makefile has some nice improvements worth porting back here. Review and adopt
+any relevant targets, patterns, or organization ideas.
