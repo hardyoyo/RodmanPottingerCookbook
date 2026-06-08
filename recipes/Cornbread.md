@@ -32,3 +32,5 @@ batter, not biscotti. Pour the batter into an oiled 8 inch square pan. Bake for
 finger in the center of the loaf recovers its shape--but you probably won't
 need to do that test, we never do, don't poke your bread if you don't have to.
 As muffins, this recipe makes a dozen, and cooks in 16 minutes.
+
+\label{crunchy-cornbread}

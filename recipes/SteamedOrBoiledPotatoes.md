@@ -30,3 +30,5 @@ them easier to handle. Literal hot potatoes are difficult to hold.
 
 
 > ![info](./images/info-icon.png) *Boiled potatoes are fantastic things to have on hand. You can eat them with just a bit of salt, or get really fancy with salsa, sour cream, shredded cheese. Or you can chop them up a bit, sauté with onions and cumin, and use the mixture in rolled tacos, or samosas. Or cube them up and fry them in a skillet with a splash of oil for breakfast burritos.*
+
+\label{steamed-or-boiled-potatoes}

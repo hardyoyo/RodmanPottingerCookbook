@@ -33,3 +33,5 @@ This is a nice quick gluten-free alternative salad dressing. If you don't have
 any GF dressing on hand, this will do the job. You can also use it in a wrap.
 Since it's fresh, it'll taste better than store-bought Goddess Dressing, and it
 won't have any of the Gluten they insist on putting in it.
+
+\label{goddess-dressing}

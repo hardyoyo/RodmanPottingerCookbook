@@ -39,3 +39,5 @@ tofu and potatoes, mix it all thoroughly. Dump the mixture into a shallow glass
 baking dish. Sprinkle the top with cheese. Bake 15 minutes.
 
 > ![info](./images/info-icon.png) *You can do the potatoes while you're waiting for the tofu to press.*
+
+\label{potato-tofu-casserole}

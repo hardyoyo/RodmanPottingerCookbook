@@ -32,3 +32,5 @@ Field Roast. OR, you can make both the Field Roast and the Beyond Brat in
 different skillets, and serve them on the side, let folks pick their poison.
 
 ---
+
+\label{field-roast-wild-rice-pilaf}

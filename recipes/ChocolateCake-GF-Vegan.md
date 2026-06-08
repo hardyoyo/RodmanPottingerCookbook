@@ -51,3 +51,5 @@ with any sort of flour, don't scoop out the flour with the measuring cup;
 instead, spoon it out with a spoon into the measuring cup. If you scoop with the
 measuring cup, you'll compact the flour, and get too much, and you'll have
 regrets about too much flour.
+
+\label{chocolate-cake-gluten-free-vegan}

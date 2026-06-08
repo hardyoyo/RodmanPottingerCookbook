@@ -30,3 +30,5 @@ sesame seeds in the margarine. Mix the coleslaw with the oil/sugar/flavor
 mixture. After the coleslaw is coated, mix in the remaining ingredients.
 
 This is a crowd pleaser, take it to any potluck situation and you'll be a hit.
+
+\label{chinese-cabbage-salad}

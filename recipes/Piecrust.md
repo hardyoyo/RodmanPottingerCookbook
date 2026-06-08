@@ -30,3 +30,4 @@ know what to make? Make a pie!
 - If it's a hot day, you may want to refridgerate the dought for 15 minutes
 before rolling and shaping it.
 
+\label{easy-piecrust}

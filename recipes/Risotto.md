@@ -42,3 +42,5 @@ To scale this recipe back a bit:
 1 1/2 t Better than Bouillon or broth power
 1/2 onion
 1/2 t garlic, minced
+
+\label{risotto}

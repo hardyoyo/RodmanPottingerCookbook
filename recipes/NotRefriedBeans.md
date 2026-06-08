@@ -30,3 +30,5 @@ an air-tight container. Freeze the other half for the future. About 2 cups of
 these is the same as a can, so use whatever size freezer container you have,
 but try to keep each container sized for the amount of beans you think you
 can eat before they go bad.
+
+\label{not-refried-beans}

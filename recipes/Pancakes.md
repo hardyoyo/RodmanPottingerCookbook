@@ -33,3 +33,5 @@ You can substitute Gluten Free flour if you're cooking for someone with a gluten
 sensitivity or preference. You can substitute 2 eggs if you don't have the flax
 seeds, or don't care about being vegan, but, you really should have flax seeds
 handy.
+
+\label{fantastic-vegan-pancakes}

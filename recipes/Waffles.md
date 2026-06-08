@@ -37,3 +37,5 @@ it out.
 > ![info](./images/info-icon.png) *You should have a dedicated waffle iron for
 gluten-free folks... there's probably no way to clean all the gluten off of a
 waffle iron that has been used to cook waffles made with wheat flour.*
+
+\label{gluten-free-vegan-waffles}

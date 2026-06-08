@@ -58,3 +58,5 @@ pepper to hit the right notes of off-the-shelf Japanese Curry cubes). If you
 know you want hot curry sauce, add the Cayenne pepper with the other spices.
 But we recommend tasting and adjusting the heat until you hit the right mark
 you are aiming for. Serve with rice (brown or white, you pick) and a side salad.
+
+\label{japanese-curry}

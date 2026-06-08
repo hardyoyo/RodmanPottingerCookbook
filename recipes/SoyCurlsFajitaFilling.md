@@ -33,3 +33,5 @@ peppers (the best option). You can make a quick fajita sauce with 1 C leftover
 liquid from soaking the Soy Curls, salsa, lime juice and liquid smoke. Put half
 the sauce in while you're sautéing the soy curls and friends, and add the
 remaining half closer to the end of your sautéing.
+
+\label{soy-curls-fajita-filling}

@@ -46,3 +46,5 @@ fridge.
 can find it, probably online. From a Korean market, it will be in a bottle that
 looks like a ketchup bottle. It won't be quite the same, but it'll still taste
 amazing.*
+
+\label{tteokbokki}

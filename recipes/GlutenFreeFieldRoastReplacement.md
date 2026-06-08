@@ -46,3 +46,5 @@ Just check on it regularly. Try not to eat it all.
 Freezes well, or refrigerate it if you're planning on using it soon.
 
 Make some Wild Rice Pilaf!
+
+\label{gluten-free-field-roast-replacement}

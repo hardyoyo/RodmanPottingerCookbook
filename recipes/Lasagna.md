@@ -53,3 +53,5 @@ then follow the directions above.
 
 Two stockpots, only cook about half of each package of noodles. Use two 8x8 in.
 casserole dishes.
+
+\label{lasagna}

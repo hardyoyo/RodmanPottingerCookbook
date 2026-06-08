@@ -38,3 +38,5 @@ to always use an old tomato paste can. Or you can buy a biscuit cutter.
 will do the trick. Take it out of the wrapper first, so it doesn't explode. And 
 you might as well cut it into chunks. Try not to melt the butter completely, but
 don't worry if you do. Your biscuits will taste fine either way.
+
+\label{flaky-old-fashioned-biscuits}

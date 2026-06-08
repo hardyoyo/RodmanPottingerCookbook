@@ -39,3 +39,5 @@ and cook it up right away, it'll be fine!
  - If you're using Paprika because you're cooking for someone who doesn't like
  hot food, be sure to taste the paprika to verify it's mild. Some "paprika" is
  as hot as cayenne pepper.
+
+\label{tempeh-taco}

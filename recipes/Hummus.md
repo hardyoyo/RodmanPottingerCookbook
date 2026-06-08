@@ -27,3 +27,5 @@ to be fancy when you serve this, granish with parsley, but this is totally
 optional. Serve with carrots or pita chips, or gluten-free crackers or pretzels,
 or whatever, you know what hummus is for. NOTE: it's the *best* food fight
 weapon you can ever imagine.
+
+\label{hummus}

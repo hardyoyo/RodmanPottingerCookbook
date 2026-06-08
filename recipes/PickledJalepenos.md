@@ -29,3 +29,5 @@ tight-fitting lid and shake well. Refrigerate until flavor develops, at least
 one hour or up to two weeks, before serving. Keep refrigerated. Will keep as
 long as normal pickles (many months) as long as you keep them refrigerated. Use
 these as garnish on tacos, sandwiches, salads, or soup.
+
+\label{pickled-jalepenos}

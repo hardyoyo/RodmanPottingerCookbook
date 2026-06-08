@@ -42,3 +42,5 @@ minutes for a softer, more bread pudding texture or for 1 hour-plus or more for
 a firmer, crisper texture.
 
 This will smell amazing, and will probably wake people up.
+
+\label{overnight-french-toast}

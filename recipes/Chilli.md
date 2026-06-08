@@ -36,3 +36,5 @@ the tomatoes, add the beans, add the TVP. Pop on a lid, hit the chilli button,
 set the time for 3 minutes (longer if you put in lots of fresh tomatoes, or any
 frozen suff... if you did, 10 minutes should do it). Natural release. Maybe
 make some corn bread while you wait.
+
+\label{basic-chilli}

@@ -31,3 +31,5 @@ and tamari or soy sauce, take them off the burner and set them aside. When the
 noodles are done, drain them, then mix in the mushrooms. Toss the noodles and
 mushrooms until the noodles seem evenly coated, then eat. Try to pair this dish
 with some sort of green vegetable.
+
+\label{mushroom-lo-mein}

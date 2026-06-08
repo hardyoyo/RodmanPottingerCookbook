@@ -27,3 +27,5 @@ until well blended. Add flour, baking powder and salt; beat well. Stir in nuts,
 if desired. Pour batter into prepared pan. Bake 30 to 35 minutes or until
 brownies just begin to pull away from sides of pan. Cool. Cut into bars. Makes
 about 12 brownies.
+
+\label{hersheys-brownies}

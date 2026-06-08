@@ -24,3 +24,5 @@ to make a soft dough (might not need the  amount specified, depends on the
 weather. Scoop 2 in. sized balls of dough with a spoon and drop onto a lightly
 greased baking sheet (or use a silicone baking sheet liner). Bake for about 12
 minutes until browned. Stay nearby, don't burn your biscuits!
+
+\label{drop-biscuits}

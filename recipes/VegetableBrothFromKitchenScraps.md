@@ -46,3 +46,4 @@ if you have plans to use the broth soon. If you're going to freeze it, use a
 plastic container that's safe for freezing. Keeps for up to a week in the
 fridge, and up to a year in the freezer.
 
+\label{vegetable-broth-from-kitchen-scraps}

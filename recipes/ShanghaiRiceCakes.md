@@ -49,3 +49,5 @@ it into the big bowl with the rest of the stir-fry, add the rest of the sauce.
 You're done, serve immediately. If people are slow to come to dinner, wash a few
 of the really big bowls you've used, because the big bowl of stir-fry on the
 table will break whomever has to do dishes this night. Help 'em out a bit.
+
+\label{stir-fried-shanghai-rice-cakes-chao-nian-gao}
