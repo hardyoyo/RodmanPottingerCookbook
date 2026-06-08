@@ -44,6 +44,14 @@ Recipes that already have labels (38 total): Koshari, SpicyLentils, KaleAndBruss
 Set up a GitHub Actions workflow to validate recipes and build the cookbook on
 push/PR.
 
+## Improve the index
+
+- Fix misspellings in recipe tags (e.g. "desert" → "dessert")
+- Investigate and fix duplicate index entries
+- Normalize tag capitalization in original recipes
+- Add ingredient labels (tofu, tempeh, etc.) to recipes so they appear in the
+  index under major ingredient headings
+
 ## Release target
 Add a `release` target to the Makefile that cuts a new release of the cookbook
 with compiled PDFs uploaded as artifacts on the release page.
