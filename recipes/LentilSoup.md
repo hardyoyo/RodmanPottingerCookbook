@@ -5,7 +5,7 @@ Vegetarian Cooking Under Pressure_ by Lorna Sass, the times are from the Instant
 Pot cookbook that comes with the cooker. Lorna's recipe doesn't call for
 celery, you can substitute lots more garlic if you don't have celery.
 
-*Instant Pot*
+*Instant Pot, soup*
 
 **5 Servings**
 
