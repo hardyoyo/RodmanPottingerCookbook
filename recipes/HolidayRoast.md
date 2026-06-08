@@ -2,7 +2,7 @@
 
 From: https://frommybowl.com/homemade-vegan-holiday-roast/print/9480/
 
-*Gluten-Free, Vegan*
+*gluten-free, vegan*
 
 **6 Servings**
 

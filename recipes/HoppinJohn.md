@@ -2,7 +2,7 @@
 
 from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hoppin-john)
 
-*Stovetop*
+*Stovetop, soul-food*
 
 **5 Servings**
 

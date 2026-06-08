@@ -2,7 +2,7 @@
 
 From: https://www.hungrypaprikas.com/instant-pot-easy-lentil-soup/
 
-*soup, Instant Pot*
+*soup, Instant Pot, middle-eastern*
 
 **8 Servings**
 

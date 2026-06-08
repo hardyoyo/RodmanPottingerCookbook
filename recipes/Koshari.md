@@ -4,7 +4,7 @@ Egyptian comfort food.
 
 from: [Nikki & David Goldbeck's American Wholefoods Cuisine](https://isbn.nu/0452262801)
 
-*dinner*
+*dinner, Egyptian*
 
 **5 Servings**
 

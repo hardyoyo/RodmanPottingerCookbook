@@ -3,7 +3,7 @@
 This recipe was given to us by Debbie's mom, who got it from a member of her
 square dance club, Duck N Dive in Rolla, MO.
 
-*salad, potluck*
+*salad, potluck, Chinese*
 
 **5 Servings**
 

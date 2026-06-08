@@ -2,7 +2,7 @@
 
 from: https://cookieandkate.com/vegetarian-pho-recipe/
 
-*soup, Instant Pot*
+*soup, Instant Pot, Vietnamese*
 
 **6 Servings**
 

@@ -2,7 +2,7 @@
 
 From https://www.okonomikitchen.com/vegan-japchae/
 
-*Gluten Free, Vegan, Noodles, Korean*
+*gluten-free, vegan, noodles, Korean*
 
 **4 Servings**
 

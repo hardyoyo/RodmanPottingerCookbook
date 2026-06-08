@@ -2,7 +2,7 @@
 
 from: The Chicago Diner Cookbook, by Chef Jo A. Kaucher
 
-*breakfast, Vegan, Gluten-free*
+*breakfast, vegan, gluten-free*
 
 **4 Servings**
 

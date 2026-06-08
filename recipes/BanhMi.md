@@ -2,7 +2,7 @@
 
 From: https://tastesbetterfromscratch.com/vietnamese-chicken-sandwich-banh-mi/
 
-*Vegan, Sandwich*
+*vegan, sandwich, Vietnamese*
 
 **4 Servings**
 

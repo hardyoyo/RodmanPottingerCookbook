@@ -1,7 +1,7 @@
 # Chilaquiles
 A great way to use up corn tortillas.
 
-*breakfast*
+*breakfast, Mexican*
 
 **5 Servings**
 

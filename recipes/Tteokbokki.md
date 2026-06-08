@@ -5,7 +5,7 @@ from https://www.thecheaplazyvegan.com/vegan-tteokbokki/
 Vegan Tteokbokki, also known as spicy Korean rice cakes, is a delicious Korean
 dish that traditionally isn't vegan.
 
-*Korean, Vegan, Gluten-Free, Instant Pot, spicy, street food*
+*Korean, vegan, gluten-free, Instant Pot, spicy, street food*
 
 **6 Servings**
 

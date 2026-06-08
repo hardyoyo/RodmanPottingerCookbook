@@ -2,7 +2,7 @@
 
 From https://drivemehungry.com/stir-fried-shanghai-rice-cakes-chao-nian-gao/
 
-*stir fry, vegan, gluten-free*
+*stir fry, vegan, gluten-free, Chinese*
 
 **5 Servings**
 
