@@ -1,6 +1,6 @@
 # Korean Spicy Tofu Bulgogi Lettuce Wraps (Ssam)
 
-*korean, tofu, bulgogi, ssam, wraps, vegan*
+*Korean, tofu, bulgogi, ssam, wraps, vegan*
 
 **6 Servings**
 

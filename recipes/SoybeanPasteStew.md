@@ -2,7 +2,7 @@
 
 from _Korean Vegetarian Cooking_ by Shin Kim
 
-*korean, soup*
+*Korean, soup*
 
 **8 Servings**
 

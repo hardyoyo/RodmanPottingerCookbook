@@ -5,7 +5,7 @@ stymied us. It contributes a lot of the flavor profile for this pilaf. You can
 use a Beyond Meat brat, for a gluten-free version. Or you can serve it with both
 Field Roast and a Beyond Brat on the side, let people choose.
 
-*instant pot*
+*Instant Pot*
 
 **8 Servings**
 

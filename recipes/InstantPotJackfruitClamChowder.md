@@ -1,6 +1,6 @@
 # Instant Pot Jackfruit "Clam" Chowder (Hybrid Method)
 
-*instant pot, jackfruit, chowder, soup*
+*Instant Pot, jackfruit, chowder, soup*
 
 **4-6 Servings**
 

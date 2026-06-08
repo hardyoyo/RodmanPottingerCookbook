@@ -1,6 +1,6 @@
 # Personal Lentil Curry
 
-*soup, instant pot*
+*soup, Instant Pot*
 
 **1 Servings**
 

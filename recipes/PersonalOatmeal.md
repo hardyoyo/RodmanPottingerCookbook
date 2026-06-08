@@ -1,5 +1,5 @@
 # Personal Oatmeal in the Instant Pot
-*instant pot, breakfast*
+*Instant Pot, breakfast*
 
 **1 Servings**
 

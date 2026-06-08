@@ -2,7 +2,7 @@
 
 This is our usual, "anything goes", chilli recipe.
 
-*soup, instant pot*
+*soup, Instant Pot*
 
 **5 Servings**
 

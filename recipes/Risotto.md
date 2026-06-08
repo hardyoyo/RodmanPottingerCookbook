@@ -3,7 +3,7 @@
 There are so many Intant Pot Risotto recipes, the times and process are taken
 from them, but this version is pretty much all Hardy.
 
-*instant pot, gluten-free, can be vegan*
+*Instant Pot, gluten-free, can be vegan*
 
 **5 Servings**
 
