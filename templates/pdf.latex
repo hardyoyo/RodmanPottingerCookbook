@@ -446,6 +446,12 @@ $if(beamer)$
 \frame{\titlepage}
 $else$
 \maketitle
+$if(git_sha)$
+\vfill
+\begin{center}
+\small Build $git_date$ --- commit \texttt{$git_sha$}
+\end{center}
+$endif$
 $endif$
 $if(description)$
 $description$
