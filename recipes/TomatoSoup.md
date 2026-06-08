@@ -29,3 +29,5 @@ When done, blend with an immersion blender until the soup is very smooth, no
 chunks of sweet potato left. Careful, it'll be hot and want to splash a bit.
 
 > ![info](./images/info-icon.png) *Leftovers of this soup can be transformed into Enchilada sauce, just add the spices from our recipe (see page \pageref{enchilada-sauce}), and simmer it a bit.*
+
+\label{simple-tomato-soup}

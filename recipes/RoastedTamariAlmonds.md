@@ -24,3 +24,5 @@ the cooker bowl, but it's ceramic and cleans easily with a long soak of water.
 Store in airtight containers, these keep for a month or more, but these will be
 gone in just a few days. You might portion them out into smaller containers if
 you have them, to help with self control.
+
+\label{roasted-tamari-almonds-in-the-slow-cooker}

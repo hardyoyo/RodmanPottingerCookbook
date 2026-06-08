@@ -50,3 +50,5 @@ From our experience, topping your GF pizza should be pretty spare: a few veggies
 and a drizzle of sauce on top of them, after the pizza is cooked, will work out
 best. Try a drizzle of Quick-Soaked Cashew Cheese Alternative (see page
 \pageref{cheese-alternative}). Or just Olive Oil and Sea Salt.
+
+\label{gluten-free-pizza-dough}

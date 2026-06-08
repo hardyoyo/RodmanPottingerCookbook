@@ -1,7 +1,7 @@
 # Chilaquiles
 A great way to use up corn tortillas.
 
-*breakfast*
+*breakfast, Mexican*
 
 **5 Servings**
 
@@ -21,3 +21,5 @@ Cut the corn tortillas into 1in squarish pieces with a large bread knife. In a
 skillet, sauté the onions in the oil, add green chillies and garlic, add the
 tortillas, stir until the tortillas saok up the spices and oil, add the eggs,
 mix, when eggs set up, sprinkle with cheese and serve.
+
+\label{chilaquiles}

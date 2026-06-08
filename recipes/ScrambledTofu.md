@@ -2,7 +2,7 @@
 
 from: The Chicago Diner Cookbook, by Chef Jo A. Kaucher
 
-*breakfast, Vegan, Gluten-free*
+*breakfast, vegan, gluten-free, tofu*
 
 **4 Servings**
 
@@ -20,3 +20,5 @@ from: The Chicago Diner Cookbook, by Chef Jo A. Kaucher
 Mash the tofu with a potato masher or a fork. Mix with all the remaining
 ingredients until uniformly combined. Sauté the mixture in a lightly oiled
 skillet 3 to 5 minutes, and turn to brown the other side 3 to 5 minutes more. 
+
+\label{scrambled-tofu}

@@ -32,3 +32,5 @@ Bake loaves for about 20 minutes. Optionally, you can put an oven-safe baking
 dish on the bottom shelf of the oven, with a couple of ice cubes in the dish,
 when you put the loaves in to bake. This will make the bread a little more
 crusty than normal, which can be fun.
+
+\label{sourdough-bread}

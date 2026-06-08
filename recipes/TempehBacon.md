@@ -1,8 +1,8 @@
-# Temeph Bacon
+# Tempeh Bacon
 
 From https://minimalistbaker.com/easy-tempeh-bacon/
 
-*staple*
+*staple, tempeh*
 
 **6 Servings**
 
@@ -26,3 +26,5 @@ mariade for later use (this is super convenient, and means you can make Tempeh
 Bacon whenever you want). Cook in a splash of olive oil in a hot skillet, takes 
 about 1-2 minutes per side, until both sides are golden brown and crisp. Add
 salt and pepper to taste (probably won't need any).
+
+\label{tempeh-bacon}

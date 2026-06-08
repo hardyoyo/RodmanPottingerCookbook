@@ -47,3 +47,5 @@ If you decide to scale up this recipe so it fits into a 13x9 baking dish,
 you'll be using about 16 eggs. Also, don't forget that half the cheese goes on
 the hashbrown crust. This gives the casserole a lot more structure. It's OK if
 you forget and put all the cheese on top, it'll still taste great.
+
+\label{breakfast-casserole}

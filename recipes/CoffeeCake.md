@@ -34,3 +34,5 @@ a fork or a pastry blender. Mix in the nuts, then sprinkle over the batter in
 the baking pan.
 
 Bake in a 350°F oven for 30 minutes.
+
+\label{coffee-cake}

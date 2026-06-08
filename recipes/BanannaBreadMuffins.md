@@ -35,3 +35,5 @@ wire rack.
 This is a double recipe, adapted for muffins. If you want to make a single loaf
 of Bananna Bread, find the recipe in the Better Homes and Gardens cook book and
 follow it.
+
+\label{bananna-bread-muffins}

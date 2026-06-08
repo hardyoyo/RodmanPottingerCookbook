@@ -35,3 +35,5 @@ time equals softer veggies and thicker sauce). Natural release. Serve over rice.
 ![info](./images/info-icon.png) *You should start some rice before you even
 start chopping veggies for this. Jasmine cooks faster. But if you have leftover
 rice in the fridge, any sort will do.*
+
+\label{japanese-curry-with-yamasan-curry-powder}

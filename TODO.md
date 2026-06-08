@@ -2,9 +2,7 @@
 
 ## Add labels to all recipes
 
-67 recipes are missing a `\label{...}` at the end of the file. Labels enable cross-references between recipes (e.g. `see page \pageref{spicy-lentils}`). Each label should be a kebab-case version of the recipe name.
-
-Recipes that already have labels (38 total): Koshari, SpicyLentils, KaleAndBrusselsSproutSalad, KaleSalad, SrirachaSauce, PestoSauce, Arepas, RoastedCherryTomatoSalsa, BanhMi, SushiRice, SweetPotatoAndBlackBeanQuesadilla, PlainLentils, RiceCookerBoiledEggs, InstantPotJackfruitClamChowder, LiamsCrispyBreakfastPotatoes, SemolinaCountryBread, KoreanSpinachSideDish, Biga, GomenBeTelba, NepaleseLentilSoup, EnchiladaSauce, BrownLentilDal, ChickpeaCurry, PumpkinPieWithPecanOatCrust, SoybeanPasteStew, CheeseAlternative, SpaghettiPancake, MisirWot, SlowCookerBrownSugaredBabyCarrots, HolidayRoast, Gravy, SoybeanSproutSalad, YeTikilGomenBeKarot, CowboyCaviar, GochujangNoodles, KoreanSpicyTofuBulgogiSsam, TahiniDressing, PeanutButterNoodles
+- [x] All 105 recipes now have a `\label{...}` at the end enabling cross-references.
 
 ## Fix non-standard measurements in recipes
 
@@ -41,43 +39,18 @@ Recipes that already have labels (38 total): Koshari, SpicyLentils, KaleAndBruss
 - `recipes/Japchae.md` — Line 30: `1t`
 
 ## CI via GitHub Actions
-Set up a GitHub Actions workflow to validate recipes and build the cookbook on
-push/PR.
+
+- [x] Set up a GitHub Actions workflow to validate recipes and build the cookbook on push/PR.
 
 ## Improve the index
 
-- Fix misspellings in recipe tags (e.g. "desert" → "dessert")
-- Investigate and fix duplicate index entries
-- Normalize tag capitalization in original recipes
-- Add ingredient labels (tofu, tempeh, etc.) to recipes so they appear in the
-  index under major ingredient headings
-- Ensure cuisine tags are consistently applied across all recipes
-- Add "Instant Pot" tag to recipes that use the Instant Pot but are missing it
+- [x] Fix misspellings in recipe tags (e.g. "desert" → "dessert")
+- [x] Investigate and fix duplicate index entries
+- [x] Normalize tag capitalization in original recipes
+- [x] Add ingredient labels (tofu, tempeh, seitan, jackfruit, soy-curls) to recipes so they appear in the index under major ingredient headings
+- [x] Ensure cuisine tags are consistently applied across all recipes
+- [x] Add "Instant Pot" tag to recipes that use the Instant Pot but are missing it (0 were missing)
 
 ## Release target
-Add a `release` target to the Makefile that cuts a new release of the cookbook
-with compiled PDFs uploaded as artifacts on the release page.
 
-## Port improvements from Make for DevOps Makefile [IN PROGRESS]
-
-The "Make for DevOps" Makefile has improvements worth porting back.
-
-### ✅ Already ported (branch: `port-makefile-improvements`)
-
-- `.ONESHELL` + safer `.SHELLFLAGS` (+ `SHELL := /bin/bash`) for error resilience
-- `.DEFAULT_GOAL := help` — show help by default
-- `check-pdf-prereqs` target — checks xelatex is available with install instructions
-- `stats` target — word counts, page counts, PDF metadata
-- `clean` with conditional deletion — won't error if build dir doesn't exist
-- Git metadata generation (`$(TMP_METADATA)`) — embed commit SHA/date/URL in build
-- `$(ECHO_BUILDING)` / `$(ECHO_BUILT)` helpers for consistent build feedback
-- OS-aware `$(COPY_CMD)` via `uname` detection (macOS uses `cp -P`, Linux `cp --parent`)
-- Base dependencies include `$(MAKEFILE)` — rebuild when Makefile changes
-- `$(MKDIR_CMD)` / `$(RMDIR_CMD)` abstraction
-
-### ⏳ Still to consider
-
-- `$(PROGRESS_BAR)` function — countdown during long builds
-- `stale-chapters` → `stale-recipes` target — find recipes needing recent edits
-- `toc` target — generate table of contents from source files
-- `validate` target — check for forbidden words in source
+- [ ] Add a `release` target to the Makefile that cuts a new release of the cookbook with compiled PDFs uploaded as artifacts on the release page.

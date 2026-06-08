@@ -31,3 +31,5 @@ the dough into a teaspoon (or small cookie scooper) and transfer the glob onto
 an ungreaseid cookie sheet. Don't smash it, just leave it and make some more
 globs. Bake in a 375°F oven for 8 to 10 minutes, or until edges are firm, but
 don't let them turn too brown. Cool cookies on newspaper.
+
+\label{chocolate-chip-cookies}

@@ -32,3 +32,5 @@ already chopped to the right size, easy/peasy).
 If you're cooking for mixed company, you can sauté both brats and Quorn (in
 separate skillets, obviously) and then invite your guests to add whatever meat
 substitute they prefer to their soup.
+
+\label{brat-and-cabbage-soup}

@@ -52,3 +52,5 @@ Use "rice sticks" (wide rice noodles). Break the noodles into shorter lengths
 (about 3 inches or less) and soak in a bowl of room temperature water for about
 30 minutes. When the soup is done, as you serve each bowl, add the noodles to
 the soup in the bowl.
+
+\label{im-sick-soup}

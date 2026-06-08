@@ -40,3 +40,5 @@ also use glass noodles, or Soba (buckwheat isn't actually wheat, just be sure
 they haven't snuck in any wheat: read the package). Shirataki noodles (check the
 refrigerator section of an Asian market). Rice noodles work great and every
 store has them. Or, spiralize a vegetable!
+
+\label{kombu-ramen-broth}

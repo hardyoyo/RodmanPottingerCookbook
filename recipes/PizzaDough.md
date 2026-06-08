@@ -33,3 +33,5 @@ crust as-is, maybe on some wax paper so it doesn't stick to stuff, then put it
 in a large ziplock or some other plastic container after it's frozen. Keeps a
 couple months, but good luck ignoring a large pizza crust in your freezer for
 that long.
+
+\label{basic-pizza-dough}

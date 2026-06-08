@@ -45,3 +45,5 @@ container at room temperature for up to 1 week.
 
 Source:
 http://www.loveandoliveoil.com/2012/12/chocolate-mint-truffle-cookies.html
+
+\label{chocolate-mint-truffle-cookies}

@@ -32,3 +32,5 @@ the chives and green onion, and serve.
 
 You can always steam the potatoes in an instant pot if you're in hurry or are
 feeling lazy.
+
+\label{warm-potato-salad-with-lemon-and-chive-vinaigrette}

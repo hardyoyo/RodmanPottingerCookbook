@@ -35,3 +35,5 @@ the cooker. Stir, then add the beans. Add all the spices. Add the potatoes. Pop
 on the lid, set the cooker for 15 minutes on beans/chili. Release the pressure,
 pop open the lid, fish out the bay leaf. Add the cilantro. Salt and pepper to
 taste.
+
+\label{black-bean-soup}

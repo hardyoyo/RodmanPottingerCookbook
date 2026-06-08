@@ -51,3 +51,5 @@ rice in a bag, canned tomatoes, and a tube of chopped basil, if you can't find
 fresh basil. It's OK to skip the nutritional yeast if you're winging it on the
 road. We made this on vacation in Halifax, NS, in a tiny apartment, and it was
 really a nice treat.*
+
+\label{basil-brown-rice-and-lentil-pilaf}

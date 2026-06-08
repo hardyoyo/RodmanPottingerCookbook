@@ -9,7 +9,7 @@ From _The Bread Lover's Bread Machine Cookbook_ by Beth Hensperger
 ---
 
 - *1 C* warm water
-- *1/4 C* [Biga](./Biga.md) (see page \pageref{Biga}).
+- *1/4 C* [Biga](./Biga.md) (see page \pageref{biga}).
 - *1 1/2 t* bread machine yeast
 - *2 T* olive oil
 - *1 1/2 C* bread flour
@@ -53,4 +53,4 @@ If you get tired of this recipe, grab the book, there's a few more Biga-based
 recipes in it, and it's a great book. Me, I'm lazy, and this is a good system,
 it works for me.
 
-\label{SemolinaCountryBread}
+\label{semolina-country-bread}

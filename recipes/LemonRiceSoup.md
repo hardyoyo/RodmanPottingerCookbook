@@ -35,3 +35,5 @@ and set it for 20 minutes.
 
 Open the lid, stir in as much of the lemon juice as you’d like. Garnish
 with chopped parsley and lemon slices, if desired. Serve immediately.
+
+\label{lemon-rice-soup}

@@ -30,3 +30,5 @@ last, if you have any. Don't fret if you dont... Just add 2 C of water to the
 main pot of the cooker (not the bowl with your soup), pop on the lid and set
 the cooker on soup, adjust the time to 15 minutes. Let it natural release for
 10 minutes. Then eat!
+
+\label{personal-lentil-curry}

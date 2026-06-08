@@ -24,7 +24,7 @@ weeks. You can also freeze in 1/4 cup chunks (this is what I recommend, it
 helps with laziness).
 
 Use Biga to make [Semolina Country Bread](./SemolinaCountryBread.md) (see page
-\pageref{SemolinaCountryBread}).
+\pageref{semolina-country-bread}).
 
 
-\label{Biga}
+\label{biga}

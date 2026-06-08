@@ -39,3 +39,5 @@ dough over, and press together to seal. Press with the tines of a fork around
 the edge of the sealed dough, and transfer the empanadas to the prepared baking
 sheets, spacing them at least 1 in. apart. Bake for 15 to 20 minutes or until
 the tops are golden brown.
+
+\label{sweet-potato-and-black-bean-empanadas}

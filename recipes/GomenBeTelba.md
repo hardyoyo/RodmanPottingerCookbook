@@ -46,4 +46,4 @@ Injera... Gomen Be'Telba doesn't freeze well.
 
 See also Misir Wat (page \pageref{misir-wot}).
 
-\label{gomem-be-telba}
+\label{gomen-be-telba}

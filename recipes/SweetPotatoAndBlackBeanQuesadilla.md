@@ -1,6 +1,6 @@
 # Sweet Potato and Black Bean Quesadilla
 
-*Gluten Free*
+*gluten-free*
 
 **8 Servings**
 

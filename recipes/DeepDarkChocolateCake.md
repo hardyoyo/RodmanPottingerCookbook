@@ -29,3 +29,5 @@ will be thin). Pour into greased and floured pan (13" x 9" or 2 round 9 1/2"
 pans). Bake in a preheated 350°F oven, 35-40 minutes (slightly shorter for the
 round pans). Cool cake 10 minutes, remove from pans. Cool completely. Icing
 is optional, this cake does not need it.
+
+\label{deep-dark-chocolate-cake}

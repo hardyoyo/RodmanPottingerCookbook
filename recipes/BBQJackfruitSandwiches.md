@@ -3,7 +3,7 @@
 From
 https://www.peacefuldumpling.com/recipe/vegan-crock-pot-recipes-bbq-pulled-jackfruit-sandwiches
 
-*crockpot*
+*crockpot, jackfruit*
 
 **8 Servings**
 
@@ -41,3 +41,5 @@ some kind of bread (toast it so it doesn't fall apart). If you have the coleslaw
 and are so inclined, top the jackfruit you've put on your bread with a dollop of
 coleslaw. It's a southern thing, you don't have to do it. But it's yummy. Cap it
 off with another piece of bread, and chow down.
+
+\label{bbq-jackfruit-sandwiches}

@@ -4,7 +4,7 @@ Egyptian comfort food.
 
 from: [Nikki & David Goldbeck's American Wholefoods Cuisine](https://isbn.nu/0452262801)
 
-*dinner*
+*dinner, Egyptian*
 
 **5 Servings**
 
@@ -38,4 +38,4 @@ When the rice is done, everything should be ready to assemble. Go in this order:
 rice, lentils, mac, sauce, garnish. Or, refer to the cheetsheat below.
 
 ![Koshari Cheat Sheet](./images/koshari-cheatsheet.jpg)
-\label{Koshari}
+\label{koshari}

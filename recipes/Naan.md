@@ -42,3 +42,5 @@ bubbly, then flip. It'll be blistered and a bit blackened, but that's OK, it's
 supposed to look like that, right? You can dust each finished naan with a bit of
 butter and a sprinkle of salt, but only if you want to, they're fine without
 anything else. Enjoy!
+
+\label{naan-indian-oven-baked-flat-bread}

@@ -2,7 +2,7 @@
 
 from: https://cookieandkate.com/vegetarian-pho-recipe/
 
-*soup, Instant Pot*
+*soup, Instant Pot, Vietnamese*
 
 **6 Servings**
 
@@ -46,3 +46,5 @@ Whenever the cooker beeps, open the lid and fish out the spice satchet. Taste
 the broth, and season it to taste, with salt, tamari and/or pepper. Ladle the 
 broth into large soup bowls, add the noodles and mushrooms, let everyone garnish
 their own soup from here on out.
+
+\label{pho-vietnamese-soup}

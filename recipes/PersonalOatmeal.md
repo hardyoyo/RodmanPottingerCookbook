@@ -1,4 +1,5 @@
 # Personal Oatmeal in the Instant Pot
+
 *Instant Pot, breakfast*
 
 **1 Servings**
@@ -32,3 +33,5 @@ and the plus/minus buttons to adjust the time.
 |                |                 |           |              |
 | rolled oats    | 1/3 C oats      | 1 min     | 1 C oats     |
 |                | 2/3 C water     |           | 2 C water    |
+
+\label{personal-oatmeal-in-the-instant-pot}

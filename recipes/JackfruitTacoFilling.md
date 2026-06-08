@@ -2,7 +2,7 @@
 
 From: https://minimalistbaker.com/spicy-jackfruit-tacos-1-pot-meal/
 
-*vegan*
+*vegan, jackfruit*
 
 **5 Servings**
 
@@ -32,3 +32,5 @@ spices and cover. Reduce the heat to a minimum until half of the liquid is
 evaporated and jackfruit becomes soft. Using a potato masher, mash the jackfruit
 to get them shredded. If the jackfruit is wet, cook them more and if they seem
 dry, add some vegetable broth or water to it.
+
+\label{jackfruit-taco-filling}

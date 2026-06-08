@@ -6,7 +6,7 @@ obviously made almsot entirely of gluten, so only cook this when your
 gluten-sensitive family members or friends aren't around. And then clean up
 right away!
 
-*staple*
+*staple, seitan*
 
 **12 Servings**
 
@@ -46,3 +46,5 @@ You *can* use an instant pot for this recipe, but only like a slow cooker, don't
 close the vent, and don't let it come up to pressure. Probably use the sauté
 button to get things up to boiling faster, then switch to Slow Cook for the
 simmer.
+
+\label{simple-seitan}

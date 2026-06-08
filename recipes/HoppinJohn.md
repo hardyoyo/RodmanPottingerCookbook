@@ -2,7 +2,7 @@
 
 from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hoppin-john)
 
-*Stovetop*
+*Stovetop, soul-food*
 
 **5 Servings**
 
@@ -49,3 +49,4 @@ a hurry, soup button, 7 minutes, quick release, or if you're using dry beans
 (totally OK!), double the liquid to 6 cups, and cook for 26 minutes, natural
 release.*
 
+\label{hoppin-john}

@@ -2,7 +2,7 @@
 
 From: https://www.hungrypaprikas.com/instant-pot-easy-lentil-soup/
 
-*soup, Instant Pot*
+*soup, Instant Pot, middle-eastern*
 
 **8 Servings**
 
@@ -39,3 +39,5 @@ water. If you like it thinner, add more water and allow it to cook for a few
 more minutes on sauté mode. Like a lot of soups, this one would be improved with
 about 1t of mushroom powder, and a sprinkle of black garlic, if you have any.
 But those are both optional.
+
+\label{middle-eastern-lentil-soup}
