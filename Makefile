@@ -1,6 +1,6 @@
-####################################################################################################
+######################################################################
 # Configuration
-####################################################################################################
+######################################################################
 
 .DEFAULT_GOAL := help
 
@@ -72,8 +72,9 @@ RECIPEMD = .venv/bin/recipemd
 
 # DEBUG_ARGS = --verbose
 
-# Pandoc filters - uncomment the following variable to enable cross references filter. For more
-# information, check the "Cross references" section on the README.md file.
+# Pandoc filters - uncomment the following variable to enable cross
+# references filter. For more information, check the "Cross references"
+# section on the README.md file.
 
 # FILTER_ARGS = --filter pandoc-crossref
 
@@ -94,19 +95,21 @@ PDF_ENGINE = xelatex
 
 # Per-format file dependencies
 
-BASE_DEPENDENCIES = $(MAKEFILE) $(PAGES) $(METADATA) $(IMAGES) $(TEMPLATES) $(TMP_METADATA)
+BASE_DEPENDENCIES = $(MAKEFILE) $(PAGES) $(METADATA) $(IMAGES) \
+	$(TEMPLATES) $(TMP_METADATA)
 DOCX_DEPENDENCIES = $(BASE_DEPENDENCIES)
 EPUB_DEPENDENCIES = $(BASE_DEPENDENCIES)
 HTML_DEPENDENCIES = $(BASE_DEPENDENCIES)
 PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 
-####################################################################################################
+######################################################################
 # Basic actions
-####################################################################################################
+######################################################################
 
-.PHONY: help all book clean epub html pdf docx final check
-.PHONY: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting find-adjective-titles proofread
-.PHONY: check-pdf-prereqs stats
+.PHONY: help all book clean epub html pdf docx final check \
+	find-missing-units find-repeated-words find-missing-attribution \
+	check-hr-formatting find-adjective-titles proofread \
+	check-pdf-prereqs stats
 
 help:	## -- Display this help message
 	@printf "\033[1m📖 Rodman-Pottinger Family Cookbook — Build System\033[0m\n"
@@ -179,10 +182,12 @@ check-hr-formatting:	## -- Check horizontal rules have blank lines around them
 	@hits=$$(awk 'FNR==1{prev=""} /^---$$/ && prev != "" {print FILENAME ":" FNR ": no blank line before ---"} prev ~ /^---$$/ && $$0 != "" {print FILENAME ":" (FNR-1) ": no blank line after ---"} {prev=$$0}' recipes/*.md); \
 	if [ -n "$$hits" ]; then echo "$$hits"; else echo "  OK"; fi
 
-find-adjective-titles:	## -- Find titles starting with an adjective (e.g. "Sweet Arepas" under S instead of A)
+find-adjective-titles:	## -- Find titles starting with an adjective
+	##    (e.g. "Sweet Arepas" under S instead of A)
 	@python3 scripts/find-adjective-titles.py recipes/*.md; exit 0
 
-proofread: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting find-adjective-titles ## -- Run all proofreading checks
+proofread: find-missing-units find-repeated-words find-missing-attribution \
+	check-hr-formatting find-adjective-titles ## -- Run all proofreading checks
 
 check-pdf-prereqs: ## -- Check if PDF generation prerequisites are available
 	@echo "Checking PDF generation prerequisites..."
@@ -241,9 +246,9 @@ $(TMP_METADATA):
 		sed -E 's#git@([^:]+):#\1/#; s#\.git$$##')" >> $(TMP_METADATA)
 	echo "git_date: $(shell git log -1 --format=%cd --date=short)" >> $(TMP_METADATA)
 
-####################################################################################################
+######################################################################
 # File builders
-####################################################################################################
+######################################################################
 
 epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub ## -- Build EPUB file
 
@@ -271,12 +276,25 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(LUA_FILTER) --template templates/pdf.latex --include-in-header=includes/table-prefs.tex -o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
-	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(LUA_FILTER) \
+		--template templates/pdf.latex \
+		--include-in-header=includes/table-prefs.tex \
+		-o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
 	-makeindex $(BUILD)/pdf/$(OUTPUT_FILENAME).idx 2>/dev/null
-	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
-	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
-	rm -f $(BUILD)/pdf/$(OUTPUT_FILENAME).tex $(BUILD)/pdf/$(OUTPUT_FILENAME).aux $(BUILD)/pdf/$(OUTPUT_FILENAME).idx $(BUILD)/pdf/$(OUTPUT_FILENAME).ilg $(BUILD)/pdf/$(OUTPUT_FILENAME).ind $(BUILD)/pdf/$(OUTPUT_FILENAME).log $(BUILD)/pdf/$(OUTPUT_FILENAME).out $(BUILD)/pdf/$(OUTPUT_FILENAME).toc
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	rm -f $(BUILD)/pdf/$(OUTPUT_FILENAME).tex \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).aux \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).idx \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).ilg \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).ind \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).log \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).out \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).toc
 	$(ECHO_BUILT)
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
