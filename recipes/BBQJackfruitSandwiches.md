@@ -10,7 +10,7 @@ https://www.peacefuldumpling.com/recipe/vegan-crock-pot-recipes-bbq-pulled-jackf
 ---
 
 - *2* 20oz. cans of Jackfruit (in brine, not syrup)
-- *1t* garlic, minced
+- *1 t* garlic, minced
 - *1/4* red onion, diced
 - *1/4 C* ketchup
 - *1/2 T* vegetable oil

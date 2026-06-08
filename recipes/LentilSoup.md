@@ -13,7 +13,7 @@ celery, you can substitute lots more garlic if you don't have celery.
 
 - *1 T* olive oil
 - *1 T* garlic, chopped
-- *2 C / 1* large onion, chopped
+- *1* large onion, chopped
 - *2* large carrots, chopped
 - *2* large celery ribs, chopped (optional)
 - *2* potatoes, chopped (optional)

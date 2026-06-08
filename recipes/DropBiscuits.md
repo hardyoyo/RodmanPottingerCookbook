@@ -11,7 +11,7 @@ from _Nikki and David Goldbeck's American Wholefoods Cuisine_ by Nikki Goldbeck
 - *3 C* whole wheat flour
 - *3/8 C* wheat germ
 - *1/8 C* baking powder
-- *3/4 t* salt *STOP! STIR THESE DRY INGREDIENTS!*
+- *3/4 t* salt — STOP! STIR THESE DRY INGREDIENTS!
 - *3/8 C* vegetable oil
 - *1/8 C* honey or agave syrup
 - *1 1/4 C* milk

@@ -15,7 +15,7 @@ right away!
 - *3 C* vital wheat gluten flour
 - *9 T* nutritional yeast
 - *1.5 C* cold vegetable broth
-- *0.75 C* soy sauce
+- *3/4 C* soy sauce
 - *3 T* olive oil
 - *6 t* garlic, minced
 - *8 C* cold water
