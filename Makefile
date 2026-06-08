@@ -1,6 +1,19 @@
-####################################################################################################
+######################################################################
 # Configuration
-####################################################################################################
+######################################################################
+
+.DEFAULT_GOAL := help
+
+# Improve Error Handling
+.ONESHELL:
+ifdef DEBUG
+.SHELLFLAGS := -eux -o pipefail -c
+else
+.SHELLFLAGS := -eu -o pipefail -c
+endif
+
+# catch errors in pipe chains
+SHELL := /bin/bash
 
 # Build configuration
 
@@ -9,13 +22,31 @@ MAKEFILE = Makefile
 OUTPUT_FILENAME = cookbook
 FINAL_FILENAME = RodmanPottingerFamilyCookbook
 METADATA = metadata.yml
+TMP_METADATA = $(BUILD)/tmp-metadata.yml
 TOC = --toc --toc-depth 2
-METADATA_ARGS = --metadata-file $(METADATA)
+METADATA_ARGS = --metadata-file $(METADATA) --metadata-file $(TMP_METADATA)
 IMAGES = $(shell find images -type f)
 TEMPLATES = $(shell find templates/ -type f)
 INCLUDES = $(shell find includes/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS =
+
+# Detected Operating System
+
+OS = $(shell sh -c 'uname -s 2>/dev/null || echo Unknown')
+
+# OS specific commands
+
+ifeq ($(OS),Darwin)
+	COPY_CMD = cp -P
+else
+	COPY_CMD = cp --parent
+endif
+
+MKDIR_CMD = mkdir -p
+RMDIR_CMD = rm -r
+ECHO_BUILDING = @echo "building $@..."
+ECHO_BUILT = @echo "$@ was built"
 
 ## START WITH ALL THE RECIPES, THEN THE WORDS
 PAGES = recipes/*.md
@@ -41,8 +72,9 @@ RECIPEMD = .venv/bin/recipemd
 
 # DEBUG_ARGS = --verbose
 
-# Pandoc filters - uncomment the following variable to enable cross references filter. For more
-# information, check the "Cross references" section on the README.md file.
+# Pandoc filters - uncomment the following variable to enable cross
+# references filter. For more information, check the "Cross references"
+# section on the README.md file.
 
 # FILTER_ARGS = --filter pandoc-crossref
 
@@ -63,32 +95,49 @@ PDF_ENGINE = xelatex
 
 # Per-format file dependencies
 
-BASE_DEPENDENCIES = $(MAKEFILE) $(PAGES) $(METADATA) $(IMAGES) $(TEMPLATES)
+BASE_DEPENDENCIES = $(MAKEFILE) $(PAGES) $(METADATA) $(IMAGES) \
+	$(TEMPLATES) $(TMP_METADATA)
 DOCX_DEPENDENCIES = $(BASE_DEPENDENCIES)
 EPUB_DEPENDENCIES = $(BASE_DEPENDENCIES)
 HTML_DEPENDENCIES = $(BASE_DEPENDENCIES)
 PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 
-####################################################################################################
+######################################################################
 # Basic actions
-####################################################################################################
+######################################################################
 
-.PHONY: help all book clean epub html pdf docx final check
-.PHONY: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting find-adjective-titles proofread
+.PHONY: help all book clean epub html pdf docx final check \
+	find-missing-units find-repeated-words find-missing-attribution \
+	check-hr-formatting find-adjective-titles proofread \
+	check-pdf-prereqs stats
 
 help:	## -- Display this help message
-	@echo "Available targets:"
+	@printf "\033[1m📖 Rodman-Pottinger Family Cookbook — Build System\033[0m\n"
+	@printf "\033[1m====================================================\033[0m\n"
+	@echo ""
+	@printf "\033[1mAvailable targets:\033[0m\n"
+	@echo ""
 	@grep -E '^[a-zA-Z_-]+:.*## --' $(MAKEFILE_LIST) | \
-		awk 'BEGIN {FS = ":.*## -- "}; {printf "  %-15s %s\n", $$1, $$2}'
+		awk 'BEGIN {FS = ":.*## -- "}; {printf "  \033[36m%-18s\033[0m %s\n", $$1, $$2}'
+	@echo ""
+	@printf "\033[1mConfiguration:\033[0m\n"
+	@echo ""
+	@echo "  PUBLISH_PATH is not set for this project"
+	@echo ""
 
 all:	book ## -- Build all formats
 
 book:	epub html pdf docx
 
 clean:	## -- Clean up build directory
-	rm -r $(BUILD)
-	mkdir ${BUILD}
-	touch ${BUILD}/.gitkeep
+	@if [ -d "$(BUILD)" ]; then \
+		echo "Removing $(BUILD) directory..."; \
+		$(RMDIR_CMD) $(BUILD); \
+	else \
+		echo "$(BUILD) directory already clean."; \
+	fi
+	$(MKDIR_CMD) $(BUILD)
+	touch $(BUILD)/.gitkeep
 
 check:	## -- Validate all RecipeMD files (includes HR formatting check)
 	@failed=0; \
@@ -133,51 +182,128 @@ check-hr-formatting:	## -- Check horizontal rules have blank lines around them
 	@hits=$$(awk 'FNR==1{prev=""} /^---$$/ && prev != "" {print FILENAME ":" FNR ": no blank line before ---"} prev ~ /^---$$/ && $$0 != "" {print FILENAME ":" (FNR-1) ": no blank line after ---"} {prev=$$0}' recipes/*.md); \
 	if [ -n "$$hits" ]; then echo "$$hits"; else echo "  OK"; fi
 
-find-adjective-titles:	## -- Find titles starting with an adjective (e.g. "Sweet Arepas" under S instead of A)
+find-adjective-titles:	## -- Find titles starting with an adjective
+	##    (e.g. "Sweet Arepas" under S instead of A)
 	@python3 scripts/find-adjective-titles.py recipes/*.md; exit 0
 
-proofread: find-missing-units find-repeated-words find-missing-attribution check-hr-formatting find-adjective-titles ## -- Run all proofreading checks
+proofread: find-missing-units find-repeated-words find-missing-attribution \
+	check-hr-formatting find-adjective-titles ## -- Run all proofreading checks
 
-####################################################################################################
+check-pdf-prereqs: ## -- Check if PDF generation prerequisites are available
+	@echo "Checking PDF generation prerequisites..."
+	@if ! command -v xelatex >/dev/null 2>&1; then \
+		echo ""; \
+		echo "❌ xelatex not found!"; \
+		echo ""; \
+		echo "To fix this:"; \
+		echo "  devbox shell (if using devbox)"; \
+		echo "  brew install --cask mactex (macOS)"; \
+		echo "  sudo apt install texlive-xetex (Debian/Ubuntu)"; \
+		echo ""; \
+		exit 1; \
+	fi
+	@echo "✅ xelatex is available"
+
+stats: ## -- Show book statistics
+	@echo ""
+	@echo "📚 Cookbook Statistics"
+	@echo "========================"
+	@recipe_count=$$(ls recipes/*.md 2>/dev/null | wc -l); \
+	total_words=$$(cat $(PAGES) 2>/dev/null | wc -w); \
+	total_lines=$$(cat $(PAGES) 2>/dev/null | wc -l); \
+	recipe_words=$$(cat recipes/*.md 2>/dev/null | wc -w); \
+	echo "🍳 Recipes: $$recipe_count"; \
+	echo ""; \
+	echo "📝 Total words: $$total_words"; \
+	echo "📏 Total lines: $$total_lines"; \
+	echo ""; \
+	if [ -f "$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf" ]; then \
+		if command -v pdfinfo >/dev/null 2>&1; then \
+			pages=$$(pdfinfo "$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf" | grep "Pages:" | awk '{print $$2}'); \
+			title=$$(pdfinfo "$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf" | grep "Title:" | cut -d: -f2- | sed 's/^ *//'); \
+			echo "📑 PDF pages: $$pages"; \
+			echo "📖 PDF title: $$title"; \
+		else \
+			echo "📑 PDF pages: (install pdfinfo to see PDF metadata)"; \
+		fi; \
+		git_sha=$$(grep -o "git_sha: [a-f0-9]*" $(TMP_METADATA) 2>/dev/null | cut -d: -f2 | sed 's/^ *//'); \
+		git_date=$$(grep -o "git_date: [0-9-]*" $(TMP_METADATA) 2>/dev/null | cut -d: -f2 | sed 's/^ *//'); \
+		if [ -n "$$git_sha" ]; then \
+			echo "📝 Git commit: $$git_sha"; \
+			echo "📅 Git date: $$git_date"; \
+		else \
+			echo "📝 Git info: (run 'make clean && make pdf' to embed)"; \
+		fi; \
+	else \
+		echo "📑 PDF pages: (run 'make pdf' first)"; \
+	fi; \
+	echo ""
+
+$(TMP_METADATA):
+	$(MKDIR_CMD) $(BUILD)
+	echo "git_sha: $(shell git rev-parse --short HEAD)" > $(TMP_METADATA)
+	echo "git_url: $(shell git config --get remote.origin.url | \
+		sed -E 's#git@([^:]+):#\1/#; s#\.git$$##')" >> $(TMP_METADATA)
+	echo "git_date: $(shell git log -1 --format=%cd --date=short)" >> $(TMP_METADATA)
+
+######################################################################
 # File builders
-####################################################################################################
+######################################################################
 
 epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub ## -- Build EPUB file
 
 html:	$(BUILD)/html/$(OUTPUT_FILENAME).html ## -- Build HTML file
 
-pdf:	$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf ## -- Build PDF file
+pdf:	check-pdf-prereqs $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf ## -- Build PDF file
 
 docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx ## -- Build DOCX file
 
 final:  $(BUILD)/pdf/$(FINAL_FILENAME).pdf ## -- Build final PDF file
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
-	mkdir -p $(BUILD)/epub
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/epub
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
-	@echo "$@ was built"
+	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
-	mkdir -p $(BUILD)/html
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/html
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
-	cp --parent $(IMAGES) $(BUILD)/html/
-	@echo "$@ was built"
+	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
+	$(ECHO_BUILT)
 
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
-	mkdir -p $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(LUA_FILTER) --template templates/pdf.latex --include-in-header=includes/table-prefs.tex -o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
-	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/pdf
+	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(LUA_FILTER) \
+		--template templates/pdf.latex \
+		--include-in-header=includes/table-prefs.tex \
+		-o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
 	-makeindex $(BUILD)/pdf/$(OUTPUT_FILENAME).idx 2>/dev/null
-	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
-	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape -interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
-	rm -f $(BUILD)/pdf/$(OUTPUT_FILENAME).tex $(BUILD)/pdf/$(OUTPUT_FILENAME).aux $(BUILD)/pdf/$(OUTPUT_FILENAME).idx $(BUILD)/pdf/$(OUTPUT_FILENAME).ilg $(BUILD)/pdf/$(OUTPUT_FILENAME).ind $(BUILD)/pdf/$(OUTPUT_FILENAME).log $(BUILD)/pdf/$(OUTPUT_FILENAME).out $(BUILD)/pdf/$(OUTPUT_FILENAME).toc
-	@echo "$@ was built"
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+	rm -f $(BUILD)/pdf/$(OUTPUT_FILENAME).tex \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).aux \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).idx \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).ilg \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).ind \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).log \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).out \
+		$(BUILD)/pdf/$(OUTPUT_FILENAME).toc
+	$(ECHO_BUILT)
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
-	mkdir -p $(BUILD)/docx
+	$(ECHO_BUILDING)
+	$(MKDIR_CMD) $(BUILD)/docx
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
-	@echo "$@ was built"
+	$(ECHO_BUILT)
 
 $(BUILD)/pdf/$(FINAL_FILENAME).pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+	$(ECHO_BUILDING)
 	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf GroceryList.pdf $@
-	@echo "$@ was built"
+	$(ECHO_BUILT)
