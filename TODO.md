@@ -2,9 +2,7 @@
 
 ## Add labels to all recipes
 
-- [ ] 67 recipes are missing a `\label{...}` at the end of the file. Labels enable cross-references between recipes (e.g. `see page \pageref{spicy-lentils}`). Each label should be a kebab-case version of the recipe name.
-
-Recipes that already have labels (38 total): Koshari, SpicyLentils, KaleAndBrusselsSproutSalad, KaleSalad, SrirachaSauce, PestoSauce, Arepas, RoastedCherryTomatoSalsa, BanhMi, SushiRice, SweetPotatoAndBlackBeanQuesadilla, PlainLentils, RiceCookerBoiledEggs, InstantPotJackfruitClamChowder, LiamsCrispyBreakfastPotatoes, SemolinaCountryBread, KoreanSpinachSideDish, Biga, GomenBeTelba, NepaleseLentilSoup, EnchiladaSauce, BrownLentilDal, ChickpeaCurry, PumpkinPieWithPecanOatCrust, SoybeanPasteStew, CheeseAlternative, SpaghettiPancake, MisirWot, SlowCookerBrownSugaredBabyCarrots, HolidayRoast, Gravy, SoybeanSproutSalad, YeTikilGomenBeKarot, CowboyCaviar, GochujangNoodles, KoreanSpicyTofuBulgogiSsam, TahiniDressing, PeanutButterNoodles
+- [x] All 105 recipes now have a `\label{...}` at the end enabling cross-references.
 
 ## Fix non-standard measurements in recipes
 
@@ -47,11 +45,11 @@ Recipes that already have labels (38 total): Koshari, SpicyLentils, KaleAndBruss
 ## Improve the index
 
 - [x] Fix misspellings in recipe tags (e.g. "desert" → "dessert")
-- [ ] Investigate and fix duplicate index entries
+- [x] Investigate and fix duplicate index entries
 - [x] Normalize tag capitalization in original recipes
-- [ ] Add ingredient labels (tofu, tempeh, etc.) to recipes so they appear in the index under major ingredient headings
-- [ ] Ensure cuisine tags are consistently applied across all recipes
-- [ ] Add "Instant Pot" tag to recipes that use the Instant Pot but are missing it
+- [x] Add ingredient labels (tofu, tempeh, seitan, jackfruit, soy-curls) to recipes so they appear in the index under major ingredient headings
+- [x] Ensure cuisine tags are consistently applied across all recipes
+- [x] Add "Instant Pot" tag to recipes that use the Instant Pot but are missing it (0 were missing)
 
 ## Release target
 

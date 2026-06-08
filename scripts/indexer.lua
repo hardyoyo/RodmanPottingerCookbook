@@ -18,7 +18,7 @@ function Header(el)
     if section_titles[current_title] then
       return nil
     end
-    return {el, pandoc.RawBlock('latex', '\\index{' .. escape_for_index(current_title) .. '}')}
+    return {el}
   end
 end
 
