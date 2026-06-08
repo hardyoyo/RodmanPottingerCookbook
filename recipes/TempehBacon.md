@@ -2,7 +2,7 @@
 
 From https://minimalistbaker.com/easy-tempeh-bacon/
 
-*staple*
+*staple, tempeh*
 
 **6 Servings**
 

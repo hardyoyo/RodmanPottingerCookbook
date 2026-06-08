@@ -3,7 +3,7 @@
 From
 https://www.peacefuldumpling.com/recipe/vegan-crock-pot-recipes-bbq-pulled-jackfruit-sandwiches
 
-*crockpot*
+*crockpot, jackfruit*
 
 **8 Servings**
 

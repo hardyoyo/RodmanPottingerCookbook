@@ -5,7 +5,7 @@ thing, but you can order them online. They keep forever and are easy to handle.
 You should have some in your pantry, and probably in your prepper box, too.
 This fajita filling is also perfect for burritos.
 
-*vegan*
+*vegan, soy-curls*
 
 **5 Servings**
 

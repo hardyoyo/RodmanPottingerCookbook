@@ -6,7 +6,7 @@ obviously made almsot entirely of gluten, so only cook this when your
 gluten-sensitive family members or friends aren't around. And then clean up
 right away!
 
-*staple*
+*staple, seitan*
 
 **12 Servings**
 

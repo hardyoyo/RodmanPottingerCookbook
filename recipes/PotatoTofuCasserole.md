@@ -2,7 +2,7 @@
 
 From _Vegetariana_ by Nava Atlas
 
-*main dish*
+*main dish, tofu*
 
 **5 Servings**
 

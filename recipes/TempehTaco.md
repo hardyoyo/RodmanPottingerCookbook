@@ -3,7 +3,7 @@
 From somewhere on the internet, we've been making this for so long, we've lost
 track of the original recipe.
 
-*staple*
+*staple, tempeh*
 
 **5 Servings**
 

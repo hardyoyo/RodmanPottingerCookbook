@@ -3,7 +3,7 @@
 If you have favorite recipes that call for Field Roast, and a family member with
 gluten sensitivity, this is a worthwhile endeavor.
 
-*gluten alternative*
+*gluten alternative, seitan*
 
 **5 Servings**
 
