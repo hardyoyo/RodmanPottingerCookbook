@@ -1,4 +1,4 @@
-# Temeph Bacon
+# Tempeh Bacon
 
 From https://minimalistbaker.com/easy-tempeh-bacon/
 

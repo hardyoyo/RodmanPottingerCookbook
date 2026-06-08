@@ -29,4 +29,4 @@ turn it one section at a time. Brown the pancake on the other side, 3-5 minutes.
 Serve with ketchup.
 
 
-\label{spachetti-pancake}
+\label{spaghetti-pancake}
