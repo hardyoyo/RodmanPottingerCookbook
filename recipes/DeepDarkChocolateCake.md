@@ -3,7 +3,7 @@
 This is from the side of a Hershey's Cocoa powder tin, which is why they get a
 shout-out in the list of ingredients.
 
-*desert*
+*dessert*
 
 **8 Servings**
 

@@ -6,7 +6,7 @@ appearance, and snag a few, so you can make a batch or two of these. They make
 perfect gifts for neighbors or the mail man, so make a bunch, just try not to
 eat them all at once.
 
-*desert*
+*dessert*
 
 **60 Servings**
 
