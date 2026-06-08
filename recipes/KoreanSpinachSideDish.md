@@ -2,7 +2,7 @@
 
 from https://www.maangchi.com/recipe/sigumchi-namul
 
-*korean, salad, side-dish*
+*Korean, salad, side-dish*
 
 **6 Servings**
 

@@ -3,7 +3,7 @@
 We sometimes jokingly call this "Roten Cabbage Soup" because it gets a laugh.
 Not always.
 
-*soup, instant pot*
+*soup, Instant Pot*
 
 **5 Servings**
 

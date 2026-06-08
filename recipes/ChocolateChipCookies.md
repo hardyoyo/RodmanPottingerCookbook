@@ -5,7 +5,7 @@ There are still copies of this edition available, from thrift stores who sell
 via Amazon Marketplace or Abe Books. Worth seeking out to 10th edition, the
 newer ones are not quite right.
 
-*desert*
+*dessert*
 
 **30 Servings**
 

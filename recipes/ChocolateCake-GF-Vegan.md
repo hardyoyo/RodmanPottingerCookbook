@@ -2,7 +2,7 @@
 
 from: https://glutenfreepalate.com/easy-gluten-free-chocolate-cake-11-ingredients/
 
-*gluten-free,vegan,desert*
+*gluten-free,vegan,dessert*
 
 **8 Servings**
 

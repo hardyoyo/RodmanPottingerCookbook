@@ -2,7 +2,7 @@
 
 from: https://inquiringchef.com/how-to-cook-pasta-in-the-instant-pot/
 
-*instant pot, pasta*
+*Instant Pot, pasta*
 
 **4 Servings**
 

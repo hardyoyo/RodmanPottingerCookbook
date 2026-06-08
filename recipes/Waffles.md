@@ -1,6 +1,6 @@
 # Gluten-Free, Vegan Waffles
 
-*gluten free, vegan, breakfast*
+*gluten-free, vegan, breakfast*
 
 **6 Servings**
 

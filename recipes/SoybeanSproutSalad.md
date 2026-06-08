@@ -2,7 +2,7 @@
 
 from _Korean Vegetarian Cooking_ by Shin Kim
 
-*korean, salad, side-dish*
+*Korean, salad, side-dish*
 
 **6 Servings**
 

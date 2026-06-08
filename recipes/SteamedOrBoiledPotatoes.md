@@ -2,7 +2,7 @@
 
 From the cookbook that comes with the Instant Pot
 
-*instant pot, staple*
+*Instant Pot, staple*
 
 **5 Servings**
 

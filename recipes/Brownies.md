@@ -2,7 +2,7 @@
 
 This is by far the best brownie recipe we have ever tasted.
 
-*desert*
+*dessert*
 
 **12 Servings**
 

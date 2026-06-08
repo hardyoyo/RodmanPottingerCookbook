@@ -1,6 +1,6 @@
 # Simple Tomato Soup
 
-*instant pot, gluten free, soup*
+*Instant Pot, gluten-free, soup*
 
 **5 Servings**
 

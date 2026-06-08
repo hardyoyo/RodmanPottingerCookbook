@@ -1,6 +1,6 @@
 # Gochujang Noodles
 
-*noodles, korean, spicy, vegan, dinner*
+*noodles, Korean, spicy, vegan, dinner*
 
 **3 Servings**
 

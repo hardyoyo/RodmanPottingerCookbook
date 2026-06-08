@@ -3,7 +3,7 @@
 from: ohsheglows.com/vegan-pumpkin-pie-three-ways-classic-rustic-gluten-free/
 \label{pumpkin-pie-with-pecan-oat-crust}
 
-*vegan, gluten-free, desert, holiday*
+*vegan, gluten-free, dessert, holiday*
 
 **8 Servings**
 

@@ -2,7 +2,7 @@
 
 from: https://littlespicejar.com/garlic-brown-lentil-dal/
 
-*Indian, instant pot, spicy*
+*Indian, Instant Pot, spicy*
 
 **8 Servings**
 

@@ -5,7 +5,7 @@ used to be way more complex, until Debbie figured out we could cook the lentils
 and the rice at the same time, in the same pot. It doesn't have to be vegan, if
 you don't mind cheese, substitute parmesean cheese for nutritional yeast.
 
-*instant pot, vegan, gluten-free*
+*Instant Pot, vegan, gluten-free*
 
 **8 Servings**
 
