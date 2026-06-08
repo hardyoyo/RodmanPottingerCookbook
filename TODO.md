@@ -51,6 +51,8 @@ push/PR.
 - Normalize tag capitalization in original recipes
 - Add ingredient labels (tofu, tempeh, etc.) to recipes so they appear in the
   index under major ingredient headings
+- Ensure cuisine tags are consistently applied across all recipes
+- Add "Instant Pot" tag to recipes that use the Instant Pot but are missing it
 
 ## Release target
 Add a `release` target to the Makefile that cuts a new release of the cookbook
