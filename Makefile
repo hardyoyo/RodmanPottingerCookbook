@@ -30,6 +30,7 @@ TEMPLATES = $(shell find templates/ -type f)
 INCLUDES = $(shell find includes/ -type f)
 COVER_IMAGE = images/cover.png
 MATH_FORMULAS =
+VERSION = 3rd-edition-RC1
 
 # Detected Operating System
 
@@ -106,7 +107,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 # Basic actions
 ######################################################################
 
-.PHONY: help all book clean epub html pdf docx final check \
+.PHONY: help all book clean epub html pdf docx final release check \
 	find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles proofread \
 	check-pdf-prereqs stats
@@ -246,6 +247,7 @@ $(TMP_METADATA):
 		sed -E 's#git@([^:]+):#\1/#; s#\.git$$##')" >> $(TMP_METADATA)
 	echo "git_date: $(shell git log -1 --format=%cd --date=short)" >> $(TMP_METADATA)
 	echo "date: $(shell git log -1 --format=%cd --date=short)" >> $(TMP_METADATA)
+	echo "version: $(VERSION)" >> $(TMP_METADATA)
 
 ######################################################################
 # File builders
@@ -259,18 +261,23 @@ pdf:	check-pdf-prereqs $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf ## -- Build PDF file
 
 docx:	$(BUILD)/docx/$(OUTPUT_FILENAME).docx ## -- Build DOCX file
 
-final:  $(BUILD)/pdf/$(FINAL_FILENAME).pdf ## -- Build final PDF file
+final:  check-pdf-prereqs $(BUILD)/pdf/$(FINAL_FILENAME).pdf ## -- Build final PDF file
 
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/epub
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | python3 scripts/strip-page-refs.py | \
+		$(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) \
+		--lua-filter=scripts/labels.lua -o $@ && \
+	python3 scripts/fix-epub-links.py $@
 	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/html
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | python3 scripts/strip-page-refs.py | \
+		$(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) \
+		--lua-filter=scripts/labels.lua -o $@
 	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
 	$(ECHO_BUILT)
 
@@ -316,7 +323,33 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(DOCX_ARGS) -o $@
 	$(ECHO_BUILT)
 
-$(BUILD)/pdf/$(FINAL_FILENAME).pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
+scripts/generate-cover.pdf: scripts/generate-cover.tex scripts/cover-image.jpg $(MAKEFILE)
+	@echo "building generate-cover.pdf..."
+	cp scripts/cover-image.jpg $(BUILD)/
+	sed -e 's/%VERSION%/$(VERSION)/g' -e "s/%DATE%/$$(date +%Y-%m-%d)/g" scripts/generate-cover.tex > $(BUILD)/generate-cover.tex
+	(cd $(BUILD) && xelatex -interaction=nonstopmode generate-cover.tex > /dev/null 2>&1)
+	cp $(BUILD)/generate-cover.pdf scripts/generate-cover.pdf
+	rm -f $(BUILD)/generate-cover.tex $(BUILD)/generate-cover.aux $(BUILD)/generate-cover.log $(BUILD)/generate-cover.pdf $(BUILD)/cover-image.jpg
+	@echo "generate-cover.pdf was built"
+
+scripts/cover-image.jpg: Coverpage.pdf
+	python3 -c "from pypdf import PdfReader; open('scripts/cover-image.jpg','wb').write(PdfReader('Coverpage.pdf').pages[0]['/Resources']['/XObject']['/REI1'].get_data())"
+
+$(BUILD)/pdf/$(FINAL_FILENAME).pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf scripts/generate-cover.pdf
 	$(ECHO_BUILDING)
-	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf GroceryList.pdf $@
+	pdfunite scripts/generate-cover.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf GroceryList.pdf $@
 	$(ECHO_BUILT)
+
+release:	## -- Build PDF, EPUB, HTML, tag, and create a GitHub release
+	@version=$$(./scripts/bump-version.sh patch); \
+	echo "Building release v$$version..."; \
+	$(MAKE) -s final epub html VERSION=$$version; \
+	git tag -a "v$$version" -m "Release v$$version"; \
+	git push origin "v$$version"; \
+	gh release create "v$$version" \
+		--title "Rodman-Pottinger Family Cookbook v$$version" \
+		--notes "Automated release of the Rodman-Pottinger Family Cookbook." \
+		$(BUILD)/pdf/$(FINAL_FILENAME).pdf \
+		$(BUILD)/epub/$(OUTPUT_FILENAME).epub \
+		$(BUILD)/html/$(OUTPUT_FILENAME).html; \
+	echo "Release v$$version created!"

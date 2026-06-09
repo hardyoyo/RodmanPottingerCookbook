@@ -4,3 +4,5 @@ build/*
 !Coverpage.pdf
 !GroceryList.pdf
 .venv/
+scripts/cover-image.jpg
+scripts/generate-cover.pdf

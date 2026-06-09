@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[letterpaper,margin=0pt,noheadfoot,nomarginpar]{geometry}
+\usepackage{xcolor}
+\usepackage{fontspec}
+\usepackage{graphicx}
+\setmainfont{Bebas Neue}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\unitlength}{1pt}
+\setlength{\fboxsep}{0pt}
+\definecolor{bg}{RGB}{40,37,54}
+\begin{document}
+
+\begin{picture}(612,792)(0,0)
+
+% Background rectangle (full page)
+\put(0,0){\color{bg}\rule{612pt}{792pt}}
+
+% Cover image at x=40, y=183, width=531, height=509
+\put(40,183){\includegraphics[width=531pt,height=509pt]{cover-image.jpg}}
+
+% Version and build date centered at page center, y=110 from bottom
+\put(306,110){\makebox(0,0)[c]{\fontsize{32}{38}\selectfont\color{white}%VERSION%  —  %DATE%}}
+
+\end{picture}
+
+\end{document}
