@@ -7,7 +7,8 @@
     "texlivePackages.xelatex-dev@latest",
     "python310Full@latest",
     "python310Packages.pip@latest",
-    "poppler_utils@latest"
+    "poppler_utils@latest",
+    "pv@latest"
   ],
   "env": {
     "VENV_DIR": ".venv"

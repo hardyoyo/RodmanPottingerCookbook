@@ -546,5 +546,10 @@ $include-after$
 
 $endfor$
 \cleardoublepage
+\fancypagestyle{plain}{%
+\fancyhf{}
+\fancyfoot[LE,RO]{\thepage}
+}
+\pagestyle{plain}
 \printindex
 \end{document}

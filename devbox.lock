@@ -1,9 +1,6 @@
 {
   "lockfile_version": "1",
   "packages": {
-    "github:NixOS/nixpkgs/nixpkgs-unstable": {
-      "resolved": "github:NixOS/nixpkgs/ffa0bb043c25cfc79ff3bc20ba2e44c3724499b1?lastModified=1745900683&narHash=sha256-ZGi2gjgPtmPmplCVz7dNufqkBr00g6EeAloX3GrFQls%3D"
-    },
     "gnumake@latest": {
       "last_modified": "2024-08-14T11:41:26Z",
       "resolved": "github:NixOS/nixpkgs/0cb2fd7c59fed0cd82ef858cbcbdb552b9a33465#gnumake",
@@ -208,9 +205,57 @@
         }
       }
     },
+    "pv@latest": {
+      "last_modified": "2026-05-21T08:15:18Z",
+      "resolved": "github:NixOS/nixpkgs/4a29d733e8a7d5b824c3d8c958a946a9867b3eb2#pv",
+      "source": "devbox-search",
+      "version": "1.10.5",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/k71ikrcxpbavm2b9f4bb0vign58mpzci-pv-1.10.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/k71ikrcxpbavm2b9f4bb0vign58mpzci-pv-1.10.5"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ppkmjl4s176by4pifc9qcqcj73lgkgfj-pv-1.10.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ppkmjl4s176by4pifc9qcqcj73lgkgfj-pv-1.10.5"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/c0i1njphkpcv2rxv1axq97vk15xpk3gj-pv-1.10.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/c0i1njphkpcv2rxv1axq97vk15xpk3gj-pv-1.10.5"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zdaysrl12x906vx1y4q4wk7sii4h6ijh-pv-1.10.5",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zdaysrl12x906vx1y4q4wk7sii4h6ijh-pv-1.10.5"
+        }
+      }
+    },
     "python310Full@latest": {
       "last_modified": "2024-08-14T11:41:26Z",
-      "plugin_version": "0.0.4",
+      "plugin_version": "0.0.3",
       "resolved": "github:NixOS/nixpkgs/0cb2fd7c59fed0cd82ef858cbcbdb552b9a33465#python310Full",
       "source": "devbox-search",
       "version": "3.10.14",

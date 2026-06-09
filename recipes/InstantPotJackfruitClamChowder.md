@@ -1,4 +1,4 @@
-# Instant Pot Jackfruit "Clam" Chowder (Hybrid Method)
+# Instant Pot Jackfruit Clam Chowder (Hybrid Method)
 
 *Instant Pot, jackfruit, chowder, soup*
 
