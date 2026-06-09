@@ -51,6 +51,8 @@
 - [x] Ensure cuisine tags are consistently applied across all recipes
 - [x] Add "Instant Pot" tag to recipes that use the Instant Pot but are missing it (0 were missing)
 
+- [x] Fix index page headers — redefine `\fancypagestyle{plain}` before `\printindex` to clear headers, then re-apply.
+
 ## Release target
 
 - [ ] Add a `release` target to the Makefile that cuts a new release of the cookbook with compiled PDFs uploaded as artifacts on the release page.

@@ -277,17 +277,28 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/pdf
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(LUA_FILTER) \
+	$(CONTENT) | $(CONTENT_FILTERS) | \
+		$(PANDOC_COMMAND) $(ARGS) $(LUA_FILTER) \
 		--template templates/pdf.latex \
 		--include-in-header=includes/table-prefs.tex \
-		-o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+		-o $(BUILD)/pdf/$(OUTPUT_FILENAME).tex 2>/dev/null
+	@printf "  xelatex (1/3)..."
 	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
-		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
-	-makeindex $(BUILD)/pdf/$(OUTPUT_FILENAME).idx 2>/dev/null
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex \
+		> /dev/null 2>&1 || true
+	@printf " makeindex (1/2)..."
+	makeindex $(BUILD)/pdf/$(OUTPUT_FILENAME).idx > /dev/null 2>&1 || true
+	@printf " xelatex (2/3)..."
 	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
-		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex \
+		> /dev/null 2>&1 || true
+	@printf " makeindex (2/2)..."
+	makeindex $(BUILD)/pdf/$(OUTPUT_FILENAME).idx > /dev/null 2>&1 || true
+	@printf " xelatex (3/3)..."
 	$(PDF_ENGINE) -output-directory=$(BUILD)/pdf -shell-escape \
-		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex
+		-interaction=nonstopmode $(BUILD)/pdf/$(OUTPUT_FILENAME).tex \
+		> /dev/null 2>&1 || true
+	@printf " cleanup..."
 	rm -f $(BUILD)/pdf/$(OUTPUT_FILENAME).tex \
 		$(BUILD)/pdf/$(OUTPUT_FILENAME).aux \
 		$(BUILD)/pdf/$(OUTPUT_FILENAME).idx \
@@ -296,6 +307,7 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf:	$(PDF_DEPENDENCIES)
 		$(BUILD)/pdf/$(OUTPUT_FILENAME).log \
 		$(BUILD)/pdf/$(OUTPUT_FILENAME).out \
 		$(BUILD)/pdf/$(OUTPUT_FILENAME).toc
+	@printf " done.\n"
 	$(ECHO_BUILT)
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
