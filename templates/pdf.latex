@@ -449,7 +449,7 @@ $else$
 $if(git_sha)$
 \vfill
 \begin{center}
-\small Build $git_date$ --- commit \texttt{$git_sha$}
+\small $version$ --- Build $git_date$ --- commit \texttt{$git_sha$}
 \end{center}
 $endif$
 $endif$
@@ -551,5 +551,6 @@ $endfor$
 \fancyfoot[LE,RO]{\thepage}
 }
 \pagestyle{plain}
+\addcontentsline{toc}{section}{Index}
 \printindex
 \end{document}
