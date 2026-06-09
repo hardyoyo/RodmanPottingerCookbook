@@ -11,11 +11,10 @@ TLDR, if you're just here for recipes, you can find them in the [recipes](./reci
 
 * [RecipeMD](https://recipemd.org/): for the excellent markdown recipe format, and a few nice [tools](https://recipemd.org/recommended_tools.html).
 * [Cookie](https://github.com/bbugyi200/cookie): for quickly creating a new recipe
-* [Pandoc](https://pandoc.org/): for converting recipes into PDF files
-* [poppler-utilsa](https://packages.debian.org/sid/poppler-utils): for its
-handy pdf-unite tool, so I can slap the coverpage on the final PDF of the
-cookbook.
-* [Scribus](https://www.scribus.net/): for general typesetting of book pages
+* [Pandoc](https://pandoc.org/): for converting recipes into PDF, EPUB, HTML, and DOCX files
+* [poppler-utils](https://packages.debian.org/sid/poppler-utils): for its handy `pdfunite` tool to assemble the cover, content, and grocery list into the final PDF
+* [Scribus](https://www.scribus.net/): for typesetting the cover page (static `.sla` source, exported as `Coverpage.pdf`)
+* [XeLaTeX](https://www.overleaf.com/learn/latex/XeLaTeX): PDF generation engine via Pandoc; also used to render the versioned cover at build time
 * [Wikiti Pandoc Book Template](https://github.com/wikiti/pandoc-book-template)
 
 ## Getting Started
@@ -35,36 +34,78 @@ resolve much faster.
 
 ## How to Use
 
-The Makefile is from the [Wikiti Pandoc Book Template](https://github.com/wikiti/pandoc-book-template),
-the docs there are good, but, here's a terse bit of suggestions:
+The Makefile is based on the [Wikiti Pandoc Book Template](https://github.com/wikiti/pandoc-book-template),
+with significant customization for this project.
 
-`make pdf` will generate the basic cookbook.pdf file, and this is the easiest to
-navigate because the page count matches the page numbers, so jumping to the
-correct page from the TOC is pretty straightforward, and doesn't involve any
-math.
+### Available Targets
 
-`make final` assembles the entire cookbook, including the coverpage, into a
-single PDF file, suitable for printing.
+| Target | Description |
+|--------|-------------|
+| `make pdf` | Build `cookbook.pdf` — the main content PDF (no cover). Easiest for navigating by page number. |
+| `make epub` | Build `cookbook.epub` with cross-chapter link resolution and page-reference stripping. |
+| `make html` | Build `cookbook.html` (single-page HTML, page refs stripped). |
+| `make docx` | Build `cookbook.docx` for Word. |
+| `make final` | Assemble the full print-ready PDF: versioned cover + content + grocery list → `RodmanPottingerFamilyCookbook.pdf`. |
+| `make release` | Auto-bump semver version from latest git tag, build all formats, create a git tag, and publish a GitHub release with artifacts. |
+| `make check` | Validate all RecipeMD files and check horizontal-rule formatting. |
+| `make stats` | Show cookbook statistics (recipe count, word count, PDF pages, git info). |
+| `make clean` | Remove the `build/` directory. |
 
-I haven't yet tried any of the other targets in the Makefile.
+### Versioning
 
-Eventually there will be a `make release` which will tag a new release on
-GitHub, and upload the final version of the cookbook, for a new edition. But,
-that work remains to be done.
+Versions follow [semver](https://semver.org/). The current version is set in `VERSION` in the `Makefile`, or derived from git tags when running `make release`. The version appears on:
+
+- The **cover page**: generated at build time from `scripts/generate-cover.tex`, showing the version and build date (e.g. `3.0.0 — 2026-06-09`)
+- The **title page**: in the metadata line below the title
+
+```
+make release           # auto-bump patch → v3.0.0, build, tag, release
+make release VERSION=4.0.0  # explicit version override
+```
+
+### Cross-References
+
+Recipes can use `\label{name}` (on its own line, typically after the attribution) and `\pageref{name}` in the text to create cross-references. For example:
+
+```markdown
+\label{biga}
+
+See the [Biga starter](./Biga.md) recipe for details (see page \pageref{biga}).
+```
+
+- **PDF**: rendered as native LaTeX cross-references (correct page numbers after multiple passes)
+- **EPUB/HTML**: `\pageref` text is stripped; links to other recipe files are rewritten as HTML anchors. A post-processing step (`scripts/fix-epub-links.py`) resolves cross-chapter fragment links in EPUB output.
+
+### Cover Page
+
+The cover is generated fresh on every `make final` or `make release` build:
+
+1. The cover image is extracted from `Coverpage.pdf` (exported from `Coverpage.sla` in Scribus)
+2. A LaTeX template (`scripts/generate-cover.tex`) renders the image with the centered version + build date overlay
+3. `pdfunite` assembles cover + content + `GroceryList.pdf` into the final PDF
+
+To update the cover design, edit `Coverpage.sla` in Scribus and re-export to `Coverpage.pdf`.
+
+### Proofreading
+
+Several make targets help catch common RecipeMD errors:
+
+| Target | Description |
+|--------|-------------|
+| `make check` | Full RecipeMD validation + HR formatting check |
+| `make find-missing-units` | Find ingredient quantities missing units (e.g. `1*` instead of `*1 T*`) |
+| `make find-repeated-words` | Find duplicate words (e.g. `the the`) |
+| `make find-missing-attribution` | List recipes with tags but no `Source:` line |
+| `make check-hr-formatting` | Verify blank lines around horizontal rules |
+| `make find-adjective-titles` | Find titles starting with an adjective (alphabetization check) |
+| `make proofread` | Run all proofreading checks at once |
 
 ## Handy Proofreading tips
 
-`ack "[1-9]\*"` is a good way to find a common typo in a recipe, it's easy to
-forget to include the units inside the `*1 T *` markup for quantity of
-ingredients... That [ack](https://beyondgrep.com/) search will find those
-mistakes, so you can fix them.
+For most proofreading tasks, use `make proofread` to run all checks at once, or
+refer to the individual targets in the table above. Some raw command alternatives:
 
-`ack --ignore-file ext:css "\b([a-zA-Z]+'?[a-zA-Z]+)\s+\1\b"` is a good way to
-find repeated words, like the dreaded `the the`.
-
-`grep -Pzl '(?s)^#[^\n]*\n\n\*.*\*' *.md` when run inside the recipes folder,
-will give you a list of the recipes that are missing attribution lines.
-
-`grep -Pzol '(?s)(?<!\n)\n---\n(?!.*---\n)' *.md` when run inside the recipes
-folder, will give you a list of the recipes that do not have blank lines around
-the horizontal rules in them, which is a very common error for recipemd files.
+* `ack "[1-9]\*"` — find ingredient quantities missing units (alias for `make find-missing-units`)
+* `ack --ignore-file ext:css "\b([a-zA-Z]+'?[a-zA-Z]+)\s+\1\b"` — find repeated words like `the the`
+* `grep -Pzl '(?s)^#[^\n]*\n\n\*.*\*' recipes/*.md` — list recipes missing `Source:` lines
+* `grep -Pzol '(?s)(?<!\n)\n---\n(?!.*---\n)' recipes/*.md` — find HRs without blank lines around them
