@@ -8,8 +8,8 @@ from: https://www.deliaonline.com/recipes/collections/delias-summer-collection/w
 
 ---
 
-- *2 Lb* very small potatoes
-- dash of salt
+- *2 lb* very small potatoes
+- *1 dash* salt
 - *4 T* lemon juice
 - grated zest of lemon
 - *1 t* garlic, minced

@@ -11,7 +11,7 @@ From _Vegetariana_ by Nava Atlas
 - *5 or 6* medium potatoes, steamed, cubed
 - *2 T* vegetable oil
 - *2 T* soy sauce or Tamari
-- *1 Lb* tofu, extra firm, pressed and cubed
+- *1 lb* tofu, extra firm, pressed and cubed
 - *1 T* olive oil
 - *1* large onion, quartered and thinly sliced
 - *1 t* garlic, minced

@@ -18,7 +18,7 @@ eat them all at once.
 - *1 t* baking soda
 - *1 t* salt
 - *3 C* sugar
-- *1/2 C cream cheese, room temperature
+- *1/2 C* cream cheese, room temperature
 - *1 1/2 sticks* butter or margarine
 - *1/2 C* vegetable oil
 - *2* eggs

@@ -12,11 +12,11 @@
 - *1 T* Cumin
 - *2 T* Water
 - *2 Large* Sweet Potatoes, shredded in a food processor
-- *1 Can* Black Beans (or more, if you just made them from dry beans)
+- *1 can* Black Beans (or more, if you just made them from dry beans)
 - *3 or 4* Tortillas, use flour for non-GF folks, otherwise corn
 - *1/2 C* Mexican cheese mix (optional, skip for vegans)
 - Salsa
-= Sour Cream
+- Sour Cream
 - Salt and Pepper (to taste)
 
 ---

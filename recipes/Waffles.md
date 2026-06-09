@@ -8,12 +8,12 @@
 
 - *2 T* ground flaxseed
 - *5 T* water
--- *2 C* all-purpose gluten-free flour blend
+- *2 C* all-purpose gluten-free flour blend
 - *1 T* sugar
 - *1 t* baking powder
 - *1/4 t* salt
 - *1/2 t* vanilla extract
- *1 3/4 C* dairy-free milk (soy works well)
+- *1 3/4 C* dairy-free milk (soy works well)
 - *1/2 C* vegetable oil
 
 ---
