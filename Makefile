@@ -106,7 +106,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 # Basic actions
 ######################################################################
 
-.PHONY: help all book clean epub html pdf docx final check \
+.PHONY: help all book clean epub html pdf docx final release check \
 	find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles proofread \
 	check-pdf-prereqs stats
@@ -264,13 +264,18 @@ final:  $(BUILD)/pdf/$(FINAL_FILENAME).pdf ## -- Build final PDF file
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub:	$(EPUB_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/epub
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | python3 scripts/strip-page-refs.py | \
+		$(PANDOC_COMMAND) $(ARGS) $(EPUB_ARGS) \
+		--lua-filter=scripts/labels.lua -o $@ && \
+	python3 scripts/fix-epub-links.py $@
 	$(ECHO_BUILT)
 
 $(BUILD)/html/$(OUTPUT_FILENAME).html:	$(HTML_DEPENDENCIES)
 	$(ECHO_BUILDING)
 	$(MKDIR_CMD) $(BUILD)/html
-	$(CONTENT) | $(CONTENT_FILTERS) | $(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) -o $@
+	$(CONTENT) | $(CONTENT_FILTERS) | python3 scripts/strip-page-refs.py | \
+		$(PANDOC_COMMAND) $(ARGS) $(HTML_ARGS) \
+		--lua-filter=scripts/labels.lua -o $@
 	$(COPY_CMD) $(IMAGES) $(BUILD)/html/
 	$(ECHO_BUILT)
 
@@ -320,3 +325,14 @@ $(BUILD)/pdf/$(FINAL_FILENAME).pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 	$(ECHO_BUILDING)
 	pdfunite Coverpage.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf GroceryList.pdf $@
 	$(ECHO_BUILT)
+
+release:	final epub html ## -- Build PDF, EPUB, HTML and create a GitHub release
+	@tag="v$$(date +%Y.%m.%d)"; \
+	echo "Creating release $$tag..."; \
+	gh release create "$$tag" \
+		--title "Cookbook Release $$tag" \
+		--notes "Automated release of the Rodman-Pottinger Family Cookbook." \
+		$(BUILD)/pdf/$(FINAL_FILENAME).pdf \
+		$(BUILD)/epub/$(OUTPUT_FILENAME).epub \
+		$(BUILD)/html/$(OUTPUT_FILENAME).html; \
+	echo "Release $$tag created!"
