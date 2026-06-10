@@ -13,6 +13,8 @@
 - *2 T* olive oil
 - *1 T* garlic, minced
 - *1 T* Better Than Bouillon
+- *1 T* miso (optional)
+- *1 T* nutritional yeast (optional)
 - other fresh veggies, chopped
 - other fresh herbs, whatever you have
 
