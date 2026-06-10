@@ -16,7 +16,8 @@ from: https://www.bonappetit.com/recipe/kale-and-brussels-sprout-salad
 - *12 oz* brussels sprouts, trimmed and shredded with a knife
 - *1/2 C* olive oil, divided
 - *1/3 C* sliced almonds
-- Salt and pepper to taste
+- *1/2 t* salt, plus more to taste
+- pepper to taste
 - Grated Parmesan cheese, or nutritional yeast if you'd prefer to keep this
 vegan
 

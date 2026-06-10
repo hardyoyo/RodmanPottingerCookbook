@@ -2,8 +2,9 @@
 
 from https://ministryofcurry.com/ethiopian-spicy-lentil-stew-instant-pot/
 
-Don't miss that you aren't using all the water at first, you are aiming to cook
-the lentils into a thick paste, then thinning it to the consistency you want.
+Misir Wot is made in two stages: first cook the lentils into a thick paste
+using just 2 cups of water, then thin with additional water to your
+preferred consistency.
 
 *Ethiopian, Instant Pot, can be vegan*
 

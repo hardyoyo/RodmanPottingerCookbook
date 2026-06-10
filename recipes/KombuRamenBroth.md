@@ -11,6 +11,11 @@ Recipe courtesy of Hardy's colleague, Alainna
 - *3 C* water
 - *1* piece of kombu
 - *1 T* cooking wine/mirin
+- *1* onion, chopped
+- *1 T* olive oil
+- a drop of sesame oil (optional)
+- *1 T* garlic, minced
+- *1 T* ginger, minced
 
 ---
 

@@ -12,7 +12,7 @@ farmer's market Lion's Mane mushrooms and feta cheese instead of goat cheese.
 - *8 oz* Lion's Mane mushrooms, torn into bite-size shreds
 - *1* 15-oz can black beans, rinsed
 - *1/2 t* ground cumin
-- *2 T* olive oil
+- *1 T* olive oil
 - *2* crusty sandwich rolls (bolillo, telera, or ciabatta)
 - *1/3 C* crumbled feta cheese
 - *1 C* arugula

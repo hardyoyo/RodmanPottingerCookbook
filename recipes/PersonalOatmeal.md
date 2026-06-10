@@ -7,8 +7,8 @@
 ---
 
 - *1/3 C* rolled oats
-- *2/3 C* water for the oats
-- *2 C* water for the cooker
+- *2/3 C* water (for the oats, goes in the mug)
+- *2 C* water (for the pot, creates steam)
 
 ---
 
@@ -17,10 +17,9 @@ find mugs to fit in the instant pot. So far, the most we've made in one go is 3
 mugs. If you find exactly the right size/shape mug (triangles would be perfect)
 you could make 4.
 
-Prepare the cooker: 2 cups of water in the pot, add a steamer basket or the
-rack. Find a ceramic bowl, or mugs if you're making more than one serving. Add
-oats and water to the bowl or mug, set the bowl on top of the rack or basket
-inside the cooker. Set cook time from the table below, using the porridge button
+Pour the 2 C of water into the pot and add a steamer basket or the
+rack. Put the oats and the 2/3 C of water into a ceramic bowl or mug,
+then set it on top of the rack inside the cooker. Set cook time from the table below, using the porridge button
 and the plus/minus buttons to adjust the time.
 
 
