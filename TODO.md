@@ -73,4 +73,6 @@
 - [x] `make check` passes
 
 ### Ingredient capitalization consistency (cosmetic)
-- [ ] Normalize `Salt`/`salt`, `Sugar`/`sugar`, `Oil`/`oil`, `Flour`/`flour`, `Pepper`/`pepper`, `Water`/`water`, `Milk`/`milk`, `Rice`/`rice` to lowercase across ingredient lists
+- [x] Normalized 33 instances across 11 files (Salt, Sugar, Oil, Garlic, Onion, etc.)
+- [x] Saved as `scripts/normalize-ingredient-caps.py` with `make normalize-ingredient-caps` target
+- [x] Proper names, brand names, and recipe refs preserved via `KEEP_PATTERNS` list
