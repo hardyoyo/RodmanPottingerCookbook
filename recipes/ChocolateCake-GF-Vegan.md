@@ -14,7 +14,7 @@ from: https://glutenfreepalate.com/easy-gluten-free-chocolate-cake-11-ingredient
 - *1 1/2 t* gluten-free baking powder
 - *1 1/2 t* baking soda
 - *1 t* salt
-- *2* eggs
+- *2 T* flaxseed meal
 - *1 C* non-dairy milk
 - *1/2 C* vegetable oil
 - *1 1/2 t* gluten-free vanilla extract
@@ -29,9 +29,11 @@ from: https://glutenfreepalate.com/easy-gluten-free-chocolate-cake-11-ingredient
 
 Preheat oven to 350°F. Position rack in center of oven. Grease two 8-inch round
 cake pans (optional, one single rectangular cake pan is fine, too), set aside.
-In a large mixing bowl, stir together sugar, flour, cocoa, baking powder,
-baking soda, and salt until there are no visible clumps. Add eggs, milk, oil and
-vanilla. Beat with a mixer on medium speed for two minutes. Stir in boiling
+In a small bowl, mix the flaxseed meal with 5 T water and set aside for
+5 minutes. In a large mixing bowl, stir together sugar, flour, cocoa, baking
+powder, baking soda, and salt until there are no visible clumps. Add the
+flaxseed mixture, milk, oil and vanilla. Beat with a mixer on medium speed
+for two minutes. Stir in boiling
 water. Spoon batter evenly into cake pans. Bake for 35 to 38 minutes, or until
 a toothpick inserted in the center comes out clean. Remove from oven and let
 cool in the pan for 5 minutes, then remove from the pan and let cool on a rack. 

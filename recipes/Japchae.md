@@ -16,7 +16,7 @@ From https://www.okonomikitchen.com/vegan-japchae/
 - *1* onion, sliced, quarter-moons
 - *3* scallions
 - *1 t* garlic, minced
-- *6* shitake mushrooms, rehydrated and sliced thin
+- *6* shiitake mushrooms, rehydrated and sliced thin
 - *1 handful* spinach
 - sesame seeds
 - *5 T* Tamari

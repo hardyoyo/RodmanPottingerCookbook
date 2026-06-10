@@ -2,7 +2,7 @@
 
 from: https://www.deliaonline.com/recipes/collections/delias-summer-collection/warm-potato-salad-with-lemon-and-chive-vinaigrette
 
-*side, potluck*
+*side, potluck, vegan*
 
 **5 Servings**
 

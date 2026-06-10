@@ -8,12 +8,12 @@ From: https://minimalistbaker.com/spicy-jackfruit-tacos-1-pot-meal/
 
 ---
 
-- *2* 20oz cans green jackfruit in water or brine , drained, rinsed, and chopped
+- *2* 20oz cans green jackfruit in water or brine, drained, rinsed, and chopped
 - *1 T* vegetable oil
-- *1* yellow onion , sliced
-- *2 t* garlic , minced
+- *1* yellow onion, sliced
+- *2 t* garlic, minced
 - *1/2 C* water
-- *1/4 t* Better than Bouillon
+- *1/4 t* Better Than Bouillon
 - *1 T*  agave
 - *1 T* lime juice
 - *2 t* chili powder

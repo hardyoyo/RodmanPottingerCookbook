@@ -2,7 +2,7 @@
 
 From _The Breadman's Health Bread Book_ by George Burnett
 
-*bread machine*
+*bread machine, can be vegan*
 
 **5 Servings**
 
@@ -15,7 +15,7 @@ From _The Breadman's Health Bread Book_ by George Burnett
 - *1 T* sugar
 - *1 1/2 t* salt
 - *2 t* yeast
-- *1 T* parmesean cheese (optional, but awesome)
+- *1 T* parmesan cheese (optional, but awesome)
 
 ---
 

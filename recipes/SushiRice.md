@@ -3,7 +3,7 @@
 This one is Hardy's, he wanted to figure out a way to make sushi for lunch every
 day. This rice is the secret to being able to do that.
 
-*Instant Pot, staple*
+*Instant Pot, staple, vegan*
 
 **2 Servings**
 

@@ -1,6 +1,6 @@
 # Sweet Potato and Black Bean Quesadilla
 
-*gluten-free*
+*gluten-free, can be vegan*
 
 **8 Servings**
 
@@ -34,7 +34,7 @@ is melty and the filling is warm. Serve with salsa and sour cream.
 Tips:
 
 - You can sprinkle some whole cumin seeds on the skillet before you place
-the torilla in. It keeps the tortilla from sticking, and it adds a nice touch.
+the tortilla in. It keeps the tortilla from sticking, and it adds a nice touch.
 - If you don't have a food processor, you can still make this, but it's more work.
 You can shred the sweet potato with a cheese grater. It totally works, I
 promise, that's how we used to make this.

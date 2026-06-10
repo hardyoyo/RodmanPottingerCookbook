@@ -2,7 +2,7 @@
 
 adapted from The Modern Ayurvedic Cookbook, by Amrita Sondhi
 
-*Indian, Curry*
+*Indian, Curry, vegan*
 
 **6 Servings**
 
@@ -12,7 +12,7 @@ adapted from The Modern Ayurvedic Cookbook, by Amrita Sondhi
 - *2 T* olive oil
 - *1 small* onion, minced
 - *1 T* ginger, minced
-- *1/4 t* tumeric
+- *1/4 t* turmeric
 - *1/2 t* cumin
 - *1/2 t* coriander
 - *1/2 t* garam masala
@@ -33,12 +33,12 @@ for salt. Garnish with cilantro and serve.
 ### CURRY SEASONING NOTE
 
 What we call Curry Powder is really a spice blend, usually of three spices:
-tumeric, cumin and coriander... with maybe some other additions like garam
+turmeric, cumin and coriander... with maybe some other additions like garam
 masala. This recipe aims for a very specific taste, so you'll be mixing those
 spices, to get the curry just right. Remember this recipe, if you have a recipe
 that calls for curry powder, you can just make your own.
 
-See also see Brown Lentil Dal (page \pageref{brown-lentil-dal}),
+See also Brown Lentil Dal (page \pageref{brown-lentil-dal}),
 and Nepalese Lentil Soup (aka Dal) (page \pageref{nepalese-lentil-soup}).
 
 \label{chickpea-curry}

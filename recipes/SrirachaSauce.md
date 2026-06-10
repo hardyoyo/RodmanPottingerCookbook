@@ -2,7 +2,7 @@
 
 From: https://www.allrecipes.com/recipe/235276/how-to-make-homemade-sriracha-sauce/
 
-*Condiment, Spicy*
+*Condiment, Spicy, vegan*
 
 **24 Servings (1 1/2 cups)**
 
@@ -36,8 +36,6 @@ thicken a little as it cools). Transfer to jars or bottles and refrigerate.
 
 Source: https://www.allrecipes.com/recipe/235276/how-to-make-homemade-sriracha-sauce/
 
-\label{sriracha-sauce}
-
 ### NOTES
 
 Other additions:
@@ -48,3 +46,5 @@ Other additions:
 - Add *1/2 t* cocoa powder for an earthy note.
 - Don't toss the pulp after straining. Save it in a small glass jelly jar, stir
   in about *1 t* agave syrup, and call it "pepper jelly" — it's great on eggs!
+
+\label{sriracha-sauce}

@@ -2,14 +2,14 @@
 
 from: Fresh from the Vegetarian Slow Cooker by Robin Robertson
 
-*snack*
+*snack, vegan*
 
 **30 Servings**
 
 ---
 
 - *1 32oz bag* whole raw almonds
-- *3/8 C* Tamari/Gluen-free Soy Sauce
+- *3/8 C* Tamari/Gluten-free Soy Sauce
 - *3 T* Sesame Oil
 - *1/2 t* Cayenne Pepper (optional but awesome)
 

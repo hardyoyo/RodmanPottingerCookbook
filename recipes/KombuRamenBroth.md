@@ -2,7 +2,7 @@
 
 Recipe courtesy of Hardy's colleague, Alainna
 
-*soup*
+*soup, vegan*
 
 **5 Servings**
 
@@ -30,7 +30,7 @@ Sauté about 30 seconds more, add broth, simmer.
 Boil noodles (steal some from a boring package of noodles, or find some
 specialty freeze-dried noodles if you want a treat; Amazon has them, probably a
 local asian food market does, too), combine with Ramen base, garnish with fun
-Ramen garnishes (shredded carrot, sautéd shitake mushrooms, sliced boiled
+Ramen garnishes (shredded carrot, sautéd shiitake mushrooms, sliced boiled
 egg, cubed baked tofu, frozen peas.
 
 ### Gluten-free options

@@ -14,7 +14,7 @@ where it's from.
 - *1/8 C* Baking Powder
 - *1/8 C* Flax Seeds, ground
 - *1/2 t* Salt
-- *3 C* Milk
+- *3 C* non-dairy milk
 - *1/8 C* Oil
 - *1/8 C* Water
 - *1 1/2 t* Vanilla

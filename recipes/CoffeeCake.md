@@ -27,9 +27,9 @@ on the page.
 ---
 
 In a medium bowl, mix the dry ingredients. In a smaller bowl, mix the wet.
-Commbine both bowls and mix well. Pour into a greased 9 x 9 x 2 baking pan.
+Combine both bowls and mix well. Pour into a greased 9 x 9 x 2 baking pan.
 
-For the topping, mix the brown sugar, flour and cinamon, cut in the butter with
+For the topping, mix the brown sugar, flour and cinnamon, cut in the butter with
 a fork or a pastry blender. Mix in the nuts, then sprinkle over the batter in
 the baking pan.
 

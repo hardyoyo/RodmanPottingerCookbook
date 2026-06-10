@@ -1,6 +1,6 @@
 # Simple Kale Salad
 
-*salad, vegan, gluten-free*
+*salad, can be vegan, gluten-free*
 
 **6 Servings**
 
@@ -17,7 +17,7 @@
 - *1 pinch* salt
 - *1/3 C* sliced almonds, toasted
 - *1/3 C* dried cranberries
-- parmesean cheese, as a garnish, optional
+- parmesan cheese, as a garnish, optional
 
 ---
 
@@ -27,9 +27,9 @@ all up, and emulsify the ingredients. Salad: remove the kale stems. After all
 the kale is stemmed, use a sharp knife to finely chop the kale. Dump all the
 kale in a big bowl, drizzle the kale with some olive oil, you don't need a ton,
 because you're adding a dressing. Sprinkle with some salt and massage the kale
-with your clean fingers unil the kale softens a bit. Drizzle the dressing over
+with your clean fingers until the kale softens a bit. Drizzle the dressing over
 the kale and toss well. Add the almonds and dried fruit. Toss again and serve,
-with a shake-jar of parmesean cheese at hand, for any non-vegans.
+with a shake-jar of parmesan cheese at hand, for any non-vegans.
 
 If you want a slightly more substantial kale-based salad, check out Kale and
 Brussels Sprout Salad, on page \pageref{kale-and-brussels-sprout-salad}.

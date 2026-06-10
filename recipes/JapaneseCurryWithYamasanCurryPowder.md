@@ -1,6 +1,6 @@
 # Japanese Curry with Yamasan Curry Powder
 
-*gluten-free, curry, Japanese, Instant Pot*
+*gluten-free, curry, Japanese, Instant Pot, vegan*
 
 **8 Servings**
 

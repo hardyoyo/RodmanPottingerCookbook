@@ -1,6 +1,6 @@
 # Brat and Cabbage Soup
 
-We sometimes jokingly call this "Roten Cabbage Soup" because it gets a laugh.
+We sometimes jokingly call this "Rotten Cabbage Soup" because it gets a laugh.
 Not always.
 
 *soup, Instant Pot*
@@ -15,7 +15,7 @@ Not always.
 - *4-6* small potatoes, cut into 1/2 in chunks
 - *1* small head of cabbage, chopped
 - *10 C* water (approximately)
-- *4 t* Better than Bouillon
+- *4 t* Better Than Bouillon
 
 ---
 

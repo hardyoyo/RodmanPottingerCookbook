@@ -3,7 +3,7 @@
 The recipe is mostly from _This Cheese is Nuts_ by Julie Piatt, but I rewrote 
 the instructions to emphasize her speedy alternative instructions.
 
-*staple*
+*staple, vegan*
 
 **5 Servings**
 

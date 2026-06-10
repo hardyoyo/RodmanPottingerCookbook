@@ -2,7 +2,7 @@
 
 From _The Bread Lover's Bread Machine Cookbook_ by Beth Hensperger
 
-*bread machine*
+*bread machine, vegan*
 
 **5 Servings**
 

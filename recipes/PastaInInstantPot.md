@@ -2,7 +2,7 @@
 
 from: https://inquiringchef.com/how-to-cook-pasta-in-the-instant-pot/
 
-*Instant Pot, pasta*
+*Instant Pot, pasta, vegan*
 
 **4 Servings**
 
@@ -49,6 +49,6 @@ No set amount, just be sure every noodle is covered with water. Add a couple
 shakes of salt. Do not stir. Pressure cook according to the time on the chart.
 Natural release for 5 minutes, then release any remaining pressure, stir the
 pasta well to loosen any strands of pasta stuck together. Drain the pasta in a
-collander, just like a normal pasta recipe.
+colander, just like a normal pasta recipe.
 
 \label{pasta-in-the-instant-pot}

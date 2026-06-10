@@ -1,6 +1,6 @@
 # Personal Oatmeal in the Instant Pot
 
-*Instant Pot, breakfast*
+*Instant Pot, breakfast, vegan*
 
 **1 Servings**
 

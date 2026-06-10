@@ -4,7 +4,7 @@ Hardy synthesized this recipe from several found online. We usually make this
 slightly thicker and eat it as Dal, but it does make a nice soup if you add
 enough water.
 
-*Instant Pot, soup*
+*Instant Pot, soup, vegan, dal*
 
 **5 Servings**
 
@@ -16,7 +16,7 @@ enough water.
 - *1 t* garlic, minced
 - *1* 15 oz can recipe ready tomatoes
 - *1 can* water (slightly less than 1 can if you're going for Dal, more if you
-want soup))
+want soup)
 - *1* 13 oz can of coconut milk
 - *1 C* red lentils
 - *2 t* ginger (minced)
@@ -44,6 +44,6 @@ of tea.
 - If you're going for Dal instead of soup (thicker texture) don't add an entire
 can of water, try slightly less than a full can.
 - START THE RICE FIRST!
-- See also see Brown Lentil Dal (page \pageref{brown-lentil-dal}),
+- See also Brown Lentil Dal (page \pageref{brown-lentil-dal}),
 and Chickpea Curry (page \pageref{chickpea-curry}).
 \label{nepalese-lentil-soup}

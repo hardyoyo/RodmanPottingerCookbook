@@ -3,7 +3,7 @@
 from:
 http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.html
 
-*salad dressing, gluten-free*
+*salad dressing, gluten-free, vegan*
 
 **12 Servings**
 
@@ -17,7 +17,7 @@ http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.
 - *5* Green Onions
 - *1 T* Lemon Juice
 - *4 t* Braggs or Tamari
-- *4 t* Garlick, minced
+- *4 t* Garlic, minced
 - *2 t* Sesame Seeds, toasted (if you want)
 - *1/2 t* Salt
 - *1/4 t* Pepper

@@ -1,11 +1,11 @@
-# Misir Wot {#MisirWot}
+# Misir Wot
 
 from https://ministryofcurry.com/ethiopian-spicy-lentil-stew-instant-pot/
 
 Don't miss that you aren't using all the water at first, you are aiming to cook
 the lentils into a thick paste, then thinning it to the consistency you want.
 
-*Ethiopian, Instant Pot*
+*Ethiopian, Instant Pot, can be vegan*
 
 **8 Servings**
 
@@ -35,6 +35,6 @@ more water to bring the stew to desired consistency. Mix well. Garnish with
 chopped cilantro and squeeze fresh lime juice on top before serving with
 steamed rice or bread.
 
-See also see Gomen Be'Telba (page \pageref{gomem-be-telba}).
+See also Gomen Be'Telba (page \pageref{gomen-be-telba}).
 
 \label{misir-wot}

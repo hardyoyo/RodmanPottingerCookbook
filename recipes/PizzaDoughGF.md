@@ -3,7 +3,7 @@
 From: Gluten-Free Artisan Bread in Five Minutes a Day by Jeff Hertzberg, MD and
 Zoė François
 
-*gluten-free, make-ahead*
+*gluten-free, make-ahead, can be vegan*
 
 **8 Servings**
 
@@ -16,7 +16,7 @@ Zoė François
 - *1 T* Yeast
 - *2 t* Salt
 - *1/8 C* Sugar
-- *2 C* Water (a little lesss than 2C, actually)
+- *2 C* Water (a little less than 2C, actually)
 - *1/4 C* Olive Oil
 - *2* Egg Whites (or 2 "vegan eggs", see below)
 

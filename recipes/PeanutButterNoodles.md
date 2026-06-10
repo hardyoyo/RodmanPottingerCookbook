@@ -11,7 +11,7 @@
 - *3 T* soy sauce (or tamari)
 - *1 T* maple syrup or agave
 - *1 T* rice vinegar
-- *1-3 t* sriracha (optional)
+- *1-3 t* sriracha or Chile Garlic Sauce (page \pageref{chile-garlic-sauce}) (optional)
 - *1 t* toasted sesame oil
 - *1* garlic clove, minced
 - *1* lime, juiced (about 2 T)

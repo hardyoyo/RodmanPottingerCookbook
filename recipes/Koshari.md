@@ -4,7 +4,7 @@ Egyptian comfort food.
 
 from: [Nikki & David Goldbeck's American Wholefoods Cuisine](https://isbn.nu/0452262801)
 
-*dinner, Egyptian*
+*dinner, Egyptian, vegan*
 
 **5 Servings**
 
@@ -35,7 +35,7 @@ and either air fry them (spray with a bit of olive oil) or pan-fry them in a
 splash of olive oil, until they are crispy without being entirely charred. If 
 you *do* char them, don't worry, they'll still taste good. Boil the noodles.
 When the rice is done, everything should be ready to assemble. Go in this order:
-rice, lentils, mac, sauce, garnish. Or, refer to the cheetsheat below.
+rice, lentils, mac, sauce, garnish. Or, refer to the cheat sheet below.
 
 ![Koshari Cheat Sheet](./images/koshari-cheatsheet.jpg)
 \label{koshari}

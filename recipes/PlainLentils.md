@@ -2,7 +2,7 @@
 
 This one Hardy just typed up, it's so simple. The ultimate late night snack.
 
-*staple*
+*staple, vegan*
 
 **2 Servings**
 
@@ -24,6 +24,6 @@ eating in about 15 minutes or less. If you're cooking on the stove, put a lid on
 the pot (optional, but quicker), boil, turn down the pot to a simmer,  and stir
 the lentils occasionally so they don't stick. They'll be done in about 45
 minutes or less. Spice these with whatever you have, salt is good, so is curry
-power or cumin. But just salt is fine.
+powder or cumin. But just salt is fine.
 
 \label{plain-lentils}

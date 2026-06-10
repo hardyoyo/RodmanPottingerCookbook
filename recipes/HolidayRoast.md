@@ -14,7 +14,7 @@ From: https://frommybowl.com/homemade-vegan-holiday-roast/print/9480/
 - *2 T* tomato paste
 - *2 T* canola oil
 - *4 t* poultry seasoning (without salt)
-- *1 t* bouilion, vegan, optionally chicken-flavored
+- *1 t* bouillon, vegan, optionally chicken-flavored
 - *1 C* chickpea flour
 - *1 T* balsamic vinegar, or whatever baste you want to whip up
 

@@ -2,11 +2,11 @@
 
 From Veganomicon, pgs 131-132. This is really fun to make: smells good, and you
 get to squish things with your fingers: satisfying! But, you know, it's
-obviously made almsot entirely of gluten, so only cook this when your
+obviously made almost entirely of gluten, so only cook this when your
 gluten-sensitive family members or friends aren't around. And then clean up
 right away!
 
-*staple, seitan*
+*staple, seitan, vegan*
 
 **12 Servings**
 
@@ -19,7 +19,7 @@ right away!
 - *3 T* olive oil
 - *6 t* garlic, minced
 - *8 C* cold water
-- *3 t* Better than Bouillon
+- *3 t* Better Than Bouillon
 - *1/4 C* soy sauce
 
 ---
@@ -34,8 +34,8 @@ pieces in your hand just to stretch them out a bit. Then fill a large stock pot
 with water, bouillon, soy sauce, and gluten pieces. Cover an bring to a boil,
 but watch carefully, you don't want it to boil for very long or the outside of
 the seitan will be spongy. Try to catch it as soon as it boils and then lower
-the heat as low as it will go so that it's at a low simmer. Partialy cover the
-pot so that steem can escape and lit simmer for an hour. You can turn the pieces
+the heat as low as it will go so that it's at a low simmer. Partially cover the
+pot so that steam can escape and let simmer for an hour. You can turn the pieces
 occasionally if you feel like it, but it's not necessary. After an hour, turn
 off the heat, take off the lid, and let it sit for 15 minutes. Use tongs to
 remove the seitan from the broth, place each piece in a strainer until they're

@@ -2,7 +2,7 @@
 
 from: https://littlespicejar.com/garlic-brown-lentil-dal/
 
-*Indian, Instant Pot, spicy*
+*Indian, Instant Pot, spicy, vegan, dal*
 
 **8 Servings**
 
@@ -33,7 +33,7 @@ probably want a salad with this.
 > ![info](./images/info-icon.png) *If you're making both kinds of Dal, make this
 first.*
 
-See also see Nepalese Lentil Soup (aka Dal) (page \pageref{nepalese-lentil-soup}),
+See also Nepalese Lentil Soup (aka Dal) (page \pageref{nepalese-lentil-soup}),
 and Chickpea Curry (page \pageref{chickpea-curry}).
 
 \label{brown-lentil-dal}
