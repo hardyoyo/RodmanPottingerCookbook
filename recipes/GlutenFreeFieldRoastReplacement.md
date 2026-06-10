@@ -23,7 +23,7 @@ gluten sensitivity, this is a worthwhile endeavor.
 
 Make the marinade ahead of time, it will keep in the fridge in a small jar for
 weeks. This is a great thing to make if you have a family member who does not
-always eat the apple you lovingly slice for their lunch box. Don't compost those
+always eat the apple you lovingly slice for their lunch box. Don’t compost those
 apples! Make Field Roast Replacement instead!
 
 ### Marinade
@@ -33,7 +33,7 @@ later. Keeps forever.
 
 ### Roast
 
-When you're ready to make the roast, press some tofu, then chop into 1/2 in
+When you’re ready to make the roast, press some tofu, then chop into 1/2 in
 cubes. Put in a medium container, and cover the tofu with marinade. Marinade for
 at least 30 minutes, but like most marinades, longer is better. Days, even. Four
 hours is good.
@@ -43,7 +43,7 @@ forever. An air fryer is faster, but keep the heat low unless you *like* charred
 food. Either way, your goal is to get the tofu to be as chewy as Field Roast.
 Just check on it regularly. Try not to eat it all.
 
-Freezes well, or refrigerate it if you're planning on using it soon.
+Freezes well, or refrigerate it if you’re planning on using it soon.
 
 Make some Wild Rice Pilaf!
 

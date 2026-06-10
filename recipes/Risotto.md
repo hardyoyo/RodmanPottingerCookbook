@@ -27,10 +27,10 @@ from them, but this version is pretty much all Hardy.
 
 Sauté the onion in olive oil until translucent (about 5 minutes), add garlic and
 mushroom powder (if using). Sauté 30 seconds more, then add rice, toast the rice.
-It's done when it goes from white to clear, and a bit brown at edges, and smells
-nice and toasty. Add a swig of white cooking wine to deglaze (optional, if you don't have
-wine, don't sweat it, you can deglaze with the water, which is the exact next
-thing you're going to add).  Add zucchini/squash, broth/water, stir, close cooker, cook for 7
+It’s done when it goes from white to clear, and a bit brown at edges, and smells
+nice and toasty. Add a swig of white cooking wine to deglaze (optional, if you don’t have
+wine, don’t sweat it, you can deglaze with the water, which is the exact next
+thing you’re going to add).  Add zucchini/squash, broth/water, stir, close cooker, cook for 7
 minutes at high pressure. Open cooker with a fast release. Melt 1T of butter,
 margarine or goat cheese. Add Parmesan cheese or nutritional yeast, stir. Add
 nutmeg, stir again, and serve.

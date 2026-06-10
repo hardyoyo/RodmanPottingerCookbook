@@ -26,7 +26,7 @@ the garlic, tomato, jalapeño and red curry paste. Stir, then add the curry
 powder. Find a medium ceramic bowl and the trivet for your Instant Pot. Put the
 water and the lentils in the ceramic bowl, stir in the Better Than Bouillon or 
 broth powder and salt, then add the sautéd veggies, sprinkle on the cilantro
-last, if you have any. Don't fret if you dont... Just add 2 C of water to the
+last, if you have any. Don’t fret if you dont... Just add 2 C of water to the
 main pot of the cooker (not the bowl with your soup), pop on the lid and set
 the cooker on soup, adjust the time to 15 minutes. Let it natural release for
 10 minutes. Then eat!

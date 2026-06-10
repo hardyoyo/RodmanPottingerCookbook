@@ -37,7 +37,7 @@ for two minutes. Stir in boiling
 water. Spoon batter evenly into cake pans. Bake for 35 to 38 minutes, or until
 a toothpick inserted in the center comes out clean. Remove from oven and let
 cool in the pan for 5 minutes, then remove from the pan and let cool on a rack. 
-For the frosting (this cake doesn't really need frosting, but some people like
+For the frosting (this cake doesn’t really need frosting, but some people like
 frosted cakes): in a medium mixing bowl, beat butter and vanilla until smooth
 and creamy. Add cocoa powder and beat until combined. Gradually add powdered
 sugar, one cup at a time. Slowly beat in milk. Beat in additional milk if
@@ -45,13 +45,13 @@ needed, to obtain desired consistency. Frost cakes. Stack them if you want, or
 have two cakes. Store in an airtight container at room temperature for up to 3
 days, or in the fridge for up to a week.
 
-NOTES: 1) Flour Blend: Bob's Red Mill 1-to-1 GF Baking Flour is a good choice.
-Avoid Bob's Red Mill All Purpose GF Flour, because this blend has chickpea flour
+NOTES: 1) Flour Blend: Bob’s Red Mill 1-to-1 GF Baking Flour is a good choice.
+Avoid Bob’s Red Mill All Purpose GF Flour, because this blend has chickpea flour
 in it. Chickpea flour goes rancid quickly, and when it does it creates a dry and
 sour/bitter flavor. It also does something funny to this recipe. 2) When working
-with any sort of flour, don't scoop out the flour with the measuring cup;
+with any sort of flour, don’t scoop out the flour with the measuring cup;
 instead, spoon it out with a spoon into the measuring cup. If you scoop with the
-measuring cup, you'll compact the flour, and get too much, and you'll have
+measuring cup, you’ll compact the flour, and get too much, and you’ll have
 regrets about too much flour.
 
 \label{chocolate-cake-gluten-free-vegan}

@@ -25,7 +25,7 @@ From _Vegetariana_ by Nava Atlas
 ---
 
 Preheat oven to 375°F. Press the tofu in a tofu press for about 30 minutes or
-longer. If you don't have a tofu press, use two plates with something to weigh
+longer. If you don’t have a tofu press, use two plates with something to weigh
 down the top plate. After 30 minutes, drain off the water, and slice the tofu
 into 1/2 inch cubes. Set them aside for later in a bowl. Steam and cool the
 potatoes (instant pot works great for this), cut them up into 1/2 inch cubes,
@@ -38,6 +38,6 @@ milk, stir and simmer until thickened. Add this mixture to the large bowl with
 tofu and potatoes, mix it all thoroughly. Dump the mixture into a shallow glass
 baking dish. Sprinkle the top with cheese. Bake 15 minutes.
 
-> ![info](./images/info-icon.png) *You can do the potatoes while you're waiting for the tofu to press.*
+> ![info](./images/info-icon.png) *You can do the potatoes while you’re waiting for the tofu to press.*
 
 \label{potato-tofu-casserole}

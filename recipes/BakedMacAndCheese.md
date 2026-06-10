@@ -1,6 +1,6 @@
 # Baked Mac and Cheese
 
-From Debbie's mom. Always double if you're cooking for kids.
+From Debbie’s mom. Always double if you’re cooking for kids.
 
 *casserole, side, comfort food*
 

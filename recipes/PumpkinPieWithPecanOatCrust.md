@@ -32,7 +32,7 @@ pecans to food processor with the S blade, process until a fine crumb forms,
 the size of sand. Add coconut oil, maple syrup, salt and oat flour and process
 again until the dough comes together. Pulse in the rolled oats until the oats
 are finely chopped, but still have some texture to them. The dough should stick
-together when pressed between your fingers. If it doesn't, try processing for a
+together when pressed between your fingers. If it doesn’t, try processing for a
 bit longer. Press the dough evenly across the base and up the sides of the dish.
 The harder you press, the better it holds together. Poke 5-6 fork
 holes into the bottom to let the air escape. Bake pie crust, uncovered, at 350°F

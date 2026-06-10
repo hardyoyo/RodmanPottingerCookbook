@@ -22,10 +22,10 @@
 
 Chop all the things that need chopping. Press the Sauté button on the cooker,
 adjust it to medium heat, add the olive oil and the Yondu or soy sauce, sauté
-the tofu until it's a little brown, but not crispy. While you're sauté-ing it,
+the tofu until it’s a little brown, but not crispy. While you’re sauté-ing it,
 sprinkle on some curry powder (up to 1/2 t is good, but however much you want).
-When it's done, set the tofu aside, possibly on a paper towel to soak up the
-extra oil, but that's not totally necessary. Sauté the onions until they're a
+When it’s done, set the tofu aside, possibly on a paper towel to soak up the
+extra oil, but that’s not totally necessary. Sauté the onions until they’re a
 bit brown around the edges, add the garlic, sauté for about 30 seconds more,
 add the carrots and peppers, sauté for 2 minutes. Add tofu back, then the
 potatoes, and the vegetable stock. Stir in the Yamasan GF Curry Powder. Put the 

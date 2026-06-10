@@ -3,7 +3,7 @@
 from https://www.thecheaplazyvegan.com/vegan-tteokbokki/
 
 Vegan Tteokbokki, also known as spicy Korean rice cakes, is a delicious Korean
-dish that traditionally isn't vegan.
+dish that traditionally isn’t vegan.
 
 *Korean, vegan, gluten-free, Instant Pot, spicy, street food*
 
@@ -35,16 +35,16 @@ Remove the kelp pieces. Add chopped cabbage, carrots, and sliced onion into the
 pot and bring to a boil. In a bowl, mix the sauce: gochujang (use more or less
 depending on your level of spice preference), gochugaru, Tamari, agave nectar
 (or maple syrup) and minced garlic. Mix until smooth. Add the TTeok and sauce
-to the broth, and stir. If you're adding the puffed/dry tofu, do it now. Bring
+to the broth, and stir. If you’re adding the puffed/dry tofu, do it now. Bring
 to a boil. Add in half the green onions. Turn the heat down to a medium-low and
 let it cook for around 15-20 minutes or until the sauce has thickened. When
 ready to serve, top with the rest of the green onions and sesame seeds
-(optional). Leftover Tteokbokki is divine, it'll keep for a long time in the
+(optional). Leftover Tteokbokki is divine, it’ll keep for a long time in the
 fridge.
 
-> ![info](./images/info-icon.png) *Gochujang isn't normally Gluten-free, but you
+> ![info](./images/info-icon.png) *Gochujang isn’t normally Gluten-free, but you
 can find it, probably online. From a Korean market, it will be in a bottle that
-looks like a ketchup bottle. It won't be quite the same, but it'll still taste
+looks like a ketchup bottle. It won’t be quite the same, but it’ll still taste
 amazing.*
 
 \label{tteokbokki}

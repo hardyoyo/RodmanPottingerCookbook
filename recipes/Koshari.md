@@ -2,7 +2,7 @@
 
 Egyptian comfort food.
 
-from: [Nikki & David Goldbeck's American Wholefoods Cuisine](https://isbn.nu/0452262801)
+from: [Nikki & David Goldbeck’s American Wholefoods Cuisine](https://isbn.nu/0452262801)
 
 *dinner, Egyptian, vegan*
 
@@ -27,13 +27,13 @@ from: [Nikki & David Goldbeck's American Wholefoods Cuisine](https://isbn.nu/045
 ---
 
 Start the rice, start water for the pasta, and secure your spicy lentils. If 
-they're frozen, thaw them in the microwave. If they're fresh, measure out what 
+they’re frozen, thaw them in the microwave. If they’re fresh, measure out what 
 you need, then put the rest in freezer containers and in the freezer. Start the 
 sauce: in a small sauce pan over medium-low heat, add the tomatoes and sauce, 
 agave, salt, spices, and olive oil. Let it simmer. Slice the onion very thinly, 
 and either air fry them (spray with a bit of olive oil) or pan-fry them in a 
 splash of olive oil, until they are crispy without being entirely charred. If 
-you *do* char them, don't worry, they'll still taste good. Boil the noodles.
+you *do* char them, don’t worry, they’ll still taste good. Boil the noodles.
 When the rice is done, everything should be ready to assemble. Go in this order:
 rice, lentils, mac, sauce, garnish. Or, refer to the cheat sheet below.
 

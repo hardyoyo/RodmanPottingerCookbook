@@ -30,15 +30,15 @@ This is better.
 
 ---
 
-If you're using tofu, cube it up and sauté it in a splash of vegetable oil and a
-splash of soy sauce, in a medium skillet. When it's brown on most sides, proceed
+If you’re using tofu, cube it up and sauté it in a splash of vegetable oil and a
+splash of soy sauce, in a medium skillet. When it’s brown on most sides, proceed
 with the soup.
 
 In a large stock pot, add the olive oil. Sauté the leek, onion and garlic, 4-5
 minutes. Dump in the celery, carrot, water, broth powder, soup mix (if you have
 it), and chick peas. Bring to boil, reduce heat, cover and simmer for 30
 minutes. Add the noodles, basil, soy sauce and boil for 5-10 minutes, or until
-the noodles are soft. Add the lemon juice and stir. Add the tofu if you're using
+the noodles are soft. Add the lemon juice and stir. Add the tofu if you’re using
 it. Add salt and pepper to taste. Let it cool for 5 minutes, then serve.
 
 > ![ip](./images/ip-icon.png) *Instant Pot option: pressure cook for 7 minutes
@@ -47,7 +47,7 @@ it. Add salt and pepper to taste. Let it cool for 5 minutes, then serve.
 
 ### Gluten-free / Vegan Alternative
 
-Use "rice sticks" (wide rice noodles) in place of the egg noodles. Break the
+Use “rice sticks” (wide rice noodles) in place of the egg noodles. Break the
 noodles into shorter lengths (about 3 inches or less) and soak in a bowl of
 room temperature water for about 30 minutes. When the soup is done, as you
 serve each bowl, add the noodles to the soup in the bowl.

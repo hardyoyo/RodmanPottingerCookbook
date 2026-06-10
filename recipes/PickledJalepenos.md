@@ -23,7 +23,7 @@ From: https://www.allrecipes.com/recipe/262197/pickled-red-onions
 Gather all ingredients. Slice the peppers, mix with chopped carrot, and pack
 them into a clean 1 pint mason jar. Combine liquids, salt, agave syrup and
 peppercorns in a small pan, bring to boil over medium heat. Carefully pour
-brine solution over peppers (probably do this in the sink, so splashes aren't a
+brine solution over peppers (probably do this in the sink, so splashes aren’t a
 big deal). Let stand, uncovered, for 30 minutes. Seal the jar with a
 tight-fitting lid and shake well. Refrigerate until flavor develops, at least
 one hour or up to two weeks, before serving. Keep refrigerated. Will keep as

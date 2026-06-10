@@ -28,13 +28,13 @@ medium mixing bowl, then add the cottage cheese, spices, and 1/4 C Parmesan
 cheese (save the other 1/4 C for topping the lasagna). Water for the noodles
 should be boiling, so cook the noodles according to the directions on the
 package. Drain the noodles in a pasta strainer, and run some cold water over
-them so they're easier to handle (hot noodles suck). Preheat the oven to 375°F.
+them so they’re easier to handle (hot noodles suck). Preheat the oven to 375°F.
 To assemble the lasagna, start with a bit of the sauce on the bottom of a
 9 x 13 glass casserole dish. Put 3 noodles lengthwise on top of the sauce in
 the bottom of the casserole dish. Spread with half of the cheese filling.
 Then about half of the remaining pasta sauce. Then about 1C of the shredded
 cheese. Repeat layers (alternate the way you lay the noodles in, to give the
-lasagna a bit of structure, or don't if you don't care about such things, does
+lasagna a bit of structure, or don’t if you don’t care about such things, does
 not really matter). Sprinkle the remaining cheese (mozzarellla and parmesan) on
 top. Cover with foil and bake in a 375°F oven for 30 minutes. Uncover, bake for
 5-10 minutes more, until the cheese on top is melty and golden. Remove from oven

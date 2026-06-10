@@ -1,6 +1,6 @@
 # Kombu Ramen Broth
 
-Recipe courtesy of Hardy's colleague, Alainna
+Recipe courtesy of Hardy’s colleague, Alainna
 
 *soup, vegan*
 
@@ -41,8 +41,8 @@ egg, cubed baked tofu, frozen peas.
 ### Gluten-free options
 
 GF ramen packets exist, if you have one, swipe the noodles from there. You can
-also use glass noodles, or Soba (buckwheat isn't actually wheat, just be sure
-they haven't snuck in any wheat: read the package). Shirataki noodles (check the
+also use glass noodles, or Soba (buckwheat isn’t actually wheat, just be sure
+they haven’t snuck in any wheat: read the package). Shirataki noodles (check the
 refrigerator section of an Asian market). Rice noodles work great and every
 store has them. Or, spiralize a vegetable!
 

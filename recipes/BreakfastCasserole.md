@@ -3,8 +3,8 @@
 from
 aberdeenskitchen.com/2019/03/easy-vegetarian-hash-brown-breakfast-casserole/
 
-While this seems like it would take a while to cook, it's the perfect thing to
-make if you're already puttering in the kitchen anyway. Most of the time is
+While this seems like it would take a while to cook, it’s the perfect thing to
+make if you’re already puttering in the kitchen anyway. Most of the time is
 waiting, so... you can stack this with other things.
 
 *crowd pleaser, brunch*
@@ -44,8 +44,8 @@ minutes. Take it out and let it cool for 5 more minutes, then serve and eat!
 
 ### NOTES ###
 If you decide to scale up this recipe so it fits into a 13x9 baking dish,
-you'll be using about 16 eggs. Also, don't forget that half the cheese goes on
-the hashbrown crust. This gives the casserole a lot more structure. It's OK if
-you forget and put all the cheese on top, it'll still taste great.
+you’ll be using about 16 eggs. Also, don’t forget that half the cheese goes on
+the hashbrown crust. This gives the casserole a lot more structure. It’s OK if
+you forget and put all the cheese on top, it’ll still taste great.
 
 \label{breakfast-casserole}

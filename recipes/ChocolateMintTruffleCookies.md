@@ -1,7 +1,7 @@
 # Chocolate Mint Truffle Cookies
 
-This is a holiday favorite. The mint truffle Hershey's Kisses are a seasonal
-thing, you'll only see them around Christmas. Keep an eye out for their
+This is a holiday favorite. The mint truffle Hershey’s Kisses are a seasonal
+thing, you’ll only see them around Christmas. Keep an eye out for their
 appearance, and snag a few, so you can make a batch or two of these. They make
 perfect gifts for neighbors or the mail man, so make a bunch, just try not to
 eat them all at once.
@@ -32,7 +32,7 @@ Preheat oven to 350°F. Line a baking sheet with a silicone mat or parchment
 paper. In a bowl, whisk together flour, cocoa powder, baking powder, baking
 soda, and salt. Set aside. Combine sugar, cream cheese and melted butter in a
 large bowl and whisk until the mixture forms a smooth paste. Whisk in oil. Add
-egg, milk, and vanilla extract and stir (with a wooden spoon, don't try to use
+egg, milk, and vanilla extract and stir (with a wooden spoon, don’t try to use
 the whisk for this part, poor whisk) until smooth. Fold in flour mixture until
 all the flour is incorporated and no dry ingredients remain. Dough will be soft,
 but should still be workable. If not, refrigerate it for about 15-20 minutes

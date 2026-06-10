@@ -113,7 +113,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 .PHONY: help all book clean epub html pdf docx final release check \
 	find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles proofread \
-	check-pdf-prereqs stats
+	check-pdf-prereqs stats typographic-fixes
 
 help:	## -- Display this help message
 	@printf "\033[1m📖 Rodman-Pottinger Family Cookbook — Build System\033[0m\n"
@@ -189,6 +189,12 @@ check-hr-formatting:	## -- Check horizontal rules have blank lines around them
 find-adjective-titles:	## -- Find titles starting with an adjective
 	##    (e.g. "Sweet Arepas" under S instead of A)
 	@python3 scripts/find-adjective-titles.py recipes/*.md; exit 0
+
+typographic-fixes:	## -- Convert straight quotes/dashes to typographic (curly) equivalents
+	@python3 scripts/typographic-fixes.py
+
+typographic-fixes-check:	## -- Check for straight quotes/dashes without modifying
+	@python3 scripts/typographic-fixes.py --check
 
 proofread: find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles ## -- Run all proofreading checks

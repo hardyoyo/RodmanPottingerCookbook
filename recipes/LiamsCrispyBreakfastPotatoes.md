@@ -21,11 +21,11 @@
 
 ---
 
-Preheat your oven to 450F (230C). Wash and peel the potatoes (you can leave the skin on if you prefer). Dice them into evenly sized pieces and add to a large baking sheet lined with parchment paper. The more the potatoes are spread out on the baking sheet, the crispier they'll get. Use a paper towel to absorb as much moisture out of the potatoes.
+Preheat your oven to 450F (230C). Wash and peel the potatoes (you can leave the skin on if you prefer). Dice them into evenly sized pieces and add to a large baking sheet lined with parchment paper. The more the potatoes are spread out on the baking sheet, the crispier they’ll get. Use a paper towel to absorb as much moisture out of the potatoes.
 
 Drizzle with avocado oil and toss. Mix all the spices in a separate bowl and sprinkle evenly over the potatoes. Toss to coat well.
 
-Roast in the preheated oven for 15 minutes. Gently toss the potatoes to flip, turn on the broiler, and roast for another 10 minutes. If you don't have a broiler function, just keep the oven at 450F. Keep an eye on the potatoes as broilers get very hot and could burn them quickly.
+Roast in the preheated oven for 15 minutes. Gently toss the potatoes to flip, turn on the broiler, and roast for another 10 minutes. If you don’t have a broiler function, just keep the oven at 450F. Keep an eye on the potatoes as broilers get very hot and could burn them quickly.
 
 Serve with scrambled eggs, veggies, other savory breakfast dishes, or on their own with ketchup. Sprinkle with flaky sea salt for serving if desired.
 

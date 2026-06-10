@@ -1,6 +1,6 @@
 # Brat and Cabbage Soup
 
-We sometimes jokingly call this "Rotten Cabbage Soup" because it gets a laugh.
+We sometimes jokingly call this “Rotten Cabbage Soup” because it gets a laugh.
 Not always.
 
 *soup, Instant Pot*
@@ -29,7 +29,7 @@ minutes. Quick release and eat.
 Use a gluten-free meat substitute like Quorn (their Meatless Pieces are even
 already chopped to the right size, easy/peasy).
 
-If you're cooking for mixed company, you can sauté both brats and Quorn (in
+If you’re cooking for mixed company, you can sauté both brats and Quorn (in
 separate skillets, obviously) and then invite your guests to add whatever meat
 substitute they prefer to their soup.
 

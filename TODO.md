@@ -67,8 +67,10 @@
 - [x] All recipes already have tags — some on later lines (after intro paragraphs) which is spec-valid. No changes needed.
 
 ### Check non-ASCII characters
-- [ ] `PizzaDoughGF.md` — `çė` seems like a typo; verify and fix
-- [ ] Check smart quotes (`'`) in `HoppinJohn.md`, `LemonRiceSoup.md`, `SoybeanPasteStew.md` for LaTeX compatibility
+- [x] All fine — `utf8` inputenc + `T1` fontenc handles them correctly
+- [x] `PizzaDoughGF.md` — `Zoė François` is correct (author's name)
+- [x] Smart quotes in `HoppinJohn.md`, `LemonRiceSoup.md` — fine
+- [x] Em dash in `SoybeanPasteStew.md` — fine
 
 ### Ingredient capitalization consistency (cosmetic)
 - [ ] Normalize `Salt`/`salt`, `Sugar`/`sugar`, `Oil`/`oil`, `Flour`/`flour`, `Pepper`/`pepper`, `Water`/`water`, `Milk`/`milk`, `Rice`/`rice` to lowercase across ingredient lists

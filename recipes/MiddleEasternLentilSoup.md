@@ -24,7 +24,7 @@ From: https://www.hungrypaprikas.com/instant-pot-easy-lentil-soup/
 ---
 
 Start by peeling and chopping the onions and potatoes into large chunks. If you
-don't want to blend the soup at the end, then dice them into smaller cubes. In
+don’t want to blend the soup at the end, then dice them into smaller cubes. In
 the Instant Pot, add the vegetable oil, potatoes, onions, cumin, and remaining spices and cook
 for 5 minutes on sauté mode. If using stove top, use a regular soup pot. Add the
 lentils and water, mix well ensuring you scrape the bottom of the pot, and

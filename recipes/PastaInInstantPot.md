@@ -21,7 +21,7 @@ the cooker, giving everything a stir. Close and lock the lid. Set the vent to
 sealing. Set the time using the time you found in the chart below. Natural
 release for **exactly 5 minutes**. If you let it sit any longer, your pasta will
 over-cook and be a sticky mess. Release pressure and open the lid. Give the
-pasta a good stir, about 20-30 times. If you're adding sauce, you can add it
+pasta a good stir, about 20-30 times. If you’re adding sauce, you can add it
 now. Put the lid back on (no need to lock it), leave the pasta for 5-10 minutes
 more. This is the most important part, your pasta is still cooking. After 5
 minutes or so, the pasta is ready to eat. Enjoy!

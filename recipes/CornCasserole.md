@@ -1,6 +1,6 @@
 # Corn Casserole
 
-From Debbie's mom.
+From Debbie’s mom.
 
 *holiday, side, casserole*
 

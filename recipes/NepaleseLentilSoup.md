@@ -38,10 +38,10 @@ rice.
 ### NOTES
 
 - Almost any sort of recipe ready/diced tomatoes will work, but be careful, some
-of the "fire roasted" options will include spices. "Salsa Style" *will* be spicy
-hot. Which is fine, if that's what you want, but spicy Dal isn't everyone's cup
+of the “fire roasted” options will include spices. “Salsa Style” *will* be spicy
+hot. Which is fine, if that’s what you want, but spicy Dal isn’t everyone’s cup
 of tea.
-- If you're going for Dal instead of soup (thicker texture) don't add an entire
+- If you’re going for Dal instead of soup (thicker texture) don’t add an entire
 can of water, try slightly less than a full can.
 - START THE RICE FIRST!
 - See also Brown Lentil Dal (page \pageref{brown-lentil-dal}),

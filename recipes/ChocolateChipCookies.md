@@ -28,8 +28,8 @@ mixer on medium to high speed for 30 seconds. Add about half the flour, the
 brown sugar, sugar, eggs, vanilla, and baking soda. Beat mixture until
 thoroughly combined. Beat in the remaining flour. Stir in chocolate chips. Scoop
 the dough into a teaspoon (or small cookie scooper) and transfer the glob onto
-an ungreased cookie sheet. Don't smash it, just leave it and make some more
+an ungreased cookie sheet. Don’t smash it, just leave it and make some more
 globs. Bake in a 375°F oven for 8 to 10 minutes, or until edges are firm, but
-don't let them turn too brown. Cool cookies on newspaper.
+don’t let them turn too brown. Cool cookies on newspaper.
 
 \label{chocolate-chip-cookies}

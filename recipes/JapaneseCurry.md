@@ -34,20 +34,20 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 Start the rice before starting the curry — the curry finishes fast.
 
 Start the tofu in a press or between two plates. Set the cooker on sauté, wait
-until it's hot, add oil and sauté the onion until it's translucent and a bit
+until it’s hot, add oil and sauté the onion until it’s translucent and a bit
 brown on the edges. Add garlic and ginger, sauté for 30 seconds more. Add the
 spices, stir, cook for about a minute longer. Cube the tofu and toss it in.
-At this point, you'll probably be chopping veggies, so add about a cup of water
-to the cooker so you don't scorch the onions or the spices. Add the carrots,
+At this point, you’ll probably be chopping veggies, so add about a cup of water
+to the cooker so you don’t scorch the onions or the spices. Add the carrots,
 potatoes, peppers, coconut milk, bouillon, agave syrup, Tamari and the canned
 tomatoes, top up with
 a bit of water until there is enough liquid to cover the veggies (though
 probably not necessary if you added water during the sauté). Close the lid,
-set the cooker for 5 minutes on manual. When it's done, do a quick release.
+set the cooker for 5 minutes on manual. When it’s done, do a quick release.
 Hit the cancel button and then turn on sauté again, cook for about 10 minutes more. Spoon out enough liquid from the curry to dissolve the cornstarch (or
 tapioca starch) in a small bowl, then stir it back into the pot. Stir well, and cook a few minutes more, until the sauce
-has thickened. If it's still looking too thin, repeat the cornstarch steps.
-If it's looking too thick, add a bit of water. Taste, adjust spices to suit
+has thickened. If it’s still looking too thin, repeat the cornstarch steps.
+If it’s looking too thick, add a bit of water. Taste, adjust spices to suit
 your desire. Serve with rice — sushi rice is our favorite, but any kind works
 — and a side salad.
 

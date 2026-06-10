@@ -30,7 +30,7 @@ to a serving bowl. Pour on the vinaigrette dressing while they are still hot,
 toss them around in the dressing to get a good coating, then finally scatter in
 the chives and green onion, and serve.
 
-You can always steam the potatoes in an instant pot if you're in hurry or are
+You can always steam the potatoes in an instant pot if you’re in hurry or are
 feeling lazy.
 
 \label{warm-potato-salad-with-lemon-and-chive-vinaigrette}

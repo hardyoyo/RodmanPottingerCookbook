@@ -1,6 +1,6 @@
 # Fried Rice
 
-From Debbie's mom.
+From Debbie’s mom.
 
 *fried rice, side, vegan-ish*
 

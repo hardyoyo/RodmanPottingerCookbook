@@ -2,8 +2,8 @@
 
 Hardy made this one up, when a coworker gave him a massive amount of basil. It
 used to be way more complex, until Debbie figured out we could cook the lentils
-and the rice at the same time, in the same pot. It doesn't have to be vegan, if
-you don't mind cheese, substitute parmesan cheese for nutritional yeast.
+and the rice at the same time, in the same pot. It doesn’t have to be vegan, if
+you don’t mind cheese, substitute parmesan cheese for nutritional yeast.
 
 *Instant Pot, vegan, gluten-free*
 
@@ -33,7 +33,7 @@ edges, add the garlic and basil, sauté for 30 seconds more, then add the rice
 and stir it around a bit, until it soaks up all the oil and starts to smell
 toasty. Then add the water, Better Than Bouillon, tomatoes and lentils. Pop on
 the lid, set the cooker for 26 minutes, natural release (the rice will need the
-extra time so it doesn't come out too hard). If the rice *is* crunchy, you can
+extra time so it doesn’t come out too hard). If the rice *is* crunchy, you can
 put the lid back on, and run the cooker for 1 minute at pressure, and really
 truly do a natural release. Cook a side dish or two if you need something to do
 while you wait.
@@ -41,14 +41,14 @@ while you wait.
 Resist the urge to add any other spices to this recipe. The basil is the star of
 the show, let it shine.
 
-After the natural release is done, stir in the nutritional yeast. If you're not
+After the natural release is done, stir in the nutritional yeast. If you’re not
 vegan, you can use parmesan cheese instead. Or both, both works.
 
 
 > ![info](./images/info-icon.png) *You can make this on the road with
 ingredients from Walmart. They sell a can of cooked lentils, and they have brown
-rice in a bag, canned tomatoes, and a tube of chopped basil, if you can't find
-fresh basil. It's OK to skip the nutritional yeast if you're winging it on the
+rice in a bag, canned tomatoes, and a tube of chopped basil, if you can’t find
+fresh basil. It’s OK to skip the nutritional yeast if you’re winging it on the
 road. We made this on vacation in Halifax, NS, in a tiny apartment, and it was
 really a nice treat.*
 

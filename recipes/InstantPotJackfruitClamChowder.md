@@ -27,7 +27,7 @@
 
 ### Prep the Jackfruit
 
-Drain and thoroughly rinse the canned jackfruit under cold running water to remove the briny tang. Using your fingers or two forks, pull apart the jackfruit pieces to shred them into "clam-like" strands. Set aside.
+Drain and thoroughly rinse the canned jackfruit under cold running water to remove the briny tang. Using your fingers or two forks, pull apart the jackfruit pieces to shred them into “clam-like” strands. Set aside.
 
 ### Sauté Aromatics
 
@@ -35,7 +35,7 @@ Press the **Sauté** button on your Instant Pot and set it to **Normal**. Add th
 
 ### Pressure Cook the Kombu Broth
 
-Pour in about 1/2 cup of the water and use a wooden spoon to thoroughly scrape up any browned bits from the bottom of the inner pot. This deglazing step prevents a "Burn" error later. Add the remaining 3 cups of water and the Better Than Bouillon base, stirring until dissolved. Drop the piece of kombu into the liquid. Secure the lid and ensure the venting knob is set to **Sealing**. Select **Manual / Pressure Cook** on **High Pressure** for **3 minutes**. When the timer goes off, perform a **Quick Release (QR)** by carefully switching the valve to Venting. Once the pin drops, safely open the lid.
+Pour in about 1/2 cup of the water and use a wooden spoon to thoroughly scrape up any browned bits from the bottom of the inner pot. This deglazing step prevents a “Burn” error later. Add the remaining 3 cups of water and the Better Than Bouillon base, stirring until dissolved. Drop the piece of kombu into the liquid. Secure the lid and ensure the venting knob is set to **Sealing**. Select **Manual / Pressure Cook** on **High Pressure** for **3 minutes**. When the timer goes off, perform a **Quick Release (QR)** by carefully switching the valve to Venting. Once the pin drops, safely open the lid.
 
 ### Build the Chowder & Slow Cook
 
