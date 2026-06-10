@@ -61,6 +61,8 @@ PAGES += $(addprefix ./words/,\
   InstantPotCheatSheet.md\
   EmergencySubstitutions.md\
   OvenTemperatures.md\
+  PantrySetup.md\
+  KitchenHerbGarden.md\
   Acknowledgements.md\
 )
 

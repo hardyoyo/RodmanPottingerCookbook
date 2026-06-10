@@ -22,3 +22,9 @@ Plastic Scrapers
 also handy for getting all sorts of other kitchen things clean, like spatulas
 with gunk stuck to them, etc. You need at least one, but we recommend getting a
 bunch, because they're easy to lose.
+
+Tofu Press
+: Squeezes the water out of a block of tofu so it absorbs marinade better. We
+have two of them. If you don't have one, a quick substitute is two ceramic
+plates with something heavy on top of the top plate (a bag of sugar or flour
+works great).

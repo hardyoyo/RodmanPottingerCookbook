@@ -17,7 +17,7 @@ From: https://tastesbetterfromscratch.com/vietnamese-chicken-sandwich-banh-mi/
 - *1* package Plant-Based Bulgogi Beef (Trader Joe's or Asian grocery, frozen section)
 - *1/4 C* mayonnaise (vegan)
 - *3 T* hoisin sauce
-- *1 t* Sriracha hot sauce, more or less to taste
+- *1 t* Sriracha hot sauce (or Chile Garlic Sauce, page \pageref{chile-garlic-sauce}), more or less to taste
 - *4* small French baguettes or crusty rolls, sliced lengthwise
 - *1/2 bunch* fresh cilantro
 
