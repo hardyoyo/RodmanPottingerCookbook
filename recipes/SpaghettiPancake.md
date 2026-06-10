@@ -1,6 +1,6 @@
 # Spaghetti Pancake
 
-What's that? You boiled too many noodles? Put them in the fridge and have them
+What’s that? You boiled too many noodles? Put them in the fridge and have them
 for breakfast (or lunch, or dinner).
 
 *dinner*

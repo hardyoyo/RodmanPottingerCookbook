@@ -1,6 +1,6 @@
 # Black Bean Soup
 
-Based loosely on the Black Bean Soup recipe in _The New Laurel's Kitchen_ by
+Based loosely on the Black Bean Soup recipe in _The New Laurel’s Kitchen_ by
 Laurel Robertson, Carol Flinders and Brian Ruppenthal, but the timings are from
 the tiny Instant Pot cookbook that comes with the cooker.
 
@@ -17,7 +17,7 @@ the tiny Instant Pot cookbook that comes with the cooker.
 - *1* 14oz can of fire roasted tomatoes (not salsa style)
 - *1/2* can of green chilies (freeze the rest)
 - *1* 14oz can of water
-- *2* 15oz cans of Beans (about 3.5 C)
+-- *2* 15oz cans of beans (about 3.5 C)
 - *1* bay leaf
 - *3/4 t* cumin
 - *1/2 t* chili powder

@@ -1,7 +1,7 @@
 # Coffee Cake
 
 This recipe is a secret/filler recipe from the Better Homes and Gardens
-Cookbook, 10th edition, page 64. It's not in the TOC or index. It's just there
+Cookbook, 10th edition, page 64. It’s not in the TOC or index. It’s just there
 on the page.
 
 *breakfast*

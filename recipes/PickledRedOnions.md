@@ -20,7 +20,7 @@ From: https://www.allrecipes.com/recipe/262197/pickled-red-onions
 Gather all ingredients. Thinly slice red onion. Pack onion slices into a clean 1
 pint mason jar. Combine vinegar, salt, agave syrup and peppercorns in a small pan,
 bring to boil over medium heat. Carefully pour brine solution over onions
-(probably do this in the sink, so splashes aren't a big deal). Let stand,
+(probably do this in the sink, so splashes aren’t a big deal). Let stand,
 uncovered, for 30 minutes. Seal the jar with a tight-fitting lid and shake well.
 Refrigerate until flavor develops, at least one hour or up to two weeks, before
 serving. Keep refrigerated. Will keep as long as normal pickles (many months) as

@@ -30,7 +30,7 @@ from https://www.noracooks.com/vegan-chocolate-cake
 
 ---
 
-Preheat oven to 350°F and grease one large 13x9 cake pan. If you're using two 
+Preheat oven to 350°F and grease one large 13x9 cake pan. If you’re using two 
 round cake pans, you should lightly dust them with flour in addition to 
 greasing them. Those round pans like to hold on to their cake! Measure 1 C 
 unsweetened almond milk and add the tablespoon of vinegar to it. Stir slightly 
@@ -42,7 +42,7 @@ Lower the speed and carefully pour in the boiling water, continuing to mix into
 the cake batter until combined. The batter will seem very runny at this point; 
 that is how it should be, trust me! Divide the batter evenly between your cake 
 pans. Bake for 30-35 minutes, or until a toothpick inserted in the center comes 
-out clean. After 10 minutes of cooling in the pan, if you're using round cake
+out clean. After 10 minutes of cooling in the pan, if you’re using round cake
 pans, carefully remove the cakes from the pans and let cool completely before 
 frosting.
 

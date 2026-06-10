@@ -25,8 +25,8 @@ preferred consistency.
 
 ---
 
-Turn Instant Pot to Sauté mode. After the 'hot' sign displays, add oil and
-onions. Mix well. Cook covered with a glass lid (any will do, doesn't have to
+Turn Instant Pot to Sauté mode. After the ‘hot’ sign displays, add oil and
+onions. Mix well. Cook covered with a glass lid (any will do, doesn’t have to
 be official, or even exactly the right size, bigger is fine) for 2 minutes. Add
 ginger and garlic. Mix well and cook for 30 seconds. Add red lentils, berbere
 spice blend, and salt. Add **2 cups** of water and mix everything together. Close
@@ -36,6 +36,6 @@ more water to bring the stew to desired consistency. Mix well. Garnish with
 chopped cilantro and squeeze fresh lime juice on top before serving with
 steamed rice or bread.
 
-See also Gomen Be'Telba (page \pageref{gomen-be-telba}).
+See also Gomen Be’Telba (page \pageref{gomen-be-telba}).
 
 \label{misir-wot}

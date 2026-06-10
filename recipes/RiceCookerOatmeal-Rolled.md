@@ -19,7 +19,7 @@ try for this overnight.
 
 Dump ingredients, press the oatmeal button.
 
-When it's done, don't freak out if it seems really watery. Just stir it a bit,
-it's fine.
+When it’s done, don’t freak out if it seems really watery. Just stir it a bit,
+it’s fine.
 
 \label{rice-cooker-oatmeal-rolled-oats}

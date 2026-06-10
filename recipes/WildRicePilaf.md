@@ -20,7 +20,7 @@ to find; Beyond Italian sausage is easy to find and works great too.
 
 ---
 
-Sauté onion in the cooker. Add garlic (if you're using it). Add the chopped
+Sauté onion in the cooker. Add garlic (if you’re using it). Add the chopped
 brat, sauté a minute more. Add rice, brown a bit more (3 or 4 minutes),
 stirring constantly. Add water and bouillon, put on the lid, lock it, cook for
 20 minutes, let it natural release.

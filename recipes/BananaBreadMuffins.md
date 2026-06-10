@@ -22,7 +22,7 @@ From: Better Homes and Gardens New Cook Book, 10th Edition
 ---
 
 In a small bowl, mix 4 T of ground flax seed with 10 T of water, and set it
-aside. These are "vegan eggs". In a large bowl combine 2 C of flour, sugar,
+aside. These are “vegan eggs”. In a large bowl combine 2 C of flour, sugar,
 baking powder, baking soda, and salt. Add the mashed bananna, shortening, and
 non-dairy milk. Beat with an electric mixer on low speed until blended, then on
 high speed for 2 minutes. Add vegan eggs and remaining flour, beat until blended.

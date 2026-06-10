@@ -21,7 +21,7 @@ constantly. When your gravy starts to boil, whisk until all the ingredients are
 combined and your gravy is smooth. Remove from heat and cool to desired
 temperature before serving. Store leftovers in an airtight container in the
 fridge for up to a week, or freeze for up to 3 months. Hints: start with cold
-ingredients. Put all the ingredients in the pot, THEN turn on the heat. That's
+ingredients. Put all the ingredients in the pot, THEN turn on the heat. That’s
 how you keep the flour from clumping.
 
 \label{gravy}

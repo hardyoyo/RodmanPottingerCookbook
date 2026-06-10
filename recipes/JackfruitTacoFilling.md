@@ -24,7 +24,7 @@ From: https://minimalistbaker.com/spicy-jackfruit-tacos-1-pot-meal/
 ---
 
 Chop the jackfruit into thin slices. Slice them from the core to the edge (like
-you are trying to split a piece of pie that's too big). This will help to give
+you are trying to split a piece of pie that’s too big). This will help to give
 a shredded texture. Take a large skillet and heat oil on a medium-high flame.
 Add onions and garlic to hot oil and sauté them for 5 minutes till they turn
 brown and soft. Add jackfruit, water, bouillon, agave, lime juice, and other

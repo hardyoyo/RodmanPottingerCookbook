@@ -24,10 +24,10 @@ hands or fingers. Keep at it until the mixture resembles coarse meal and all
 visible lumps of shortening are gone. Lightly drizzle the water a tablespoon at
 a time, stirring with a wooden spoon or your fingers, until you can bring the
 dough together in a ball. Add a few extra drops if the dough is still crumbly.
-Shape the dough into a ball, the proceed with whatever recipe needs dough. Don'
+Shape the dough into a ball, the proceed with whatever recipe needs dough. Don’
 know what to make? Make a pie!
 
-- If it's a hot day, you may want to refrigerate the dough for 15 minutes
+- If it’s a hot day, you may want to refrigerate the dough for 15 minutes
 before rolling and shaping it.
 
 \label{easy-piecrust}

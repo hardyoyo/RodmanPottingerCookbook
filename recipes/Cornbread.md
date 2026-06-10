@@ -1,7 +1,7 @@
 # Crunchy Cornbread
 
 Not sure where this recipe is from. I think I gave it the name when I typed it
-up 20 years ago. We've been making it longer than that. The flax seed is an egg
+up 20 years ago. We’ve been making it longer than that. The flax seed is an egg
 substitute, but combining it with all the liquid ingredients is a nice speed-up.
 
 *quickbread, vegan*
@@ -27,10 +27,10 @@ liquid mixture to flour mixture and combine thoroughly with minimal mixing (a
 wooden spoon would be great for this). Spelt flour and gluten-free flour are
 both very thirsty — you may need to add more soy milk or water (about 1/2 C)
 at this point, if the batter seems very thick (nearly impossible to mix).
-You're aiming for something closer to cake batter, not biscotti. Pour the batter into an oiled 8 inch square pan. Bake for
+You’re aiming for something closer to cake batter, not biscotti. Pour the batter into an oiled 8 inch square pan. Bake for
 30 minutes or until cornbread pulls away from the sides, and a dent made by a
-finger in the center of the loaf recovers its shape--but you probably won't
-need to do that test, we never do, don't poke your bread if you don't have to.
+finger in the center of the loaf recovers its shape — but you probably won’t
+need to do that test, we never do, don’t poke your bread if you don’t have to.
 As muffins, this recipe makes a dozen, and cooks in 16 minutes.
 
 \label{crunchy-cornbread}

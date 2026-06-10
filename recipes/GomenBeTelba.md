@@ -36,13 +36,13 @@ dramatically, after 1-2 minutes, reduce heat to medium. Give the flaxseed
 mixture one last stir, and add it to the greens, and stir well to combine. Cover
 and cook, stirring frequently, until the greens are quite tender, about 10
 minutes. Add up to 1/4 C more water, as needed, if the greens are becoming dry.
-Add the pepper (if you're using it), simmer uncovered until the sauce has
+Add the pepper (if you’re using it), simmer uncovered until the sauce has
 thickened and the greens are very tender, about 5 minutes longer. Season to
 taste with salt and pepper.
 
-Try to finish this dish up in a day or so, it doesn't keep well in the fridge.
+Try to finish this dish up in a day or so, it doesn’t keep well in the fridge.
 Neither does Injera (the large flat bread, made with Teff). You can freeze the
-Injera... Gomen Be'Telba doesn't freeze well.
+Injera... Gomen Be’Telba doesn’t freeze well.
 
 See also Misir Wot (page \pageref{misir-wot}).
 

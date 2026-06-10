@@ -31,7 +31,7 @@ Transfer nuts to a paper towel-lined plate. Sprinkle almonds lightly with salt.
 Slowly whisk remaining olive oil in cup into lemon juice mixture. Season with
 salt and pepper according to your whims or desires. All of this (salad mixture,
 dressing mixture, and nuts) can be prepared ahead of time, and just hang out
-until it's time to eat. When ready, mix the dressing into the salad, top with
+until it’s time to eat. When ready, mix the dressing into the salad, top with
 almonds and cheese (or nutritional yeast if this will be vegan), and more salt
 and pepper to suit your taste.
 

@@ -34,7 +34,7 @@ for salt. Garnish with cilantro and serve.
 
 What we call Curry Powder is really a spice blend, usually of three spices:
 turmeric, cumin and coriander... with maybe some other additions like garam
-masala. This recipe aims for a very specific taste, so you'll be mixing those
+masala. This recipe aims for a very specific taste, so you’ll be mixing those
 spices, to get the curry just right. Remember this recipe, if you have a recipe
 that calls for curry powder, you can just make your own.
 

@@ -26,13 +26,13 @@ pea-size chunks. To the soaked flaxseed mixture, add 1/3 C plus 1 T of ice
 water and the vinegar. Pour the wet mixture into the bowl with the flour, and
 stir until the dough holds together when you pinch it between your fingers.
 Cover the bowl with plastic wrap and refrigerate the dough while you prepare the
-fillings. (Or, if you're prepping ahead of time, refrigerate the dough
+fillings. (Or, if you’re prepping ahead of time, refrigerate the dough
 overnight.) Preheat the oven to 425°F. Line 2 large baking sheets with parchment
 paper. Set aside. Prepare the sweet potato and black bean filling, or pull
 leftovers out of the fridge to use as filling (lentil soup works great). Divide
 the dough into 15 equal pieces. Roll out each piece of dough into a 3-inch
 round, approximately 1/4 in. thick, working with one piece at a time, and
-keeping the rest of the dough balls covered so they don't dry out. Place
+keeping the rest of the dough balls covered so they don’t dry out. Place
 approximately 2T of filling in the middle of each dough round, positioning it a
 tad closer to one side. Wet the edges of the dough with water, gently fold the
 dough over, and press together to seal. Press with the tines of a fork around
