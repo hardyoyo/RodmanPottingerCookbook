@@ -10,14 +10,14 @@ where it’s from.
 ---
 
 - *3 C* Wheat Flour (or Gluten Free if you want)
-- *1/8 C* Sugar
+-- *1/8 C* sugar
 - *1/8 C* Baking Powder
 - *1/8 C* Flax Seeds, ground
-- *1/2 t* Salt
+-- *1/2 t* salt
 - *3 C* non-dairy milk
-- *1/8 C* Oil
-- *1/8 C* Water
-- *1 1/2 t* Vanilla
+-- *1/8 C* oil
+-- *1/8 C* water
+-- *1 1/2 t* vanilla
 
 ---
 

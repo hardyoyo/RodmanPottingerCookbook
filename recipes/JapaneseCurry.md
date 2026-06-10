@@ -10,8 +10,8 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 
 - *1 package* of extra-firm tofu, pressed and cubed
 - *2 T* Canola Oil
-- *1* Onion, diced big
-- *4 t* Garlic, minced
+-- *1* onion, diced big
+-- *4 t* garlic, minced
 - *2 t* Ginger, minced
 - *2 t* Curry Powder, maybe a smidge more, up to you
 - *2 t* Ground Cumin

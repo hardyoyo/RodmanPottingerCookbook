@@ -14,9 +14,9 @@ Zoė François
 - *1/2 C* Potato Starch
 - *1 t* Xanthan Gum
 - *1 T* Yeast
-- *2 t* Salt
-- *1/8 C* Sugar
-- *2 C* Water (a little less than 2C, actually)
+-- *2 t* salt
+-- *1/8 C* sugar
+-- *2 C* water (a little less than 2C, actually)
 - *1/4 C* Olive Oil
 - *2* Egg Whites (or 2 "vegan eggs", see below)
 

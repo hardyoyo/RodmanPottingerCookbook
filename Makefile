@@ -113,7 +113,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 .PHONY: help all book clean epub html pdf docx final release check \
 	find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles proofread \
-	check-pdf-prereqs stats typographic-fixes
+	check-pdf-prereqs stats typographic-fixes normalize-ingredient-caps
 
 help:	## -- Display this help message
 	@printf "\033[1m📖 Rodman-Pottinger Family Cookbook — Build System\033[0m\n"
@@ -195,6 +195,12 @@ typographic-fixes:	## -- Convert straight quotes/dashes to typographic (curly) e
 
 typographic-fixes-check:	## -- Check for straight quotes/dashes without modifying
 	@python3 scripts/typographic-fixes.py --check
+
+normalize-ingredient-caps:	## -- Lowercase generic ingredient words in lists
+	@python3 scripts/normalize-ingredient-caps.py
+
+normalize-ingredient-caps-check:	## -- Check ingredient caps without modifying
+	@python3 scripts/normalize-ingredient-caps.py --check
 
 proofread: find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles ## -- Run all proofreading checks
