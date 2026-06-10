@@ -66,11 +66,11 @@
 ### Tags
 - [x] All recipes already have tags — some on later lines (after intro paragraphs) which is spec-valid. No changes needed.
 
-### Check non-ASCII characters
-- [x] All fine — `utf8` inputenc + `T1` fontenc handles them correctly
-- [x] `PizzaDoughGF.md` — `Zoė François` is correct (author's name)
-- [x] Smart quotes in `HoppinJohn.md`, `LemonRiceSoup.md` — fine
-- [x] Em dash in `SoybeanPasteStew.md` — fine
+### Typographic quotes and dashes (completed)
+- [x] Converted all straight apostrophes/quotes to curly in prose across 93 recipes
+- [x] Converted double/triple hyphens to em dashes
+- [x] Saved as `scripts/typographic-fixes.py` with `make typographic-fixes` target
+- [x] `make check` passes
 
 ### Ingredient capitalization consistency (cosmetic)
 - [ ] Normalize `Salt`/`salt`, `Sugar`/`sugar`, `Oil`/`oil`, `Flour`/`flour`, `Pepper`/`pepper`, `Water`/`water`, `Milk`/`milk`, `Rice`/`rice` to lowercase across ingredient lists
