@@ -4,7 +4,7 @@ The oatmeal button takes 20-23 minutes, you can delay the start, and set this up
 before going to bed, if you want. Experiment with the delayed start before you
 try for this overnight.
 
-*Rice Cooker*
+*Rice Cooker, vegan*
 
 **4 Servings**
 

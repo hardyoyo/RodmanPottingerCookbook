@@ -2,7 +2,7 @@
 
 From the cookbook that comes with the Instant Pot
 
-*Instant Pot, staple*
+*Instant Pot, staple, vegan*
 
 **5 Servings**
 

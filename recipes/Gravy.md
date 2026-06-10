@@ -9,7 +9,7 @@ From: https://www.glutenfreepalate.com/5-minute-gravy-4-ingredients/
 ---
 
 - *2 C* water
-- *2 t* better than bouilion
+- *2 t* Better Than Bouillon
 - *1/4 C* all-purpose gluten-free flour
 - *1/4 C* butter/margarine
 - salt and pepper to taste

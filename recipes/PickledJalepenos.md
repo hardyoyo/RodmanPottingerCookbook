@@ -1,14 +1,14 @@
-# Pickled Jalepenos
+# Pickled Jalapeños
 
 From: https://www.allrecipes.com/recipe/262197/pickled-red-onions
 
-*condiment*
+*condiment, vegan*
 
 **20 Servings**
 
 ---
 
-- *6* jalapeno peppers, sliced
+- *6* jalapeño peppers, sliced
 - *1/2 C* distilled white vinegar
 - *1/2 C* water
 - *1 t* garlic, minced
@@ -30,4 +30,4 @@ one hour or up to two weeks, before serving. Keep refrigerated. Will keep as
 long as normal pickles (many months) as long as you keep them refrigerated. Use
 these as garnish on tacos, sandwiches, salads, or soup.
 
-\label{pickled-jalepenos}
+\label{pickled-jalapenos}

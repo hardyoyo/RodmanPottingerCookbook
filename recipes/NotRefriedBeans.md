@@ -7,7 +7,7 @@ always whip up a batch of beans just so you can make Not Refried Beans, nobody
 will judge you for it. The amounts of the other ingredients are a guess, just 
 kinda eyeball it and go with your gut.
 
-*staple*
+*staple, vegan*
 
 **5 Servings**
 

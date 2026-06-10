@@ -2,7 +2,7 @@
 
 From: https://peasandcrayons.com/roasted-cherry-tomato-salsa/
 
-*Mexican, Appetizer*
+*Mexican, Appetizer, vegan*
 
 **16 Servings**
 

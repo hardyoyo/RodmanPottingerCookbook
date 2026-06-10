@@ -6,10 +6,8 @@ From the cookbook that comes with the cooker.
 
 ---
 
-- 6-12 eggs
-- 1 C water
-- 15 minutes
-- 1 medium bowl of cold water to cool eggs
+- *6-12* eggs
+- *1 C* water
 
 ---
 

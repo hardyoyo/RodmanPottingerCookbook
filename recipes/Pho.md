@@ -2,7 +2,7 @@
 
 from: https://cookieandkate.com/vegetarian-pho-recipe/
 
-*soup, Instant Pot, Vietnamese*
+*soup, Instant Pot, Vietnamese, vegan*
 
 **6 Servings**
 
@@ -11,15 +11,15 @@ from: https://cookieandkate.com/vegetarian-pho-recipe/
 - *1* onion, chopped
 - *3 T* ginger, minced
 - *12 C* water
-- *6 t* Better than Bouillon or broth powder
+- *6 t* Better Than Bouillon or broth powder
 - *3 T* Tamari
 - *8 oz* rice noodles (3/4 of a package)
 - *2 T* olive oil
-- *8-10* Shitake mushrooms, sliced thinly
+- *8-10* Shiitake mushrooms, sliced thinly
 - Salt (to taste)
 - Pho spices satchet (from an Asian grocery store)
 - Garnishes (mung bean sprouts, basil or cilantro, thinly sliced green onion,
-carrots, jalapeno, small wedges of lime)
+carrots, jalapeño, small wedges of lime)
 
 ---
 
@@ -32,7 +32,7 @@ soup when it's ready, but it's not ready yet). Now you work on the garnishes.
 If you're using dry mushrooms, soak them, too. Gather all the garnishes, 
 putting them in bowls. Chop the herbs, and put them into a bowl. Slice the lime 
 into small wedges and put them in a bowl. Slice the green onion and put in a 
-bowl. Slice the jalepeno. You can make the carrots fancy by slicing 4-5 
+bowl. Slice the jalapeño. You can make the carrots fancy by slicing 4-5 
 "trenches" lengthwise, then thinly slice crosswise as normal. This will give 
 you crosses or stars, depending on how many trenches you sliced. This can be 
 time-consuming, but, you're not in a hurry, you're waiting for the soup and 

@@ -1,8 +1,8 @@
-# Gomen Be'Telba {#gomen-be-telba}
+# Gomen Be'Telba
 
 from Teff Love, by Kittee Berns
 
-*Ethiopian, greens*
+*Ethiopian, greens, vegan*
 
 **8 Servings**
 
@@ -17,7 +17,7 @@ from Teff Love, by Kittee Berns
 - *3 t* garlic, minced
 - *1 t* ginger, minced
 - *2* bunches of collard greens, ribbed and chopped
-- *1/2* jalepeño pepper, sliced into thin rounds (optional)
+- *1/2* jalapeño pepper, sliced into thin rounds (optional)
 - salt and pepper to taste
 
 ---
@@ -30,7 +30,7 @@ In a large pot, sauté the onion with olive oil, basil and salt. Cook over mediu
 heat, stirring frequently, until very soft and golden brown, about 10-12
 minutes. Add the garlic and ginger, cook, stirring frequently to keep the ginger
 from burning, about 1 minute. Increase the heat to high, add in the greens and
-the remaining 1/4 C of water. Stir constantly, from teh bottom to the top,
+the remaining 1/4 C of water. Stir constantly, from the bottom to the top,
 incorporating the onion mixture with the greens. Once the greens have wilted
 dramatically, after 1-2 minutes, reduce heat to medium. Give the flaxseed
 mixture one last stir, and add it to the greens, and stir well to combine. Cover
@@ -44,6 +44,6 @@ Try to finish this dish up in a day or so, it doesn't keep well in the fridge.
 Neither does Injera (the large flat bread, made with Teff). You can freeze the
 Injera... Gomen Be'Telba doesn't freeze well.
 
-See also Misir Wat (page \pageref{misir-wot}).
+See also Misir Wot (page \pageref{misir-wot}).
 
 \label{gomen-be-telba}

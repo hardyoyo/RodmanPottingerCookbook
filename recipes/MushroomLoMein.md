@@ -3,9 +3,9 @@
 This is the first recipe Hardy ever memorized, and taught to all of his friends.
 It's a crowd pleaser, easy, and the ingredients are very commonly available in
 almost any kitchen. It's not particularly nutritious, though, and full of fat.
-So... best not to make this a habbit.
+So... best not to make this a habit.
 
-*easy, noodles*
+*easy, noodles, can be vegan*
 
 **5 Servings**
 

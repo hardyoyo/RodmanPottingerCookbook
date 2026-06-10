@@ -12,7 +12,7 @@ This is by far the best brownie recipe we have ever tasted.
 - *2 C* sugar
 - *2 t* vanilla
 - *4* eggs
-- *3/4 C* Hersey's Cocoa
+- *3/4 C* Hershey's Cocoa
 - *1 C* flour
 - *1/2 t* baking powder
 - *1/4 t* salt

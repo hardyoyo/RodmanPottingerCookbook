@@ -2,7 +2,7 @@
 
 from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hoppin-john)
 
-*Stovetop, soul-food*
+*Stovetop, soul-food, vegan*
 
 **5 Servings**
 
@@ -13,7 +13,7 @@ from [BadManners.com/recipes/hoppin-john](https://www.badmanners.com/recipes/hop
 - *1* onion
 - *2* bell peppers, chopped
 - *1* carrot, chopped (optional)
-- *3* ribs of cellery, chopped
+- *3* ribs of celery, chopped
 - *1-2 t* chipotle peppers in adobo sauce
 - *2 t* garlic, minced
 - *1 t* dried thyme
@@ -46,7 +46,6 @@ you are all done and add more herbs or spices if you think it needs it.
 
 > ![ip](./images/ip-icon.png) *You can do this in the instant pot if you're in
 a hurry, soup button, 7 minutes, quick release, or if you're using dry beans
-(totally OK!), double the liquid to 6 cups, and cook for 26 minutes, natural
-release.*
+(totally OK!), double the liquid to 6 C, and cook for 26 minutes, 15 minute quick release.*
 
 \label{hoppin-john}

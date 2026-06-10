@@ -2,14 +2,14 @@
 
 from: https://www.epicurious.com/recipes/food/views/hummus-237832
 
-*staple*
+*staple, vegan*
 
 **8 Servings**
 
 ---
 
 - *2 C* chickpeas (canned is fine)
-- *1/2 C* tahin
+- *1/2 C* tahini
 - *1/4 C* olive oil, plus oil for drizzling
 - *2 t* garlic, minced
 - salt and pepper, to taste

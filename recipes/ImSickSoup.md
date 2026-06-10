@@ -3,7 +3,7 @@
 We came up with this one time when we really wanted something like chicken soup.
 This is better.
 
-*soup*
+*soup, vegan*
 
 **8 Servings**
 
@@ -16,13 +16,13 @@ This is better.
 - *3 stalks* celery (chopped)
 - *3* carrot (chopped)
 - *10 C* water
-- *4 t* Better than Bouillon
+- *4 t* Better Than Bouillon
 - *1 T* broth powder or
 - *1* bouillon cube
-- *1 packet of Knorrs Spring Vegetabl Soup (optional)
+- *1 packet of Knorr's Spring Vegetable Soup (optional)
 - *1 can* chickpeas or
 - *1 block* extra firm tofu
-- *1/2 bag* Kloosky egg noodles
+- *1/2 bag* Kloosky egg noodles (or rice sticks for vegan/GF version)
 - *1 t* basil, dried
 - *2 t* soy sauce
 - *1/2 t* lemon juice
@@ -41,16 +41,15 @@ minutes. Add the noodles, basil, soy sauce and boil for 5-10 minutes, or until
 the noodles are soft. Add the lemon juice and stir. Add the tofu if you're using
 it. Add salt and pepper to taste. Let it cool for 5 minutes, then serve.
 
-You *could* do this in an instant pot, but if so, try to just use the sauté
-button and simmer the soup like you would on the stove. The smell of this soup
-is part of the magic. You won't get nearly enough of that if you try to cook
-this under pressure.
+> ![ip](./images/ip-icon.png) *Instant Pot option: pressure cook for 7 minutes
+> instead of the 30 minute simmer, quick release, hit sauté, bring to a boil,
+> add noodles, then follow the normal post-noodle instructions.*
 
-### Gluten-free Alternative
+### Gluten-free / Vegan Alternative
 
-Use "rice sticks" (wide rice noodles). Break the noodles into shorter lengths
-(about 3 inches or less) and soak in a bowl of room temperature water for about
-30 minutes. When the soup is done, as you serve each bowl, add the noodles to
-the soup in the bowl.
+Use "rice sticks" (wide rice noodles) in place of the egg noodles. Break the
+noodles into shorter lengths (about 3 inches or less) and soak in a bowl of
+room temperature water for about 30 minutes. When the soup is done, as you
+serve each bowl, add the noodles to the soup in the bowl.
 
 \label{im-sick-soup}

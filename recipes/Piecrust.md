@@ -8,7 +8,7 @@ Simply, satisfying, no-frills piecrust. Make a pie, or, empanadas, or samosas.
 
 ---
 
-- *2 C* flour (white, 1/2 white 1/2 wheat, or glutten free)
+- *2 C* flour (white, 1/2 white 1/2 wheat, or gluten free)
 - *1 t* salt
 - *2/3 C* shortening
 - *5-7 T* ice water, as needed
@@ -27,7 +27,7 @@ dough together in a ball. Add a few extra drops if the dough is still crumbly.
 Shape the dough into a ball, the proceed with whatever recipe needs dough. Don'
 know what to make? Make a pie!
 
-- If it's a hot day, you may want to refridgerate the dought for 15 minutes
+- If it's a hot day, you may want to refrigerate the dough for 15 minutes
 before rolling and shaping it.
 
 \label{easy-piecrust}

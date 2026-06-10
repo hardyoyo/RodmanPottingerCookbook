@@ -2,7 +2,7 @@
 
 from https://www.noracooks.com/vegan-chocolate-cake
 
-*dessert, gluten-free*
+*dessert, gluten-free, vegan*
 
 **8 Servings**
 
@@ -10,6 +10,7 @@ from https://www.noracooks.com/vegan-chocolate-cake
 
 - *1 C* non-dairy milk (almond or soy, whatever you have)
 - *1 T* apple cider vinegar
+- *1/2 C* applesauce
 - *2 C* gluten-free flour
 - *1 3/4 C* sugar
 - *3/4 C* cocoa powder
