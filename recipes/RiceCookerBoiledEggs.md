@@ -4,6 +4,8 @@ From the cookbook that comes with the cooker.
 
 *Rice Cooker*
 
+**3-6 Servings**
+
 ---
 
 - *6-12* eggs

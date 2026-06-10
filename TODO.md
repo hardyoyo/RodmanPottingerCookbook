@@ -56,3 +56,19 @@
 ## Release target
 
 - [ ] Add a `release` target to the Makefile that cuts a new release of the cookbook with compiled PDFs uploaded as artifacts on the release page.
+
+## Pre-v3.0.0-RC1 proofreading
+
+### Add serving sizes to recipes missing them
+- [x] Most had serving sizes (ranges or yields) — script had a bug. Only one was truly missing.
+- [x] RiceCookerBoiledEggs — added `**3-6 Servings**`
+
+### Tags
+- [x] All recipes already have tags — some on later lines (after intro paragraphs) which is spec-valid. No changes needed.
+
+### Check non-ASCII characters
+- [ ] `PizzaDoughGF.md` — `çė` seems like a typo; verify and fix
+- [ ] Check smart quotes (`'`) in `HoppinJohn.md`, `LemonRiceSoup.md`, `SoybeanPasteStew.md` for LaTeX compatibility
+
+### Ingredient capitalization consistency (cosmetic)
+- [ ] Normalize `Salt`/`salt`, `Sugar`/`sugar`, `Oil`/`oil`, `Flour`/`flour`, `Pepper`/`pepper`, `Water`/`water`, `Milk`/`milk`, `Rice`/`rice` to lowercase across ingredient lists
