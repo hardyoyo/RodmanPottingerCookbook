@@ -20,7 +20,7 @@ from them, but this version is pretty much all Hardy.
 - *1 T* olive oil
 - *1 T* parmesan cheese, or nutritional yeast (vegan alternative)
 - salt and pepper, to taste
-- *1 T* vegan Butter/Margarine or goat cheese (optional)
+- *1 T* vegan butter/margarine or goat cheese (optional)
 - *1/4 t* Nutmeg (optional)
 
 ---

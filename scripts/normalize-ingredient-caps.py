@@ -23,7 +23,7 @@ ALWAYS_LOWER = {
     'Goat', 'Vegan', 'Bread', 'Wheat', 'Baking', 'Soda',
     'Whole', 'Oyster', 'All-purpose', 'All purpose',
     'Cayenne', 'Curry', 'Ground', 'Smoked', 'Turmeric', 'Bell',
-    'Egg', 'Green', 'Romano', 'Monterey', 'Jack',
+    'Egg', 'Green', 'Romano', 'Monterey', 'Jack', 'Margarine',
 }
 
 KEEP_PATTERNS = [
@@ -59,6 +59,13 @@ def lowercase_generic_words(name):
             new_words.append(w.lower())
         elif clean.endswith('s') and clean[:-1] in ALWAYS_LOWER:
             new_words.append(w.lower())
+        elif '/' in clean:
+            parts = clean.split('/')
+            if all(p in ALWAYS_LOWER or
+                   (p.endswith('s') and p[:-1] in ALWAYS_LOWER) for p in parts):
+                new_words.append(w.lower())
+            else:
+                new_words.append(w)
         else:
             new_words.append(w)
     return ' '.join(new_words)
