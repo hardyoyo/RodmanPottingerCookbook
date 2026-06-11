@@ -38,6 +38,7 @@ KEEP_PATTERNS = [
     'GF Dark Soy Sauce', 'GF Oyster Sauce',
     # Multi-word terms needing individual-word preservation
     'Hatch Chile Powder',
+    'Butler Soy Curls',
 ]
 
 
