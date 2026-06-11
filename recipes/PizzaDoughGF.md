@@ -18,7 +18,7 @@ Zoė François
 - *1/8 C* sugar
 - *2 C* water (a little less than 2C, actually)
 - *1/4 C* olive oil
-- *2* Egg Whites (or 2 "vegan eggs", see below)
+- *2* Egg whites (or 2 "vegan eggs", see below)
 
 ---
 

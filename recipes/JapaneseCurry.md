@@ -18,7 +18,7 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 - *2 t* ground turmeric
 - *4* Carrots, diced big, peel if you want, but not worth the trouble
 - *4* Potatoes, diced big
-- *1-2* red Bell Peppers, diced big, any other color is fine, 2 is better
+- *1-2* red bell peppers, diced big, any other color is fine, 2 is better
 - *1 can* coconut milk
 - *2 t* Better Than Bouillon
 - *2 t* Agave Syrup

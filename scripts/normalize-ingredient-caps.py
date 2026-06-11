@@ -22,7 +22,7 @@ ALWAYS_LOWER = {
     'Pasta', 'Orange', 'Lemon', 'Lime', 'Parmesan',
     'Goat', 'Vegan', 'Bread', 'Wheat', 'Baking', 'Soda',
     'Whole', 'Oyster', 'All-purpose', 'All purpose',
-    'Cayenne', 'Curry', 'Ground', 'Smoked', 'Turmeric',
+    'Cayenne', 'Curry', 'Ground', 'Smoked', 'Turmeric', 'Bell',
 }
 
 KEEP_PATTERNS = [
@@ -55,6 +55,8 @@ def lowercase_generic_words(name):
     for w in words:
         clean = w.strip('.,;:()"\'')
         if clean in ALWAYS_LOWER:
+            new_words.append(w.lower())
+        elif clean.endswith('s') and clean[:-1] in ALWAYS_LOWER:
             new_words.append(w.lower())
         else:
             new_words.append(w)
