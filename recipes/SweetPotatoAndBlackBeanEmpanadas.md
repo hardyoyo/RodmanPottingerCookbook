@@ -13,7 +13,7 @@ From _The Complete Gluten-Free Vegan Cookbook_ by Justin Weber
 - *1/3 C* plus 1T ice water (plus more, as needed)
 - *2 1/4 C* gluten-free flour
 - *1 1/2 t* salt
-- *8 T* Vegan Margarine, cold (just scoop it out of the box)
+- *8 T* vegan Margarine, cold (just scoop it out of the box)
 - *1 T* white vinegar
 - Black Bean and Sweet Potato Quesadilla filling
 

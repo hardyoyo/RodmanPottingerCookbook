@@ -9,15 +9,15 @@ Zoė François
 
 ---
 
-- *2 1/2 C* Gluten-Free All-purpose Flour
+- *2 1/2 C* Gluten-Free all-purpose flour
 - *3/4 C* Corn Meal
 - *1/2 C* Potato Starch
 - *1 t* Xanthan Gum
-- *1 T* Yeast
+- *1 T* yeast
 - *2 t* salt
 - *1/8 C* sugar
 - *2 C* water (a little less than 2C, actually)
-- *1/4 C* Olive Oil
+- *1/4 C* olive oil
 - *2* Egg Whites (or 2 "vegan eggs", see below)
 
 ---

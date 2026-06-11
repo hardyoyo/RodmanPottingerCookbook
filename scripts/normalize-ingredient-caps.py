@@ -13,28 +13,31 @@ ALWAYS_LOWER = {
     'Vanilla', 'Cinnamon', 'Paprika', 'Basil', 'Oregano', 'Thyme',
     'Cumin', 'Seeds', 'Beans', 'Broth', 'Stock', 'Cream', 'Juice',
     'Mustard', 'Vinegar', 'Ketchup', 'Oregano',
+    'Mushroom', 'Powder', 'Chile', 'Pepper', 'Yeast',
+    'Nutritional', 'Roasted', 'Black', 'White', 'Brown',
+    'Apple', 'Cider', 'Balsamic', 'Red', 'Wine',
+    'Chili', 'Chilli', 'Chipotle', 'Ancho',
+    'Soy', 'Sauce', 'Sesame', 'Flax', 'Coconut', 'Olive',
+    'Canola', 'Vegetable', 'Avocado', 'Toasted', 'Neutral',
+    'Pasta', 'Orange', 'Lemon', 'Lime', 'Parmesan',
+    'Goat', 'Vegan', 'Bread', 'Wheat', 'Baking', 'Soda',
+    'Whole', 'Oyster', 'All-purpose', 'All purpose',
 }
 
 KEEP_PATTERNS = [
+    # Brands / proper nouns
+    "Bob's Red Mill", 'Better Than Bouillon', "Hershey's Cocoa",
+    'Ritz Crackers', 'Beyond Meat', 'Beyond Italian Sausage',
+    'Classico Tomato', 'Sambal Oelek', 'Worcestershire Sauce',
+    'Monterey Jack Cheese', 'Liquid Smoke',
+    # Specific products / names
     'Chile Garlic Sauce', 'Sriracha', 'Tamari', 'Dijon Mustard',
-    'Balsamic Vinegar', 'Arborio Rice', 'Coconut Milk', 'Cayenne Pepper',
-    'Smoked Paprika', 'Baking Powder', 'Baking Soda', 'Chili Powder',
-    'Chilli Powder', 'Onion Powder', 'Garlic Powder', 'Roasted Garlic Powder',
-    'Brown Sugar', 'Liquid Smoke', 'Soy Milk', 'Bread Flour',
-    'Gluten-Free', 'Gluten Free', 'All-purpose Flour', 'Wheat Flour',
-    'Rice Wine Vinegar', 'Apple Cider Vinegar', 'Red Wine Vinegar',
-    'GF Dark Soy Sauce', 'GF Oyster Sauce', 'Oyster Sauce', 'Soy Sauce',
-    'Parmesan Cheese', 'Goat Cheese', 'Vegan Butter', 'Black Beans',
-    'Flax Seeds', 'Sesame Seeds', 'Nutritional Yeast', 'Better Than Bouillon',
-    'Pasta Sauce', 'Orange Juice', 'Lemon Juice', 'Lime Juice',
-    'Sesame Oil', 'Toasted Sesame Oil', 'Olive Oil', 'Canola Oil',
-    'Vegetable Oil', 'Neutral Oil', 'Avocado Oil', 'Black Pepper',
-    'Cayenne Pepper', 'Ground Cumin', 'Ground Turmeric', 'Ground Cinnamon',
-    'Ground Ginger', 'Ground Cloves', 'Ground Cardamom', 'Tomato Paste',
-    'Worcestershire Sauce', 'Sambal Oelek', 'Classico Tomato',
-    "Hershey's Cocoa", "Bob's Red Mill", 'Ritz Crackers', 'Beyond Meat',
-    'Beyond Italian Sausage', 'Monterey Jack Cheese', 'Cream Cheese',
-    'Sour Cream', 'Biga', 'Miso',
+    'Arborio Rice', 'Cayenne Pepper', 'Smoked Paprika', 'Biga', 'Miso',
+    'GF Dark Soy Sauce', 'GF Oyster Sauce',
+    # Multi-word terms needing individual-word preservation
+    'Hatch Chile Powder', 'Ground Cumin', 'Ground Turmeric',
+    'Ground Cinnamon', 'Ground Ginger', 'Ground Cloves', 'Ground Cardamom',
+    'Bread Flour',
 ]
 
 
@@ -74,18 +77,26 @@ def process_file(fpath, check_only=False):
             new_lines.append(line)
             continue
         if sep_count == 1:
-            m = re.match(r'(-\s+\*[^*]+\*\s+)(.+)', stripped)
+            m = re.match(r'(-{1,2}\s*\*[^*]+\*\s+)(.+)', stripped)
             if m:
                 prefix = m.group(1)
                 name = m.group(2)
-                leading = line[:len(line.rstrip('\n')) - len(stripped)]
+                leading = line[:len(line.rstrip()) - len(stripped)]
+
+                # Normalize prefix: single dash + single space
+                new_prefix = re.sub(r'^-{1,2}\s*', '- ', prefix)
+                prefix_changed = new_prefix != prefix
 
                 if not should_keep_as_is(name):
                     new_name = lowercase_generic_words(name)
-                    if new_name != name:
+                    if new_name != name or prefix_changed:
                         modified = True
                         if not check_only:
-                            line = leading + prefix + new_name + '\n'
+                            line = leading + new_prefix + new_name + '\n'
+                elif prefix_changed:
+                    modified = True
+                    if not check_only:
+                        line = leading + new_prefix + name + '\n'
         new_lines.append(line)
 
     if modified and not check_only:

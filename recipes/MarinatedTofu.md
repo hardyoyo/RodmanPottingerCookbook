@@ -9,8 +9,8 @@
 - *1 package* extra-firm tofu, drained and pressed
 - *1/2 C* Mirin
 - *3 T* Tamari
-- *2 T* Rice Wine Vinegar
-- *1 T* Sesame Oil
+- *2 T* rice wine vinegar
+- *1 T* sesame oil
 - *2 t* Chile Garlic Sauce (page \pageref{chile-garlic-sauce})
 - *1 t* minced ginger
 - *2 t* minced garlic

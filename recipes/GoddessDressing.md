@@ -9,16 +9,16 @@ http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.
 
 ---
 
-- *2 T* Olive Oil
-- *1/4 C* Toasted Sesame Oil
+- *2 T* olive oil
+- *1/4 C* toasted sesame oil
 - *1/2 C* Tahini
-- *2 T* Red Wine or Apple Cider Vinegar
-- *1/4 C* Water or Orange Juice
+- *2 T* red wine or apple cider vinegar
+- *1/4 C* water or orange juice
 - *5* Green Onions
-- *1 T* Lemon Juice
+- *1 T* lemon juice
 - *4 t* Braggs or Tamari
 - *4 t* garlic, minced
-- *2 t* Sesame Seeds, toasted (if you want)
+- *2 t* sesame seeds, toasted (if you want)
 - *1/2 t* salt
 - *1/4 t* pepper
 

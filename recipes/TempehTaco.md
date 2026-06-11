@@ -10,12 +10,12 @@ track of the original recipe.
 ---
 
 - *2* 8 oz. packages of Tempeh
-- *1 T* Olive Oil
+- *1 T* olive oil
 - *3 T* Tamari
-- *1/4 C* Lime Juice
-- *1 T* Chili Powder
-- *1 T* Paprika or Chili Powder
-- *1 t* Onion Powder
+- *1/4 C* lime juice
+- *1 T* chili powder
+- *1 T* paprika or chili powder
+- *1 t* onion powder
 - *1 dash* Smoked Paprika
 - *1* onion, chopped
 - *12* Taco Shells

@@ -9,17 +9,17 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 ---
 
 - *1 package* of extra-firm tofu, pressed and cubed
-- *2 T* Canola Oil
+- *2 T* canola oil
 - *1* onion, diced big
 - *4 t* garlic, minced
 - *2 t* Ginger, minced
-- *2 t* Curry Powder, maybe a smidge more, up to you
+- *2 t* Curry powder, maybe a smidge more, up to you
 - *2 t* Ground Cumin
 - *2 t* Ground Turmeric
 - *4* Carrots, diced big, peel if you want, but not worth the trouble
 - *4* Potatoes, diced big
-- *1-2* Red Bell Peppers, diced big, any other color is fine, 2 is better
-- *1 can* Coconut Milk
+- *1-2* red Bell Peppers, diced big, any other color is fine, 2 is better
+- *1 can* coconut milk
 - *2 t* Better Than Bouillon
 - *2 t* Agave Syrup
 - *2 T* Tamari

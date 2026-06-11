@@ -8,7 +8,7 @@ from http://www.thefresh20.com/
 
 ---
 
-- *2 T* Olive Oil
+- *2 T* olive oil
 - *4* carrots, diced
 - *1* onion, diced
 - *4* garlic cloves, minced (use jarred minced garlic, it's easy)

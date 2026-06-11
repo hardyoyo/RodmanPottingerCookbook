@@ -11,7 +11,7 @@ This fajita filling is also perfect for burritos.
 
 ---
 
-- *1* 8oz. bag of Butler Soy Curls
+- *1* 8oz. bag of Butler soy Curls
 - water for soaking
 - *1 t* Better Than Bouillon
 - *1 t* Braggs liquid aminos
