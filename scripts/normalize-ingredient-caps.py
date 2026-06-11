@@ -23,7 +23,7 @@ ALWAYS_LOWER = {
     'Goat', 'Vegan', 'Bread', 'Wheat', 'Baking', 'Soda',
     'Whole', 'Oyster', 'All-purpose', 'All purpose',
     'Cayenne', 'Curry', 'Ground', 'Smoked', 'Turmeric', 'Bell',
-    'Egg', 'Green', 'Romano',
+    'Egg', 'Green', 'Romano', 'Monterey', 'Jack',
 }
 
 KEEP_PATTERNS = [
@@ -31,7 +31,7 @@ KEEP_PATTERNS = [
     "Bob's Red Mill", 'Better Than Bouillon', "Hershey's Cocoa",
     'Ritz Crackers', 'Beyond Meat', 'Beyond Italian Sausage',
     'Classico Tomato', 'Sambal Oelek', 'Worcestershire Sauce',
-    'Monterey Jack Cheese', 'Liquid Smoke',
+    'Liquid Smoke',
     # Specific products / names
     'Chile Garlic Sauce', 'Sriracha', 'Tamari', 'Dijon Mustard',
     'Arborio Rice', 'Biga', 'Miso',
