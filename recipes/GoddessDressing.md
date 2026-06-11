@@ -14,7 +14,7 @@ http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.
 - *1/2 C* Tahini
 - *2 T* red wine or apple cider vinegar
 - *1/4 C* water or orange juice
-- *5* Green onions
+- *5* green onions
 - *1 T* lemon juice
 - *4 t* Braggs or Tamari
 - *4 t* garlic, minced
