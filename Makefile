@@ -21,6 +21,7 @@ BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = cookbook
 FINAL_FILENAME = RodmanPottingerFamilyCookbook
+KOBO_PATH = /media/hardy/KOBOeReader
 METADATA = metadata.yml
 TMP_METADATA = $(BUILD)/tmp-metadata.yml
 TOC = --toc --toc-depth 2
@@ -113,7 +114,8 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 .PHONY: help all book clean epub html pdf docx final release check \
 	find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles proofread \
-	check-pdf-prereqs stats typographic-fixes normalize-ingredient-caps
+	check-pdf-prereqs stats typographic-fixes normalize-ingredient-caps \
+	epub2kobo
 
 help:	## -- Display this help message
 	@printf "\033[1m📖 Rodman-Pottinger Family Cookbook — Build System\033[0m\n"
@@ -121,7 +123,7 @@ help:	## -- Display this help message
 	@echo ""
 	@printf "\033[1mAvailable targets:\033[0m\n"
 	@echo ""
-	@grep -E '^[a-zA-Z_-]+:.*## --' $(MAKEFILE_LIST) | \
+	@grep -E '^[a-zA-Z0-9_-]+:.*## --' $(MAKEFILE_LIST) | \
 		awk 'BEGIN {FS = ":.*## -- "}; {printf "  \033[36m%-18s\033[0m %s\n", $$1, $$2}'
 	@echo ""
 	@printf "\033[1mConfiguration:\033[0m\n"
@@ -269,6 +271,15 @@ $(TMP_METADATA):
 ######################################################################
 
 epub:	$(BUILD)/epub/$(OUTPUT_FILENAME).epub ## -- Build EPUB file
+
+epub2kobo:	epub ## -- Copy EPUB to Kobo reader
+	@if [ -d "$(KOBO_PATH)" ]; then \
+		cp $(BUILD)/epub/$(OUTPUT_FILENAME).epub "$(KOBO_PATH)/"; \
+		echo "Copied cookbook.epub to Kobo reader at $(KOBO_PATH)"; \
+	else \
+		echo "Kobo reader not found at $(KOBO_PATH)."; \
+		echo "Plug in your Kobo and try again."; \
+	fi
 
 html:	$(BUILD)/html/$(OUTPUT_FILENAME).html ## -- Build HTML file
 

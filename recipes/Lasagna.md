@@ -17,7 +17,7 @@ newer ones are not quite right.
 - *1/2 t* Nutmeg
 - *1/2 t* roasted garlic powder
 - *1 T* dried basil
-- *1/2 C* Parmesan or Romano cheese, shredded (split)
+- *1/2 C* parmesan or romano cheese, shredded (split)
 - *1* 24 oz. jar of pasta sauce, we usually go with Classico Tomato & Basil
 - *4 C* shredded mozzarella cheese
 

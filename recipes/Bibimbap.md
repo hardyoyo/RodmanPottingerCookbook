@@ -10,7 +10,7 @@
 - *1 package* extra-firm tofu, pressed and cubed
 - *1 T* vegetable oil
 - *1 T* sesame oil
-- *2 T* tamari
+- *2 T* Tamari
 - *4* eggs (or skip for vegan)
 - *2* carrots, julienned
 - *2* zucchini, julienned

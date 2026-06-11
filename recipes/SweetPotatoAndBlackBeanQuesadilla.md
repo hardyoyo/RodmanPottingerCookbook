@@ -6,18 +6,18 @@
 
 ---
 
-- *2 t* Canola Oil
--- *1* onion, chopped
+- *2 t* canola oil
+- *1* onion, chopped
 - *1 t* garlic, minced
--- *1 T* cumin
--- *2 T* water
+- *1 T* cumin
+- *2 T* water
 - *2 Large* Sweet Potatoes, shredded in a food processor
-- *1 can* Black Beans (or more, if you just made them from dry beans)
+- *1 can* black beans (or more, if you just made them from dry beans)
 - *3 or 4* Tortillas, use flour for non-GF folks, otherwise corn
 - *1/2 C* Mexican cheese mix (optional, skip for vegans)
 - Salsa
 - Sour Cream
-- Salt and Pepper (to taste)
+- salt and pepper (to taste)
 
 ---
 

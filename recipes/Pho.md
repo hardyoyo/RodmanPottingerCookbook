@@ -16,7 +16,7 @@ from: https://cookieandkate.com/vegetarian-pho-recipe/
 - *8 oz* rice noodles (3/4 of a package)
 - *2 T* olive oil
 - *8-10* Shiitake mushrooms, sliced thinly
-- Salt (to taste)
+- salt (to taste)
 - Pho spices satchet (from an Asian grocery store)
 - Garnishes (mung bean sprouts, basil or cilantro, thinly sliced green onion,
 carrots, jalapeño, small wedges of lime)

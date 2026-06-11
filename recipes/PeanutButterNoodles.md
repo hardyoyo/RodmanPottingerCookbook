@@ -8,7 +8,7 @@
 
 - *8 oz* noodles (rice, soba, ramen, udon, or spaghetti)
 - *1/2 C* natural peanut butter (drippy kind)
-- *3 T* soy sauce (or tamari)
+- *3 T* soy sauce (or Tamari)
 - *1 T* maple syrup or agave
 - *1 T* rice vinegar
 - *1-3 t* sriracha or Chile Garlic Sauce (page \pageref{chile-garlic-sauce}) (optional)

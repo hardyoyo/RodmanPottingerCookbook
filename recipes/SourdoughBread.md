@@ -7,12 +7,12 @@
 ---
 
 - *1 C* Sourdough Starter
-- *3/4 C* Soy Milk
-- *3 T* Butter (melted) or just use vegetable oil
+- *3/4 C* soy milk
+- *3 T* butter (melted) or just use vegetable oil
 - *2 T* Honey
-- *4 C* Bread Flour
--- *2 t* salt
-- *2 t* Bread Machine Yeast
+- *4 C* bread flour
+- *2 t* salt
+- *2 t* bread machine yeast
 - *3/4 t* Lecithin (optional, gives better crumb)
 
 ---

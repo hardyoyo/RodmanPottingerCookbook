@@ -8,7 +8,7 @@
 
 - *16 oz* fresh udon noodles (or 24 oz frozen, or 8-9 oz dried)
 - *3 T* gochujang
-- *2 T* soy sauce (use tamari for GF)
+- *2 T* soy sauce (use Tamari for GF)
 - *2 T* mirin (or rice vinegar; if using vinegar, use 2 T sugar)
 - *1 1/2 T* brown sugar
 - *1 T* gochugaru (optional)
@@ -20,6 +20,7 @@
 - *6-8 C* Napa cabbage, thinly sliced (or 2 bell peppers, sliced)
 - *1/4 C* roasted white sesame seeds
 - *1 C* Thai basil or cilantro, loosely packed
+- salt to taste
 - *1 t* toasted sesame oil
 
 ---

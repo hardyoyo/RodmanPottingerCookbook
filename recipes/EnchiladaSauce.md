@@ -18,7 +18,7 @@ and is good for you, too.
 - *1/4 C* lime juice
 - *1/3 C* cilantro (chopped)
 - *1 T* basil (dried)
-- Salt & Pepper (to taste) 
+- salt & pepper (to taste) 
 
 ---
 

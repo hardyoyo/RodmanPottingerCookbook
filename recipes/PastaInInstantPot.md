@@ -8,7 +8,7 @@ from: https://inquiringchef.com/how-to-cook-pasta-in-the-instant-pot/
 
 ---
 
-- *8 oz* Pasta, any type
+- *8 oz* pasta, any type
 - *2 C* water
 - *1/2 t* salt
 

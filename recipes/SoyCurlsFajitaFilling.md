@@ -20,7 +20,7 @@ This fajita filling is also perfect for burritos.
 - *1-2* bell peppers, different colors are cool, sliced (optional)
 - *1 T* salsa, any kind
 - *1 T* lime juice
-- *1/4 t* liquid smoke or smoked paprika
+- *1/4 t* Liquid Smoke or smoked paprika
 
 ---
 

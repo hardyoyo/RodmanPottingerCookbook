@@ -16,8 +16,8 @@ From the Instant Pot cookbook by Chef AJ. Revised for clarity.
 - *6* dates, pitted
 - *8 t* minced garlic
 - *4 T* apple cider vinegar
-- *1 1/2 T* parsley flakes
-- *1 1/2 T* oregano
+- *1 1/2 t* parsley flakes
+- *1 1/2 t* oregano
 - *1 t* chili powder
 - *2 t* smoked paprika
 - *1/2 t* chipotle powder

@@ -9,7 +9,7 @@ From: https://frommybowl.com/homemade-vegan-holiday-roast/print/9480/
 ---
 
 - *2* 14-oz. packages of extra-firm tofu
-- *2 T* tamari or gluten-free soy sauce
+- *2 T* Tamari or gluten-free soy sauce
 - *5 t* garlic, minced
 - *2 T* tomato paste
 - *2 T* canola oil

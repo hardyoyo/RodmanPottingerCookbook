@@ -14,9 +14,9 @@
 - *1* carrot, chopped in large chunks
 - *1* bell pepper (not green), chopped in large chunks
 - *2 C* vegetable stock
-- *6 T* Yamasan Gluten-Free Curry Powder (half the package)
-- *1/2 t* Curry Powder
-- *1 t* Yondu or GF Soy Sauce
+- *6 T* Yamasan Gluten-Free curry powder (half the package)
+- *1/2 t* curry powder
+- *1 t* Yondu or GF soy sauce
 
 ---
 

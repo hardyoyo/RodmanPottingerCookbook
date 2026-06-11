@@ -6,12 +6,12 @@
 
 ---
 
-- *1/4 C* Olive Oil
-- *2 T* Lemon Juice
-- *2 T* Balsamic Vinegar
+- *1/4 C* olive oil
+- *2 T* lemon juice
+- *2 T* balsamic vinegar
 - *1/2 t* Dijon Mustard
 - *1 t* Agave Syrup
-- Salt and pepper, to taste
+- salt and pepper, to taste
 - *2 bunches* kale, washed (about one package)
 - *1 drizzle* olive oil
 - *1 pinch* salt

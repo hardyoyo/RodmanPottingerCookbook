@@ -19,7 +19,7 @@ From: https://www.hungrypaprikas.com/instant-pot-easy-lentil-soup/
 - *1 t* black pepper
 - *8-10 C* water or broth
 - *3 t* Better Than Bouillon, if using water
-- *1 t* Lemon juice, optional
+- *1 t* lemon juice, optional
 
 ---
 

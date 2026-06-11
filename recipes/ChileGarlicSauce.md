@@ -6,7 +6,7 @@
 
 ---
 
-- *1/2 C* sambal oelek
+- *1/2 C* Sambal Oelek
 - *3 t* minced garlic
 - *2 T* olive oil
 - *1 T* agave syrup

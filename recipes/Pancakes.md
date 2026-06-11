@@ -9,15 +9,15 @@ where it’s from.
 
 ---
 
-- *3 C* Wheat Flour (or Gluten Free if you want)
--- *1/8 C* sugar
-- *1/8 C* Baking Powder
-- *1/8 C* Flax Seeds, ground
--- *1/2 t* salt
+- *3 C* wheat flour (or Gluten Free if you want)
+- *1/8 C* sugar
+- *1/8 C* baking powder
+- *1/8 C* flax seeds, ground
+- *1/2 t* salt
 - *3 C* non-dairy milk
--- *1/8 C* oil
--- *1/8 C* water
--- *1 1/2 t* vanilla
+- *1/8 C* oil
+- *1/8 C* water
+- *1 1/2 t* vanilla
 
 ---
 

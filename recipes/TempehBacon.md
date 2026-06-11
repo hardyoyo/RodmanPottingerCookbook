@@ -9,11 +9,11 @@ From https://minimalistbaker.com/easy-tempeh-bacon/
 ---
 
 - *1* 8oz. package of Tempeh
-- *1 T* tamari
+- *1 T* Tamari
 - *1 T* olive oil
 - *1 T* maple syrup
 - *1/2 t* paprika
-- *1/2 t* liquid smoke
+- *1/2 t* Liquid Smoke
 - *1/2 t* cumin
 - *1/2 C* water
 

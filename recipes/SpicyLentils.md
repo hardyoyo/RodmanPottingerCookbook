@@ -8,13 +8,13 @@ from http://www.thefresh20.com/
 
 ---
 
-- *2 T* Olive Oil
+- *2 T* olive oil
 - *4* carrots, diced
 - *1* onion, diced
 - *4* garlic cloves, minced (use jarred minced garlic, it's easy)
 - *1 t* chipotle pepper in adobo, minced (refrigerate the leftovers, makes it easier to handle)
 - *2 T* tomato paste (freeze the leftovers in 2T chunks)
--- *1 t* cumin
+- *1 t* cumin
 - *1* bay leaf
 - *4 C* vegetable broth
 - *2 C* brown lentils

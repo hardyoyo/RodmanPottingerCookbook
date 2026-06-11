@@ -12,16 +12,16 @@ dish that traditionally isn’t vegan.
 ---
 
 - *1 700g package* TTeok (Korean rice cakes) ideally cylinder shaped tteok
--- *4 C* water
+- *4 C* water
 - *3-5 pieces* dry kelp / dashima / kombu
 - *2 C* Cabbage white or napa cabbage, chopped
 - *2* carrots, chopped (optional)
--- *1* onion small, sliced thinly
+- *1* onion small, sliced thinly
 - *3 T* Gluten-free Gochujang Korean red pepper paste
 - *2 t* Gochugaru Korean red chili pepper flakes (optional) or use more gochujang
 - *2 T* Tamari
 - *2 T* Agave Nectar or maple syrup
--- *1 T* garlic minced
+- *1 T* garlic minced
 - *2-4* green onions chopped
 - *1 T* sesame seeds, optional
 - *1 handful* puffed/dry tofu, optional

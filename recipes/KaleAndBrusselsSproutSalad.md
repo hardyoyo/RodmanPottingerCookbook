@@ -9,7 +9,7 @@ from: https://www.bonappetit.com/recipe/kale-and-brussels-sprout-salad
 ---
 
 - *1/4 C* lemon juice
-- *2 T* dijon mustard
+- *2 T* Dijon Mustard
 - *1 T* shallot, minced (optional)
 - *1 t* garlic, minced
 - *2* large bunches of kale, stems discarded, chopped

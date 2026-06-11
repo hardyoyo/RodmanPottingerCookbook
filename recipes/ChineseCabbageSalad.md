@@ -17,7 +17,7 @@ square dance club, Duck N Dive in Rolla, MO.
 - *1* green onion, chopped
 - *2* packages of vegetarian ramen noodles
 - *1/2 C* sunflower seeds
-- *1 can* Mandarin Oranges (optional)
+- *1 can* Mandarin oranges (optional)
 - *1 can* sliced water chestnuts
 - *1 T* margarine
 - *1/3 C* sliced almonds

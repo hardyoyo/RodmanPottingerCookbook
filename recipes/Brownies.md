@@ -8,7 +8,7 @@ This is by far the best brownie recipe we have ever tasted.
 
 ---
 
-- *1 C* margarine
+- *1 C* butter (or margarine)
 - *2 C* sugar
 - *2 t* vanilla
 - *4* eggs

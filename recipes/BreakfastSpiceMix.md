@@ -6,15 +6,15 @@
 
 ---
 
-- *1 T* Roasted Garlic Powder
--- *1 T* paprika
--- *1 t* salt
-- *1 t* Black Pepper
+- *1 T* roasted garlic powder
+- *1 T* paprika
+- *1 t* salt
+- *1 t* black pepper
 - *1 t* Hatch Chile Powder
-- *1 t* Chili Powder
-- *1 t* Mushroom Powder
-- *1 t* Nutritional Yeast
--- *1 t* oregano
+- *1 t* chili powder
+- *1 t* mushroom powder
+- *1 t* nutritional yeast
+- *1 t* oregano
 
 ---
 
