@@ -8,7 +8,8 @@
 
 - *4 C* cooked white or brown rice
 - *1 package* extra-firm tofu, pressed and cubed
-- *4 T* sesame oil
+- *1 T* vegetable oil
+- *1 T* sesame oil
 - *2 T* tamari
 - *4* eggs (or skip for vegan)
 - *2* carrots, julienned
@@ -20,7 +21,7 @@
 
 ---
 
-Press the tofu, cube it, and pan-fry in 1 T sesame oil and tamari until golden. Set aside.
+Press the tofu, cube it, and pan-fry in the vegetable oil, half the sesame oil, and 1 T tamari until golden. Set aside.
 
 Sauté the carrot, zucchini, and mushrooms in the remaining sesame oil until tender. Set aside.
 
