@@ -22,6 +22,7 @@ ALWAYS_LOWER = {
     'Pasta', 'Orange', 'Lemon', 'Lime', 'Parmesan',
     'Goat', 'Vegan', 'Bread', 'Wheat', 'Baking', 'Soda',
     'Whole', 'Oyster', 'All-purpose', 'All purpose',
+    'Cayenne', 'Curry',
 }
 
 KEEP_PATTERNS = [
@@ -32,7 +33,7 @@ KEEP_PATTERNS = [
     'Monterey Jack Cheese', 'Liquid Smoke',
     # Specific products / names
     'Chile Garlic Sauce', 'Sriracha', 'Tamari', 'Dijon Mustard',
-    'Arborio Rice', 'Cayenne Pepper', 'Smoked Paprika', 'Biga', 'Miso',
+    'Arborio Rice', 'Smoked Paprika', 'Biga', 'Miso',
     'GF Dark Soy Sauce', 'GF Oyster Sauce',
     # Multi-word terms needing individual-word preservation
     'Hatch Chile Powder', 'Ground Cumin', 'Ground Turmeric',

@@ -13,7 +13,7 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 - *1* onion, diced big
 - *4 t* garlic, minced
 - *2 t* Ginger, minced
-- *2 t* Curry powder, maybe a smidge more, up to you
+- *2 t* curry powder, maybe a smidge more, up to you
 - *2 t* Ground Cumin
 - *2 t* Ground Turmeric
 - *4* Carrots, diced big, peel if you want, but not worth the trouble
@@ -25,7 +25,7 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 - *2 T* Tamari
 - *1 can* recipe-ready tomatoes
 - *4 T* cornstarch (or tapioca starch)
-- *1/2 t* Cayenne Pepper
+- *1/2 t* cayenne pepper
 - *1/2 t* mushroom powder
 - salt and pepper, to taste
 
