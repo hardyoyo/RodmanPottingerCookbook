@@ -20,6 +20,7 @@
 - *6-8 C* Napa cabbage, thinly sliced (or 2 bell peppers, sliced)
 - *1/4 C* roasted white sesame seeds
 - *1 C* Thai basil or cilantro, loosely packed
+- Salt to taste
 - *1 t* toasted sesame oil
 
 ---

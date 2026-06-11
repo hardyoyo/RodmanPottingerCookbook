@@ -11,11 +11,11 @@ from them, but this version is pretty much all Hardy.
 
 - *1-3* Zucchini or Squash, chopped
 - *3 C* Arborio Rice
--- *6 C* water
+- *6 C* water
 - *3 t* Better Than Bouillon or broth powder
 - *1 t* Mushroom Powder (optional)
--- *1* onion, chopped
--- *1 t* garlic, minced
+- *1* onion, chopped
+- *1 t* garlic, minced
 - *1* swig of White Cooking Wine
 - *1 T* Olive Oil
 - *1 T* Parmesan Cheese, or Nutritional Yeast (vegan alternative)

@@ -17,7 +17,7 @@ track of the original recipe.
 - *1 T* Paprika or Chili Powder
 - *1 t* Onion Powder
 - *1 dash* Smoked Paprika
--- *1* onion, chopped
+- *1* onion, chopped
 - *12* Taco Shells
 
 ---
@@ -34,9 +34,9 @@ Enjoy your tacos!
 
 ### HINTS
 
- - If you don’t have time for marinading the tempeh, add a bit more lime juice,
+- If you don’t have time for marinading the tempeh, add a bit more lime juice,
 and cook it up right away, it’ll be fine!
- - If you’re using Paprika because you’re cooking for someone who doesn’t like
+- If you’re using Paprika because you’re cooking for someone who doesn’t like
  hot food, be sure to taste the paprika to verify it’s mild. Some “paprika” is
  as hot as cayenne pepper.
 

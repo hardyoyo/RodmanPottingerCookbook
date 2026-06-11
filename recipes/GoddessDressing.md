@@ -17,10 +17,10 @@ http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.
 - *5* Green Onions
 - *1 T* Lemon Juice
 - *4 t* Braggs or Tamari
--- *4 t* garlic, minced
+- *4 t* garlic, minced
 - *2 t* Sesame Seeds, toasted (if you want)
--- *1/2 t* salt
--- *1/4 t* pepper
+- *1/2 t* salt
+- *1/4 t* pepper
 
 ---
 

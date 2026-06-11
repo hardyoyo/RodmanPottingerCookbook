@@ -20,6 +20,7 @@ adapted from The Modern Ayurvedic Cookbook, by Amrita Sondhi
 - *1 t* lemon juice
 - *1* 8oz can of tomato sauce
 - *1/4 C* cilantro leaves, chopped
+- Salt to taste
 
 ---
 

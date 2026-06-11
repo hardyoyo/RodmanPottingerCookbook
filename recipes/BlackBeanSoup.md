@@ -15,9 +15,9 @@ the tiny Instant Pot cookbook that comes with the cooker.
 - *2* ribs of celery, chopped
 - *2* carrots, chopped
 - *1* 14oz can of fire roasted tomatoes (not salsa style)
-- *1/2* can of green chilies (freeze the rest)
+- *1/2* can of green chilies (freeze the rest, optional)
 - *1* 14oz can of water
--- *2* 15oz cans of beans (about 3.5 C)
+- *2* 15oz cans of beans (about 3.5 C)
 - *1* bay leaf
 - *3/4 t* cumin
 - *1/2 t* chili powder
@@ -29,8 +29,8 @@ the tiny Instant Pot cookbook that comes with the cooker.
 ---
 
 Set the cooker to sauté and sauté the onions until they turn brown a bit at the
-edges, add the garlic, sauté for 30 seconds more, then add the celery and
-carrots. Stir and sauté for a minute more, then add the tomatoes and all of
+edges, add the garlic, sauté for 30 seconds more, then add the green chilies
+(if using), celery, and carrots. Stir and sauté for a minute more, then add the tomatoes and all of
 their liquid, stir a bunch, then add water to the same can and toss that in to
 the cooker. Stir, then add the beans. Add all the spices. Add the potatoes. Pop
 on the lid, set the cooker for 15 minutes on beans/chili. Release the pressure,

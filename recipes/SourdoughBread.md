@@ -11,7 +11,7 @@
 - *3 T* Butter (melted) or just use vegetable oil
 - *2 T* Honey
 - *4 C* Bread Flour
--- *2 t* salt
+- *2 t* salt
 - *2 t* Bread Machine Yeast
 - *3/4 t* Lecithin (optional, gives better crumb)
 
