@@ -8,7 +8,7 @@
 
 - *16 oz* fresh udon noodles (or 24 oz frozen, or 8-9 oz dried)
 - *3 T* gochujang
-- *2 T* soy sauce (use tamari for GF)
+- *2 T* soy sauce (use Tamari for GF)
 - *2 T* mirin (or rice vinegar; if using vinegar, use 2 T sugar)
 - *1 1/2 T* brown sugar
 - *1 T* gochugaru (optional)

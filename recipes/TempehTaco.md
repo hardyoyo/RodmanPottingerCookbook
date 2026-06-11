@@ -16,7 +16,7 @@ track of the original recipe.
 - *1 T* chili powder
 - *1 T* paprika or chili powder
 - *1 t* onion powder
-- *1 dash* Smoked Paprika
+- *1 dash* smoked paprika
 - *1* onion, chopped
 - *12* Taco Shells
 

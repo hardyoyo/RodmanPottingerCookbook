@@ -14,7 +14,7 @@ gluten sensitivity, this is a worthwhile endeavor.
 - *1 t* garlic powder
 - *1 t* black pepper
 - *1 1/2 T* brown sugar
-- *1 1/2 t* liquid smoke
+- *1 1/2 t* Liquid Smoke
 - *1 T* apple (grated)
 - *1 C* apple juice
 - *1* block of extra-firm tofu, pressed

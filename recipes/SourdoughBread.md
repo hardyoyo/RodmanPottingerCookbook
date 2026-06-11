@@ -10,7 +10,7 @@
 - *3/4 C* soy milk
 - *3 T* butter (melted) or just use vegetable oil
 - *2 T* Honey
-- *4 C* Bread Flour
+- *4 C* bread flour
 - *2 t* salt
 - *2 t* bread Machine yeast
 - *3/4 t* Lecithin (optional, gives better crumb)

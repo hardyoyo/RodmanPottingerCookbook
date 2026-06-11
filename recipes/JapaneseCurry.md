@@ -14,8 +14,8 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 - *4 t* garlic, minced
 - *2 t* Ginger, minced
 - *2 t* curry powder, maybe a smidge more, up to you
-- *2 t* Ground Cumin
-- *2 t* Ground Turmeric
+- *2 t* ground cumin
+- *2 t* ground turmeric
 - *4* Carrots, diced big, peel if you want, but not worth the trouble
 - *4* Potatoes, diced big
 - *1-2* red Bell Peppers, diced big, any other color is fine, 2 is better

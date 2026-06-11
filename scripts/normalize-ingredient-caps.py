@@ -8,9 +8,9 @@ import sys
 
 
 ALWAYS_LOWER = {
-    'Salt', 'Sugar', 'Oil', 'Flour', 'Pepper', 'Water', 'Milk', 'Rice',
+    'Salt', 'Sugar', 'Oil', 'Flour', 'Water', 'Milk', 'Rice',
     'Butter', 'Garlic', 'Onion', 'Cheese', 'Eggs', 'Noodles', 'Tofu',
-    'Vanilla', 'Cinnamon', 'Paprika', 'Basil', 'Oregano', 'Thyme',
+    'Vanilla', 'Cinnamon', 'Paprika', 'Basil', 'Thyme',
     'Cumin', 'Seeds', 'Beans', 'Broth', 'Stock', 'Cream', 'Juice',
     'Mustard', 'Vinegar', 'Ketchup', 'Oregano',
     'Mushroom', 'Powder', 'Chile', 'Pepper', 'Yeast',
@@ -22,7 +22,7 @@ ALWAYS_LOWER = {
     'Pasta', 'Orange', 'Lemon', 'Lime', 'Parmesan',
     'Goat', 'Vegan', 'Bread', 'Wheat', 'Baking', 'Soda',
     'Whole', 'Oyster', 'All-purpose', 'All purpose',
-    'Cayenne', 'Curry',
+    'Cayenne', 'Curry', 'Ground', 'Smoked', 'Turmeric',
 }
 
 KEEP_PATTERNS = [
@@ -33,21 +33,20 @@ KEEP_PATTERNS = [
     'Monterey Jack Cheese', 'Liquid Smoke',
     # Specific products / names
     'Chile Garlic Sauce', 'Sriracha', 'Tamari', 'Dijon Mustard',
-    'Arborio Rice', 'Smoked Paprika', 'Biga', 'Miso',
+    'Arborio Rice', 'Biga', 'Miso',
     'GF Dark Soy Sauce', 'GF Oyster Sauce',
     # Multi-word terms needing individual-word preservation
-    'Hatch Chile Powder', 'Ground Cumin', 'Ground Turmeric',
-    'Ground Cinnamon', 'Ground Ginger', 'Ground Cloves', 'Ground Cardamom',
-    'Bread Flour',
+    'Hatch Chile Powder',
 ]
 
 
-def should_keep_as_is(name):
+def apply_keep_patterns(name):
     lowered = name.lower()
     for p in KEEP_PATTERNS:
         if p.lower() in lowered:
-            return True
-    return False
+            idx = lowered.index(p.lower())
+            return name[:idx] + p + name[idx+len(p):]
+    return None
 
 
 def lowercase_generic_words(name):
@@ -66,7 +65,6 @@ def process_file(fpath, check_only=False):
     with open(fpath) as f:
         lines = f.readlines()
 
-    fname = os.path.basename(fpath)
     sep_count = 0
     modified = False
     new_lines = []
@@ -88,16 +86,18 @@ def process_file(fpath, check_only=False):
                 new_prefix = re.sub(r'^-{1,2}\s*', '- ', prefix)
                 prefix_changed = new_prefix != prefix
 
-                if not should_keep_as_is(name):
+                keep_name = apply_keep_patterns(name)
+                if keep_name:
+                    if keep_name != name or prefix_changed:
+                        modified = True
+                        if not check_only:
+                            line = leading + new_prefix + keep_name + '\n'
+                else:
                     new_name = lowercase_generic_words(name)
                     if new_name != name or prefix_changed:
                         modified = True
                         if not check_only:
                             line = leading + new_prefix + new_name + '\n'
-                elif prefix_changed:
-                    modified = True
-                    if not check_only:
-                        line = leading + new_prefix + name + '\n'
         new_lines.append(line)
 
     if modified and not check_only:

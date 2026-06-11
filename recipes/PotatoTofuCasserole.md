@@ -20,7 +20,7 @@ From _Vegetariana_ by Nava Atlas
 - *1/2 t* ground cumin
 - *1 T* flour or gluten free flour
 - *2/3 C* milk
-- *1 1/2 C* Monterey Jack cheese, shredded
+- *1 1/2 C* Monterey Jack Cheese, shredded
 
 ---
 
