@@ -362,7 +362,7 @@ $(BUILD)/docx/$(OUTPUT_FILENAME).docx:	$(DOCX_DEPENDENCIES)
 scripts/generate-cover.pdf: scripts/generate-cover.tex scripts/cover-image.jpg $(MAKEFILE)
 	@echo "building generate-cover.pdf..."
 	cp scripts/cover-image.jpg $(BUILD)/
-	sed -e 's/%VERSION%/$(VERSION)/g' -e "s/%DATE%/$$(date +%Y-%m-%d)/g" scripts/generate-cover.tex > $(BUILD)/generate-cover.tex
+	sed -e 's/%VERSION%/$(VERSION)/g' -e "s/%DATE%/$$(git log -1 --format=%cd --date=short)/g" -e "s/%GIT_SHA%/$$(git rev-parse --short HEAD)/g" scripts/generate-cover.tex > $(BUILD)/generate-cover.tex
 	(cd $(BUILD) && xelatex -interaction=nonstopmode generate-cover.tex > /dev/null 2>&1)
 	cp $(BUILD)/generate-cover.pdf scripts/generate-cover.pdf
 	rm -f $(BUILD)/generate-cover.tex $(BUILD)/generate-cover.aux $(BUILD)/generate-cover.log $(BUILD)/generate-cover.pdf $(BUILD)/cover-image.jpg
