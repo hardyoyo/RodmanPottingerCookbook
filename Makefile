@@ -126,6 +126,16 @@ help:	## -- Display this help message
 	@grep -E '^[a-zA-Z0-9_-]+:.*## --' $(MAKEFILE_LIST) | \
 		awk 'BEGIN {FS = ":.*## -- "}; {printf "  \033[36m%-18s\033[0m %s\n", $$1, $$2}'
 	@echo ""
+	@printf "\033[1mRelease notes:\033[0m\n"
+	@echo ""
+	@echo "  make release              - patch bump, prompts for confirmation"
+	@echo "  make release PART=minor   - minor version bump"
+	@echo "  make release PART=major   - major version bump"
+	@echo ""
+	@echo "  The bump script (scripts/bump-version.sh) handles RC -> stable"
+	@echo "  promotion interactively. Run it standalone to preview the version:"
+	@echo "    $$ ./scripts/bump-version.sh patch"
+	@echo ""
 	@printf "\033[1mConfiguration:\033[0m\n"
 	@echo ""
 	@echo "  PUBLISH_PATH is not set for this project"
@@ -366,8 +376,20 @@ $(BUILD)/pdf/$(FINAL_FILENAME).pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf scripts/
 	pdfunite scripts/generate-cover.pdf $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf GroceryList.pdf $@
 	$(ECHO_BUILT)
 
-release:	## -- Build PDF, EPUB, HTML, tag, and create a GitHub release
-	@version=$$(./scripts/bump-version.sh patch); \
+release:	## -- Build PDF, EPUB, HTML, tag, and create a GitHub release. Usage: make release [PART=patch]
+	@version=$$(./scripts/bump-version.sh $(PART)); \
+	echo ""; \
+	echo "=========================================="; \
+	echo "  Release summary"; \
+	echo "  Version: v$$version"; \
+	echo "  Builds:  final, epub, html"; \
+	echo "  Will tag, push, and create GitHub release"; \
+	echo "=========================================="; \
+	echo ""; \
+	read -p "Proceed with release? [Y/n] " confirm; \
+	case "$$confirm" in \
+		n|N|no|No) echo "Aborted."; exit 1 ;; \
+	esac; \
 	echo "Building release v$$version..."; \
 	$(MAKE) -s final epub html VERSION=$$version; \
 	git tag -a "v$$version" -m "Release v$$version"; \
