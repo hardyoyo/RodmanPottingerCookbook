@@ -12,7 +12,7 @@
 - *2 T* Honey
 - *4 C* bread flour
 - *2 t* salt
-- *2 t* bread Machine yeast
+- *2 t* bread machine yeast
 - *3/4 t* Lecithin (optional, gives better crumb)
 
 ---
