@@ -23,7 +23,7 @@ ALWAYS_LOWER = {
     'Goat', 'Vegan', 'Bread', 'Wheat', 'Baking', 'Soda',
     'Whole', 'Oyster', 'All-purpose', 'All purpose',
     'Cayenne', 'Curry', 'Ground', 'Smoked', 'Turmeric', 'Bell',
-    'Egg', 'Green',
+    'Egg', 'Green', 'Romano',
 }
 
 KEEP_PATTERNS = [
