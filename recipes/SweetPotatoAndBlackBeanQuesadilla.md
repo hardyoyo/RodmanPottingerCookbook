@@ -17,7 +17,7 @@
 - *1/2 C* Mexican cheese mix (optional, skip for vegans)
 - Salsa
 - Sour Cream
-- Salt and Pepper (to taste)
+- salt and pepper (to taste)
 
 ---
 

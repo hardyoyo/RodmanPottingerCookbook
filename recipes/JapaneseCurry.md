@@ -27,7 +27,7 @@ From: https://rhiansrecipes.com/gluten-free-vegan-japanese-curry/
 - *4 T* cornstarch (or tapioca starch)
 - *1/2 t* Cayenne Pepper
 - *1/2 t* mushroom powder
-- Salt and Pepper, to taste
+- salt and pepper, to taste
 
 ---
 

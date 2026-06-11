@@ -24,7 +24,7 @@ the tiny Instant Pot cookbook that comes with the cooker.
 - *1 or 2* potatoes, cubed
 - *1/4 C* cilantro, chopped
 - *1 t* lime juice
-- Salt and pepper to taste
+- salt and pepper to taste
 
 ---
 
