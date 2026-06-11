@@ -17,7 +17,7 @@ you don’t mind cheese, substitute parmesan cheese for nutritional yeast.
 - *3/4 C* fresh basil, chopped (or more)
 - *1 1/2 C* brown rice
 - *4 1/2 C* water
-- *4 T* Better Than Bouillon
+- *1 1/2 T* Better Than Bouillon
 - *1* 14oz can of fire roasted tomatoes (not salsa style)
 - *1 1/2 C* brown lentils
 - *2 T* nutritional yeast

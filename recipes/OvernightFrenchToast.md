@@ -14,7 +14,7 @@ but we’ve dialed back the fat and sugar, because, really.
 - *2 1/2 C* milk
 - *1/4 C* sugar
 - *1/4 C* brown sugar
-- *2 T* vanilla extract
+- *2 t* vanilla extract
 - *1/4 C* flour (gluten-free is fine, but be sure you used GF bread, too)
 - *1/4 C* firmly packed brown sugar
 - *1 t* cinnamon
