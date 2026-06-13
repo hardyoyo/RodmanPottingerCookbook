@@ -30,3 +30,8 @@ Run `make check` to validate all RecipeMD recipes using `recipemd --title`.
 
 ## Tools
 Uses pandoc, xelatex, devbox, recipemd, cookie, scribus.
+
+## Release Policy
+- **Do NOT run `make release`** — it is interactive (prompts for version strategy and confirmation). Not agent-safe.
+- **Do NOT simulate a release** by manually running git tag, push, or gh release create commands. The release process is user-driven, not agent-driven.
+- If the user wants to release, explain the interactive flow and hand it off — do not execute any part of it.
