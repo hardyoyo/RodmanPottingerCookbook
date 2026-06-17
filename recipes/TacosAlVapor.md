@@ -26,6 +26,6 @@ Transfer the cooked potatoes to a mixing bowl. Add the sautéed onion mixture an
 
 Steam 15 corn tortillas in a rice cooker until pliable but sticky. Spoon about 1/4 C of filling onto half a tortilla, fold it over like an empanada, and press to seal — the sticky tortilla will hold itself shut. Place the finished tacos on a wax-paper-lined cookie sheet. When the sheet is full, spray the tacos with oil and freeze for a few hours. Once frozen solid, transfer to a zip-top bag.
 
-To serve, pop 3-4 tacos in an air fryer at 400°F for 10 minutes. If still cold in the middle, cook 2-3 minutes more.
+To serve, pop 3-4 tacos in an air fryer at 350°F for 12 minutes. If still cold in the middle, cook 2-3 minutes more.
 
 \label{tacos-al-vapor}
