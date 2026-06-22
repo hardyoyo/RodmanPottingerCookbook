@@ -114,8 +114,8 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 .PHONY: help all book clean epub html pdf docx final release check \
 	find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles proofread \
-	check-pdf-prereqs stats typographic-fixes normalize-ingredient-caps \
-	epub2kobo
+	check-pdf-prereqs check-widows stats typographic-fixes \
+	normalize-ingredient-caps epub2kobo
 
 help:	## -- Display this help message
 	@printf "\033[1m📖 Rodman-Pottinger Family Cookbook — Build System\033[0m\n"
@@ -213,6 +213,14 @@ normalize-ingredient-caps:	## -- Lowercase generic ingredient words in lists
 
 normalize-ingredient-caps-check:	## -- Check ingredient caps without modifying
 	@python3 scripts/normalize-ingredient-caps.py --check
+
+check-widows:	## -- Check PDF for widows (run 'make pdf' first)
+	@if [ ! -f "$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf" ]; then \
+		echo "  PDF not found at $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf"; \
+		echo "  Run 'make pdf' first and then re-run this check."; \
+		exit 1; \
+	fi
+	@python3 scripts/check-widows.py
 
 proofread: find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles ## -- Run all proofreading checks

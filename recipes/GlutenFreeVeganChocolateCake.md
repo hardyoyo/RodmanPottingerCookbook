@@ -44,14 +44,8 @@ that is how it should be, trust me! Divide the batter evenly between your cake
 pans. Bake for 30-35 minutes, or until a toothpick inserted in the center comes 
 out clean. After 10 minutes of cooling in the pan, if you’re using round cake
 pans, carefully remove the cakes from the pans and let cool completely before 
-frosting.
-
-FOR THE CHOCOLATE BUTTERCREAM FROSTING
-Add the cup of cocoa powder to a large bowl (I just wipe out the cake bowl and 
-use it for the frosting). Whisk well to remove any clumps. Add the softened 
-vegan butter and mix with a hand mixer until creamed and well combined. Add 
-half of the powdered sugar and half of the almond milk, and mix until combined. 
-Add the rest of the powdered sugar and vanilla extract. Mix starting on low, 
-and turn to high. Mix until fluffy and combined.
+frosting. FOR THE CHOCOLATE BUTTERCREAM FROSTING
+Add cocoa powder to a large bowl (use the same bowl). Whisk until smooth. Add the softened vegan butter and mix until creamed and well combined. Add 
+half the sugar and half the milk; mix until combined. Add remaining sugar and vanilla; mix on low then high until fluffy and combined.
 
 \label{gluten-free-vegan-chocolate-cake}
