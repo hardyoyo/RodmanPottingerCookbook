@@ -68,6 +68,116 @@ Like I said, lots of moving parts. But worth it.
 
 
 \newpage
+## Camping !
+
+Cooking at a campsite means working with a propane camp stove (or a fire),
+minimal prep surfaces, a cooler, and no oven. The recipes here are chosen for
+being one-pot or one-pan, quick (under 20 minutes of burner time, give or take),
+and using mostly shelf-stable or cooler-friendly ingredients. Pre-chop veggies and
+pre-mix dry ingredients at home to make camp cooking even easier.
+
+### Breakfasts
+
+1. **Chilaquiles** (see page \pageref{chilaquiles}) — tortillas, eggs, chiles, and
+   cheese all in one skillet. Fast, filling, and a great use of eggs which travel
+   well. Skip the oven toasting; just fry the tortilla strips directly.
+2. **Pancakes** (see page \pageref{fantastic-vegan-pancakes}) — camping classic.
+   Pre-mix the dry ingredients (flour, baking powder, salt) at home in a ziplock;
+   just add water or non-dairy milk at camp.
+3. **Scrambled Tofu** (see page \pageref{scrambled-tofu}) — a 6-minute scramble.
+   Pre-crumble the tofu and mix the spices at home. Tofu keeps in the cooler for
+   days.
+4. **Tempeh Bacon** (see page \pageref{tempeh-bacon}) — 2 minutes per side.
+   Shelf-stable tempeh, no cooler needed. Pairs with pancakes or a tortilla.
+
+### Lunches & Dinners
+
+1. **Bibimbap** (see page \pageref{bibimbap}) — the epic camping flex. Cook
+   rice at home and bring it. Sauté whatever veg you have + tofu, but if you
+   really want to impress, pre-make the sides at home: Korean Spinach Side
+   Dish (see page \pageref{korean-spinach-side-dish}) and Soybean Sprout Salad
+   (see page \pageref{soybean-sprout-salad}) both travel well and turn a simple
+   rice bowl into a proper bibimbap. Top with gochujang and a fried egg.
+   All in one pan.
+2. **Fried Rice** (see page \pageref{fried-rice}) — a one-skillet meal. Make
+   rice at home beforehand and bring it cold. Frozen mixed veg, a few eggs, soy
+   sauce — done in 8 minutes.
+3. **Gochujang Noodles** (see page \pageref{gochujang-noodles}) — spicy Korean
+   stir-fry. Udon noodles + cabbage + gochujang, all in one pan. Gochujang is
+   shelf-stable and punches way above its weight.
+4. **Jackfruit Taco Filling** (see page \pageref{jackfruit-taco-filling}) —
+   canned jackfruit keeps in the pantry. Simmer until it shreds, wrap in
+   tortillas. Canned = no cooler space needed.
+5. **Lion's Mane Torta** (see page \pageref{lions-mane-torta}) — pan-fry lion's
+   mane mushrooms (or any sturdy mushroom), toast the roll, assemble with beans
+   and sauce. Feels fancy, cooks fast.
+6. **Maafe (West African Peanut Stew)** (see page \pageref{maafe}) — worth the
+   extra propane. Sweet potatoes are the carb, chickpeas for protein, peanut
+   butter for richness. One pot, 25 minutes, and it's a full meal. Pre-chop the
+   onion and ginger at home.
+7. **Marinated Tofu** (see page \pageref{marinated-tofu}) — marinate a block of
+   extra-firm tofu at home, then pan-fry at camp. Slap it on bread or in a
+   tortilla with some greens.
+8. **Mushroom Lo Mein** (see page \pageref{mushroom-lo-mein}) — boil spaghetti,
+   then sauté mushrooms in the same pot. Tamari and sesame oil travel well in
+   small bottles.
+9. **Peanut Butter Noodles** (see page \pageref{peanut-butter-noodles}) — boil
+   noodles, whisk the sauce while they cook. One pot, zero fuss. Bring shelf-stable
+   peanut butter and the noodles keep forever.
+10. **Soy Curls Fajita Filling** (see page \pageref{soy-curls-fajita-filling}) —
+    Butler Soy Curls are shelf-stable and lightweight. Rehydrate in water, then
+    sauté with peppers and onion. Wrap in tortillas with salsa.
+
+\newpage
+
+11. **Sweet Potato & Black Bean Quesadilla** (see page
+    \pageref{sweet-potato-black-bean-quesadilla}) — pre-shred the sweet potato at
+    home (or use a box grater at camp). Fill tortillas, pan-fry. The carb is the
+    tortilla itself. Add a lime for squeezing.
+12. **Tempeh Taco** (see page \pageref{tempeh-taco}) — crumble tempeh, sauté with
+    chili powder and lime. Fast, shelf-stable protein. Same tortilla play.
+
+### No-Cook / Quick Sides
+
+1. **Chipotle Garlic Mojo** (see page \pageref{chipotle-garlic-mojo}) — no-cook
+   sauce that livens up anything. Chipotles in adobo keep in a jar in the cooler.
+2. **Cowboy Caviar** (see page \pageref{cowboy-caviar}) — zero propane. Just open
+   cans of beans and corn, chop an avocado, squeeze a lime. Great on its own or
+   with chips.
+3. **Pickled Red Onions** (see page \pageref{pickled-red-onions}) — make a jar at
+   home and bring it. Instantly upgrades tacos, bowls, sandwiches.
+4. **Tahini Dressing** (see page \pageref{tahini-dressing}) — whisk in a cup.
+   Dress any salad or drizzle on bowls.
+
+### Notes for Camp Cooking
+
+- **Pre-prep at home**: chop onions, mince garlic, shred sweet potatoes, mix spice
+  blends, cook rice, marinate tofu. Store in zip-top bags or containers.
+- **Shelf-stable staples**: peanut butter, tamari/soy sauce, gochujang, chili
+  powder, cumin, oil, rice noodles, udon, tortillas, canned beans, canned
+  jackfruit, soy curls, tempeh.
+- **Cooler items**: eggs, tofu, fresh veg (peppers, onions, mushrooms, greens,
+  limes), avocados, cheese.
+- **One-pot strategy**: for noodle dishes, boil the noodles first, then use the
+  same pot to sauté. Or vice versa — wipe it out with a paper towel between steps.
+- **Tortillas are your friend**: they're the camp bread. Sturdy, pack flat, double
+  as a plate in a pinch.
+- **Propane budgeting**: a full 16 oz canister gives roughly 60-90 minutes of
+  burner time on medium. Plan accordingly.
+- **Campfire cooking**: if you have a grate over the fire, you can skip the
+  stove entirely. Foil packets work great for veg — toss chopped potatoes,
+  onions, mushrooms, and oil in foil, seal, and rest on hot coals for ~15 min
+  per side.
+- **Cleaning**: Dr. Bronner's Baby (Unscented) is the canonical cheap camp soap
+  — available at Walmart, no need for expensive specialty soaps. Don't wash pots
+  directly in streams or lakes; carry water away from the shore. Strain food
+  scraps from wash water and pack them out.
+- **Vegetarian camp cooking resources**: for deeper dives, check out _The
+  Vegan Camp Cookbook_ by Donna Musil or _Lip Smackin' Vegetarian Backpackin'_
+  by Christine and Tim Conners. For quick inspiration, seriouseats.com has a solid
+  guide to camp cooking gear and strategy.
+
+\newpage
 ## Holidays
 
 Having a bunch of people over for a big holiday meal has some unique challenges.
