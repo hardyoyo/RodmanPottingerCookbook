@@ -1,9 +1,9 @@
 # Lasagna
 
-This classic is from the _Better Homes and Gardens New Cook Book, 10th Edition_
-There are still copies of this edition available, from thrift stores who sell
-via Amazon Marketplace or Abe Books. Worth seeking out to 10th edition, the
-newer ones are not quite right.
+This classic is from the _Better Homes and Gardens New Cook Book, 10th
+Edition_ There are still copies of this edition available, from thrift
+stores who sell via Amazon Marketplace or Abe Books. Worth seeking out
+to 10th edition, the newer ones are not quite right.
 
 *dinner*
 
@@ -23,35 +23,38 @@ newer ones are not quite right.
 
 ---
 
-Start a stock pot full of cold water to boil for the noodles. Beat the egg in a
-medium mixing bowl, then add the cottage cheese, spices, and 1/4 C Parmesan
-cheese (save the other 1/4 C for topping the lasagna). Water for the noodles
-should be boiling, so cook the noodles according to the directions on the
-package. Drain the noodles in a pasta strainer, and run some cold water over
-them so they’re easier to handle (hot noodles suck). Preheat the oven to 375°F.
-To assemble the lasagna, start with a bit of the sauce on the bottom of a
-9 x 13 glass casserole dish. Put 3 noodles lengthwise on top of the sauce in
-the bottom of the casserole dish. Spread with half of the cheese filling.
-Then about half of the remaining pasta sauce. Then about 1C of the shredded
-cheese. Repeat layers (alternate the way you lay the noodles in, to give the
-lasagna a bit of structure, or don’t if you don’t care about such things, does
-not really matter). Sprinkle the remaining cheese (mozzarellla and parmesan) on
-top. Cover with foil and bake in a 375°F oven for 30 minutes. Uncover, bake for
-5-10 minutes more, until the cheese on top is melty and golden. Remove from oven
-and let it cool for about 10 minutes.
+Start a stock pot full of cold water to boil for the noodles. Beat the
+egg in a medium mixing bowl, then add the cottage cheese, spices, and
+1/4 C Parmesan cheese (save the other 1/4 C for topping the lasagna).
+Water for the noodles should be boiling, so cook the noodles according
+to the directions on the package. Drain the noodles in a pasta
+strainer, and run some cold water over them so they’re easier to
+handle (hot noodles suck). Preheat the oven to 375°F. To assemble the
+lasagna, start with a bit of the sauce on the bottom of a 9 x 13 glass
+casserole dish. Put 3 noodles lengthwise on top of the sauce in the
+bottom of the casserole dish. Spread with half of the cheese filling.
+Then about half of the remaining pasta sauce. Then about 1C of the
+shredded cheese. Repeat layers (alternate the way you lay the noodles
+in, to give the lasagna a bit of structure, or don’t if you don’t care
+about such things, does not really matter). Sprinkle the remaining
+cheese (mozzarellla and parmesan) on top. Cover with foil and bake in
+a 375°F oven for 30 minutes. Uncover, bake for 5-10 minutes more,
+until the cheese on top is melty and golden. Remove from oven and let
+it cool for about 10 minutes.
 
 ### To make ahead
 
 Prepare as above, except, afer assembling, cover with plastic wrap and
-refrigerate up to 24 hours. Remove plastic wrap and cover with foil. Bake in a
-375°F oven for 35 minutes. Uncover and bake about 20 minutes more.
+refrigerate up to 24 hours. Remove plastic wrap and cover with foil.
+Bake in a 375°F oven for 35 minutes. Uncover and bake about 20 minutes
+more.
 
-Can be frozen, but if you do, be sure to thaw it out before you try to cook it,
-then follow the directions above.
+Can be frozen, but if you do, be sure to thaw it out before you try to
+cook it, then follow the directions above.
 
 ### MAKE 2, ONE WITH GLUTEN-FREE NOODLES
 
-Two stockpots, only cook about half of each package of noodles. Use two 8x8 in.
-casserole dishes.
+Two stockpots, only cook about half of each package of noodles. Use
+two 8x8 in. casserole dishes.
 
 \label{lasagna}

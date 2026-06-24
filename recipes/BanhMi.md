@@ -1,6 +1,7 @@
 # Bánh Mì
 
-From: https://tastesbetterfromscratch.com/vietnamese-chicken-sandwich-banh-mi/
+From: https://tastesbetterfromscratch.com/vietnamese-chicken-sandwich-
+banh-mi/
 
 *vegan, sandwich, Vietnamese*
 
@@ -23,23 +24,24 @@ From: https://tastesbetterfromscratch.com/vietnamese-chicken-sandwich-banh-mi/
 
 ---
 
-In a small pot combine the rice vinegar, water and dash of salt and bring to a
-boil. Add carrots (if shredded, squeeze them dry in paper towels over the sink),
-cucumber and jalapeño to a large bowl. Pour hot vinegar liquid over the veggies
-and set aside for 30 minutes.
+In a small pot combine the rice vinegar, water and dash of salt and
+bring to a boil. Add carrots (if shredded, squeeze them dry in paper
+towels over the sink), cucumber and jalapeño to a large bowl. Pour hot
+vinegar liquid over the veggies and set aside for 30 minutes.
 
-In a small bowl combine the mayonnaise, hoisin sauce and sriracha and season
-with salt and pepper. Set aside.
+In a small bowl combine the mayonnaise, hoisin sauce and sriracha and
+season with salt and pepper. Set aside.
 
-Microwave the plant-based bulgogi beef in a ceramic bowl for about a minute, or
-until heated through.
+Microwave the plant-based bulgogi beef in a ceramic bowl for about a
+minute, or until heated through.
 
-Slice the rolls in half lengthwise and toast them. Spread a thin layer of the
-sriracha mayo on each half of bread. Pile the bulgogi beef on top. Spoon any
-leftover sauce on top of the beef. Drain the pickled veggies and add a big
-handful to each sandwich. Top with fresh cilantro leaves. Sandwich with the top
-half of the roll and enjoy!
+Slice the rolls in half lengthwise and toast them. Spread a thin layer
+of the sriracha mayo on each half of bread. Pile the bulgogi beef on
+top. Spoon any leftover sauce on top of the beef. Drain the pickled
+veggies and add a big handful to each sandwich. Top with fresh
+cilantro leaves. Sandwich with the top half of the roll and enjoy!
 
-Source: https://tastesbetterfromscratch.com/vietnamese-chicken-sandwich-banh-mi/
+Source: https://tastesbetterfromscratch.com/vietnamese-chicken-
+sandwich-banh-mi/
 
 \label{banh-mi}

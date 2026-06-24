@@ -1,7 +1,7 @@
 # Deep Dark Chocolate Cake
 
-This is from the side of a Hershey’s Cocoa powder tin, which is why they get a
-shout-out in the list of ingredients.
+This is from the side of a Hershey’s Cocoa powder tin, which is why
+they get a shout-out in the list of ingredients.
 
 *dessert*
 
@@ -23,11 +23,12 @@ shout-out in the list of ingredients.
 
 ---
 
-In a large bowl combine dry ingredients. Add eggs, milk, oil and vanilla. Beat
-on medium speed for 2 minutes. Remove from mixer, stir in boiling water (batter
-will be thin). Pour into greased and floured pan (13" x 9" or 2 round 9 1/2"
-pans). Bake in a preheated 350°F oven, 35-40 minutes (slightly shorter for the
-round pans). Cool cake 10 minutes, remove from pans. Cool completely. Icing
-is optional, this cake does not need it.
+In a large bowl combine dry ingredients. Add eggs, milk, oil and
+vanilla. Beat on medium speed for 2 minutes. Remove from mixer, stir
+in boiling water (batter will be thin). Pour into greased and floured
+pan (13" x 9" or 2 round 9 1/2" pans). Bake in a preheated 350°F oven,
+35-40 minutes (slightly shorter for the round pans). Cool cake 10
+minutes, remove from pans. Cool completely. Icing is optional, this
+cake does not need it.
 
 \label{deep-dark-chocolate-cake}

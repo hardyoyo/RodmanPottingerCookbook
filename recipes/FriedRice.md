@@ -18,9 +18,9 @@ From Debbie’s mom.
 
 ---
 
-In a big skillet or wok, cook the onion and veggies in oil. Push to the side,
-scramble the eggs in the space you made in the center of the pan, then mix in
-with the veggies. Add the rice and soy sauce, stir until heated through. Serve
-warm.
+In a big skillet or wok, cook the onion and veggies in oil. Push to
+the side, scramble the eggs in the space you made in the center of the
+pan, then mix in with the veggies. Add the rice and soy sauce, stir
+until heated through. Serve warm.
 
 \label{fried-rice}

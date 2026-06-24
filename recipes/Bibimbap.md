@@ -21,12 +21,18 @@
 
 ---
 
-Press the tofu, cube it, and pan-fry in the vegetable oil, half the sesame oil, and 1 T tamari until golden. Set aside.
+Press the tofu, cube it, and pan-fry in the vegetable oil, half the
+sesame oil, and 1 T tamari until golden. Set aside.
 
-Sauté the carrot, zucchini, and mushrooms in the remaining sesame oil until tender. Set aside.
+Sauté the carrot, zucchini, and mushrooms in the remaining sesame oil
+until tender. Set aside.
 
 Fry the eggs sunny-side up (or skip for vegan).
 
-Divide the rice between four bowls. Top with the sautéed vegetables, tofu, and egg. Serve with Korean Spinach Side Dish (page \pageref{korean-spinach-side-dish}) and Soybean Sprout Salad (page \pageref{soybean-sprout-salad}). Squeeze gochujang on top and garnish with sesame seeds.
+Divide the rice between four bowls. Top with the sautéed vegetables,
+tofu, and egg. Serve with Korean Spinach Side Dish (page
+\pageref{korean-spinach-side-dish}) and Soybean Sprout Salad (page
+\pageref{soybean-sprout-salad}). Squeeze gochujang on top and garnish
+with sesame seeds.
 
 \label{bibimbap}

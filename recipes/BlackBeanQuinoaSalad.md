@@ -1,7 +1,7 @@
 # Quinoa Salad with Black Beans
 
-From *Veganomicon* by Isa Chandra Moskowitz & Terry Hope Romero (page 84). We
-always skip the mango, so this is our version.
+From *Veganomicon* by Isa Chandra Moskowitz & Terry Hope Romero (page
+84). We always skip the mango, so this is our version.
 
 *salad, vegan, gluten-free*
 
@@ -21,16 +21,18 @@ always skip the mango, so this is our version.
 
 ---
 
-Combine the bell pepper, scallions, and cilantro in a mixing bowl. Add the red
-wine vinegar, olive oil, and salt and stir to combine. Add the quinoa and stir
-until everything is well incorporated. Fold in the black beans.
+Combine the bell pepper, scallions, and cilantro in a mixing bowl. Add
+the red wine vinegar, olive oil, and salt and stir to combine. Add the
+quinoa and stir until everything is well incorporated. Fold in the
+black beans.
 
-Serve immediately or let it sit for the flavors to meld. To serve, place a few
-leaves of lettuce on a plate and scoop some salad onto it. Tastes good chilled
-and even better at room temperature.
+Serve immediately or let it sit for the flavors to meld. To serve,
+place a few leaves of lettuce on a plate and scoop some salad onto it.
+Tastes good chilled and even better at room temperature.
 
 Keeps up to 4 days in the fridge.
 
-Source: *Veganomicon* by Isa Chandra Moskowitz & Terry Hope Romero, page 84.
+Source: *Veganomicon* by Isa Chandra Moskowitz & Terry Hope Romero,
+page 84.
 
 \label{quinoa-salad-with-black-beans}

@@ -1,7 +1,7 @@
 # Enchilada Sauce
 
-The kind you get in the store is full of oil and fat. This tastes a lot better,
-and is good for you, too.
+The kind you get in the store is full of oil and fat. This tastes a
+lot better, and is good for you, too.
 
 *sauce, vegan*
 
@@ -22,8 +22,8 @@ and is good for you, too.
 
 ---
 
-Combine everything except the salt and pepper in a small saucepan. Heat  to 
-boiling. Reduce heat and simmer, uncovered, 2-3 minutes. Season to taste with 
-salt and pepper
+Combine everything except the salt and pepper in a small saucepan.
+Heat to boiling. Reduce heat and simmer, uncovered, 2-3 minutes.
+Season to taste with salt and pepper
 
 \label{enchilada-sauce}

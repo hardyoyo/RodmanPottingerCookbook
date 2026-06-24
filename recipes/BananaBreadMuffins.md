@@ -21,19 +21,20 @@ From: Better Homes and Gardens New Cook Book, 10th Edition
 
 ---
 
-In a small bowl, mix 4 T of ground flax seed with 10 T of water, and set it
-aside. These are “vegan eggs”. In a large bowl combine 2 C of flour, sugar,
-baking powder, baking soda, and salt. Add the mashed bananna, shortening, and
-non-dairy milk. Beat with an electric mixer on low speed until blended, then on
-high speed for 2 minutes. Add vegan eggs and remaining flour, beat until blended.
-Stir in chocolate chips. Put paper liners into 2 muffin trays. Use a cookie
-scoop to drop 2 dollops of dough for each muffin. Bake in a 350°F oven for 22
-minutes or till a toothpick inserted near the center comes out clean. Cool
-for 10 minutes on a wire rack. Remove from the pan and cool thoroughly on a
-wire rack.
+In a small bowl, mix 4 T of ground flax seed with 10 T of water, and
+set it aside. These are “vegan eggs”. In a large bowl combine 2 C of
+flour, sugar, baking powder, baking soda, and salt. Add the mashed
+bananna, shortening, and non-dairy milk. Beat with an electric mixer
+on low speed until blended, then on high speed for 2 minutes. Add
+vegan eggs and remaining flour, beat until blended. Stir in chocolate
+chips. Put paper liners into 2 muffin trays. Use a cookie scoop to
+drop 2 dollops of dough for each muffin. Bake in a 350°F oven for 22
+minutes or till a toothpick inserted near the center comes out clean.
+Cool for 10 minutes on a wire rack. Remove from the pan and cool
+thoroughly on a wire rack.
 
-This is a double recipe, adapted for muffins. If you want to make a single loaf
-of Banana Bread, find the recipe in the Better Homes and Gardens cook book and
-follow it.
+This is a double recipe, adapted for muffins. If you want to make a
+single loaf of Banana Bread, find the recipe in the Better Homes and
+Gardens cook book and follow it.
 
 \label{banana-bread-muffins}

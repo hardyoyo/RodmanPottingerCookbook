@@ -19,11 +19,15 @@
 
 ---
 
-Whisk tahini, lemon juice, and salt together in a bowl. The mixture will become thick and lighter in color.
+Whisk tahini, lemon juice, and salt together in a bowl. The mixture
+will become thick and lighter in color.
 
-Slowly pour in 1/4 C water while whisking vigorously. Gradually add more water until desired consistency is reached.
+Slowly pour in 1/4 C water while whisking vigorously. Gradually add
+more water until desired consistency is reached.
 
-Season with any optional add-ins to taste. Store in the fridge for up to one week. Thicken with a splash of water if needed after refrigeration.
+Season with any optional add-ins to taste. Store in the fridge for up
+to one week. Thicken with a splash of water if needed after
+refrigeration.
 
 Source: https://frommybowl.com/tahini-dressing/
 

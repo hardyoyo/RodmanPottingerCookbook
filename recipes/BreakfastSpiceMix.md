@@ -18,8 +18,8 @@
 
 ---
 
-Combine everything in a small food processor, grind for about 30 seconds, then
-spoon into a spice jar. Sprinkle on fried eggs, or season soy curls, or whatever
-else might need a tiny zing.
+Combine everything in a small food processor, grind for about 30
+seconds, then spoon into a spice jar. Sprinkle on fried eggs, or
+season soy curls, or whatever else might need a tiny zing.
 
 \label{breakfast-spice-mix}

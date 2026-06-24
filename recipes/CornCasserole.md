@@ -17,8 +17,8 @@ From Debbie’s mom.
 
 ---
 
-Preheat the oven to 350°F. Mix everything together in a bowl, then dump into a
-standard cake pan or roasting dish. Bake for 45 minutes to an hour, until
-golden and crispy on top.
+Preheat the oven to 350°F. Mix everything together in a bowl, then
+dump into a standard cake pan or roasting dish. Bake for 45 minutes to
+an hour, until golden and crispy on top.
 
 \label{corn-casserole}

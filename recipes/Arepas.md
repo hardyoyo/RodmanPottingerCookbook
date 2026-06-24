@@ -1,6 +1,7 @@
 # Arepas
 
-From: http://www.oster.com/recipedetail.aspx?id=81 (via Wayback Machine)
+From: http://www.oster.com/recipedetail.aspx?id=81 (via Wayback
+Machine)
 
 *Venezuelan*
 
@@ -21,16 +22,18 @@ From: http://www.oster.com/recipedetail.aspx?id=81 (via Wayback Machine)
 
 Boil milk in a small pan. Remove from heat and add butter.
 
-Process corn in a food processor until almost paste (about 30 seconds).
+Process corn in a food processor until almost paste (about 30
+seconds).
 
-Place corn, arepa flour, salt, sugar and cheese (or nutritional yeast) in a
-large bowl. Mix together until well blended. Form a small well in the center and pour in the hot milk.
-Stir until smooth. Add a little water if dough is too thick — it should be the
-consistency of mashed potatoes.
+Place corn, arepa flour, salt, sugar and cheese (or nutritional yeast)
+in a large bowl. Mix together until well blended. Form a small well in
+the center and pour in the hot milk. Stir until smooth. Add a little
+water if dough is too thick — it should be the consistency of mashed
+potatoes.
 
-Form dough into 2-3 inch balls, then squash them into 1/2 inch thick circles.
-Fry in a hot skillet with spray oil, turning once, until golden on both sides.
-Serve warm.
+Form dough into 2-3 inch balls, then squash them into 1/2 inch thick
+circles. Fry in a hot skillet with spray oil, turning once, until
+golden on both sides. Serve warm.
 
 Source: http://www.oster.com/recipedetail.aspx?id=81
 

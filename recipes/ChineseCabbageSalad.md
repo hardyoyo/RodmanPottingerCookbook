@@ -1,7 +1,7 @@
 # Chinese Cabbage Salad
 
-This recipe was given to us by Debbie’s mom, who got it from a member of her
-square dance club, Duck N Dive in Rolla, MO.
+This recipe was given to us by Debbie’s mom, who got it from a member
+of her square dance club, Duck N Dive in Rolla, MO.
 
 *salad, potluck, Chinese, vegan*
 
@@ -25,10 +25,12 @@ square dance club, Duck N Dive in Rolla, MO.
 
 ---
 
-Mix the oil, sugar, vinegar and flavor packets. Toast lightly the almonds and
-sesame seeds in the margarine. Mix the coleslaw with the oil/sugar/flavor
-mixture. After the coleslaw is coated, mix in the remaining ingredients.
+Mix the oil, sugar, vinegar and flavor packets. Toast lightly the
+almonds and sesame seeds in the margarine. Mix the coleslaw with the
+oil/sugar/flavor mixture. After the coleslaw is coated, mix in the
+remaining ingredients.
 
-This is a crowd pleaser, take it to any potluck situation and you’ll be a hit.
+This is a crowd pleaser, take it to any potluck situation and you’ll
+be a hit.
 
 \label{chinese-cabbage-salad}

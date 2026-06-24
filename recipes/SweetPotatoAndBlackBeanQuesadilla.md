@@ -21,22 +21,25 @@
 
 ---
 
-Sauté the onion and garlic with the oil in a skillet for 3 minutes. Add the
-cumin and water and continue for 1 minute. Add the sweet potato and beans,
-stir, cover and cook for about 6 minutes or until the sweet potato is tender
-but not mushy. Remove skillet from heat. Season with salt and pepper. Start a
-new skillet (probalby either non-stick or cast iron), medium heat. After the
-mixture has cooled for a minute or so, spread some on about half of a  tortilla.
-Sprinkle with cheese if you’re using it. Fold the tortilla in half and lay it
-gently in the hot skillet. Cook each side for about 2 minutes, until the cheese
-is melty and the filling is warm. Serve with salsa and sour cream.
+Sauté the onion and garlic with the oil in a skillet for 3 minutes.
+Add the cumin and water and continue for 1 minute. Add the sweet
+potato and beans, stir, cover and cook for about 6 minutes or until
+the sweet potato is tender but not mushy. Remove skillet from heat.
+Season with salt and pepper. Start a new skillet (probalby either non-
+stick or cast iron), medium heat. After the mixture has cooled for a
+minute or so, spread some on about half of a tortilla. Sprinkle with
+cheese if you’re using it. Fold the tortilla in half and lay it gently
+in the hot skillet. Cook each side for about 2 minutes, until the
+cheese is melty and the filling is warm. Serve with salsa and sour
+cream.
 
 Tips:
 
 - You can sprinkle some whole cumin seeds on the skillet before you place
-the tortilla in. It keeps the tortilla from sticking, and it adds a nice touch.
+the tortilla in. It keeps the tortilla from sticking, and it adds a
+nice touch.
 - If you don’t have a food processor, you can still make this, but it’s more work.
-You can shred the sweet potato with a cheese grater. It totally works, I
-promise, that’s how we used to make this.
+You can shred the sweet potato with a cheese grater. It totally works,
+I promise, that’s how we used to make this.
 
 \label{sweet-potato-black-bean-quesadilla}

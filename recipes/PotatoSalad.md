@@ -1,6 +1,7 @@
 # Warm Potato Salad with Lemon and Chive Vinaigrette
 
-from: https://www.deliaonline.com/recipes/collections/delias-summer-collection/warm-potato-salad-with-lemon-and-chive-vinaigrette
+from: https://www.deliaonline.com/recipes/collections/delias-summer-
+collection/warm-potato-salad-with-lemon-and-chive-vinaigrette
 
 *side, potluck, vegan*
 
@@ -22,15 +23,16 @@ from: https://www.deliaonline.com/recipes/collections/delias-summer-collection/w
 
 ---
 
-Place the potatoes in a saucepan with enough boiling water to cover them, add
-some salt, and simmer them for about 15-20 minutes. Make the dressing:
-Mix the garlic and salt, then whisk in everything except the chives and green
-onion. When the potatoes are cooked, drain them in a colander and transfer them
-to a serving bowl. Pour on the vinaigrette dressing while they are still hot,
-toss them around in the dressing to get a good coating, then finally scatter in
-the chives and green onion, and serve.
+Place the potatoes in a saucepan with enough boiling water to cover
+them, add some salt, and simmer them for about 15-20 minutes. Make the
+dressing: Mix the garlic and salt, then whisk in everything except the
+chives and green onion. When the potatoes are cooked, drain them in a
+colander and transfer them to a serving bowl. Pour on the vinaigrette
+dressing while they are still hot, toss them around in the dressing to
+get a good coating, then finally scatter in the chives and green
+onion, and serve.
 
-You can always steam the potatoes in an instant pot if you’re in hurry or are
-feeling lazy.
+You can always steam the potatoes in an instant pot if you’re in hurry
+or are feeling lazy.
 
 \label{warm-potato-salad-with-lemon-and-chive-vinaigrette}

@@ -22,9 +22,13 @@
 
 Cook noodles according to package directions. Drain.
 
-While noodles cook, whisk together peanut butter, soy sauce, maple syrup, rice vinegar, sriracha (if using), sesame oil, garlic, and lime juice in a bowl. Add warm water 1 T at a time until smooth and pourable but still thick.
+While noodles cook, whisk together peanut butter, soy sauce, maple
+syrup, rice vinegar, sriracha (if using), sesame oil, garlic, and lime
+juice in a bowl. Add warm water 1 T at a time until smooth and
+pourable but still thick.
 
-Pour sauce over noodles and toss to coat. Add a splash of hot or cold water to loosen if needed. Garnish and serve.
+Pour sauce over noodles and toss to coat. Add a splash of hot or cold
+water to loosen if needed. Garnish and serve.
 
 Source: https://itdoesnttastelikechicken.com/peanut-butter-noodles/
 

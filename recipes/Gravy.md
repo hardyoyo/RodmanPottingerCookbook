@@ -16,12 +16,13 @@ From: https://www.glutenfreepalate.com/5-minute-gravy-4-ingredients/
 
 ---
 
-Place all ingredients in a small sauce pan and heat over medium heat. Whisk
-constantly. When your gravy starts to boil, whisk until all the ingredients are
-combined and your gravy is smooth. Remove from heat and cool to desired
-temperature before serving. Store leftovers in an airtight container in the
-fridge for up to a week, or freeze for up to 3 months. Hints: start with cold
-ingredients. Put all the ingredients in the pot, THEN turn on the heat. That’s
-how you keep the flour from clumping.
+Place all ingredients in a small sauce pan and heat over medium heat.
+Whisk constantly. When your gravy starts to boil, whisk until all the
+ingredients are combined and your gravy is smooth. Remove from heat
+and cool to desired temperature before serving. Store leftovers in an
+airtight container in the fridge for up to a week, or freeze for up to
+3 months. Hints: start with cold ingredients. Put all the ingredients
+in the pot, THEN turn on the heat. That’s how you keep the flour from
+clumping.
 
 \label{gravy}

@@ -25,10 +25,10 @@ From the Instant Pot cookbook by Chef AJ. Revised for clarity.
 
 ---
 
-Blend the dates, garlic, tomatoes, and red bell peppers in a blender until
-smooth. Place all remaining ingredients into the Instant Pot and cook on Manual
-at high pressure for 10 minutes. Let pressure release naturally or quick release
-and serve. Great over a baked potato with a sprinkle of
-Faux Parmesan (see page \pageref{faux-parmesan}).
+Blend the dates, garlic, tomatoes, and red bell peppers in a blender
+until smooth. Place all remaining ingredients into the Instant Pot and
+cook on Manual at high pressure for 10 minutes. Let pressure release
+naturally or quick release and serve. Great over a baked potato with a
+sprinkle of Faux Parmesan (see page \pageref{faux-parmesan}).
 
 \label{red-lentil-chili}

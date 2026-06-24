@@ -1,7 +1,7 @@
 # Goddess Dressing
 
-from:
-http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.html
+from: http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-
+dressing-recipe.html
 
 *salad dressing, gluten-free, vegan*
 
@@ -24,14 +24,15 @@ http://amitymama.com/vb/amity-mama-market/278349-annies-goddess-dressing-recipe.
 
 ---
 
-You can mix this by hand if you want, but the result will be better in a
-blender. Dump it all in, blend until smooth. You could also put it all in a
-mason jar, stir it a bit with a spatula, then put a lid on tight, and shake the
-heck out of the jar.
+You can mix this by hand if you want, but the result will be better in
+a blender. Dump it all in, blend until smooth. You could also put it
+all in a mason jar, stir it a bit with a spatula, then put a lid on
+tight, and shake the heck out of the jar.
 
-This is a nice quick gluten-free alternative salad dressing. If you don’t have
-any GF dressing on hand, this will do the job. You can also use it in a wrap.
-Since it’s fresh, it’ll taste better than store-bought Goddess Dressing, and it
-won’t have any of the Gluten they insist on putting in it.
+This is a nice quick gluten-free alternative salad dressing. If you
+don’t have any GF dressing on hand, this will do the job. You can also
+use it in a wrap. Since it’s fresh, it’ll taste better than store-
+bought Goddess Dressing, and it won’t have any of the Gluten they
+insist on putting in it.
 
 \label{goddess-dressing}

@@ -115,7 +115,7 @@ PDF_DEPENDENCIES = $(BASE_DEPENDENCIES) $(INCLUDES)
 	find-missing-units find-repeated-words find-missing-attribution \
 	check-hr-formatting find-adjective-titles proofread \
 	check-pdf-prereqs check-widows stats typographic-fixes \
-	normalize-ingredient-caps epub2kobo
+	normalize-ingredient-caps wrap wrap-check epub2kobo
 
 help:	## -- Display this help message
 	@printf "\033[1m📖 Rodman-Pottinger Family Cookbook — Build System\033[0m\n"
@@ -207,6 +207,12 @@ typographic-fixes:	## -- Convert straight quotes/dashes to typographic (curly) e
 
 typographic-fixes-check:	## -- Check for straight quotes/dashes without modifying
 	@python3 scripts/typographic-fixes.py --check
+
+wrap:	## -- Wrap prose paragraphs in all recipes to 70 characters
+	@python3 scripts/wrap-recipes.py
+
+wrap-check:	## -- Check recipe line lengths without modifying
+	@python3 scripts/wrap-recipes.py --check
 
 normalize-ingredient-caps:	## -- Lowercase generic ingredient words in lists
 	@python3 scripts/normalize-ingredient-caps.py
