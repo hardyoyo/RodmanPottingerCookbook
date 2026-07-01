@@ -22,19 +22,22 @@ From: https://peasandcrayons.com/roasted-cherry-tomato-salsa/
 
 ---
 
-Raise the oven rack to the top position. Preheat broiler to high. Line a rimmed
-baking sheet with foil or parchment and spritz with spray oil.
+Raise the oven rack to the top position. Preheat broiler to high. Line
+a rimmed baking sheet with foil or parchment and spritz with spray
+oil.
 
-Slice jalapeños into discs. Spread tomatoes, onion, and jalapeños onto the
-prepared pan and broil for 5 minutes. Rotate the pan 180° and broil another 5
-minutes, until veggies are charred to your liking. Allow to cool slightly.
+Slice jalapeños into discs. Spread tomatoes, onion, and jalapeños onto
+the prepared pan and broil for 5 minutes. Rotate the pan 180° and
+broil another 5 minutes, until veggies are charred to your liking.
+Allow to cool slightly.
 
-Transfer the roasted veggies (and all their juices) to a food processor or
-blender. Add garlic, lime juice, cumin, salt, pepper, and oregano. Pulse until
-it reaches your desired consistency.
+Transfer the roasted veggies (and all their juices) to a food
+processor or blender. Add garlic, lime juice, cumin, salt, pepper, and
+oregano. Pulse until it reaches your desired consistency.
 
-Fold in chopped cilantro. If using Roma tomatoes, dice them finely and sprinkle
-on top for a little chunkiness. Cover and chill, or serve at room temperature.
+Fold in chopped cilantro. If using Roma tomatoes, dice them finely and
+sprinkle on top for a little chunkiness. Cover and chill, or serve at
+room temperature.
 
 Source: https://peasandcrayons.com/roasted-cherry-tomato-salsa/
 

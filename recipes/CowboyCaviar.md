@@ -25,11 +25,15 @@
 
 ---
 
-Combine tomatoes, avocado, onion, black beans, black eyed peas, corn, bell pepper, jalapeño, and cilantro in a large bowl and toss well.
+Combine tomatoes, avocado, onion, black beans, black eyed peas, corn,
+bell pepper, jalapeño, and cilantro in a large bowl and toss well.
 
-Whisk together olive oil, lime juice, vinegar, sugar, salt, pepper, and garlic powder in a small bowl. Pour dressing over the bean mixture and stir to coat.
+Whisk together olive oil, lime juice, vinegar, sugar, salt, pepper,
+and garlic powder in a small bowl. Pour dressing over the bean mixture
+and stir to coat.
 
-Refrigerate until ready to serve. Stir well before serving with tortilla chips.
+Refrigerate until ready to serve. Stir well before serving with
+tortilla chips.
 
 Source: https://www.spendwithpennies.com/cowboy-caviar/
 

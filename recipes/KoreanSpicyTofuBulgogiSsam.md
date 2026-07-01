@@ -26,14 +26,23 @@
 
 ---
 
-Press tofu between paper towels to remove excess moisture. Whisk gochujang, soy sauce, brown sugar, mirin, gochugaru, garlic, 1 T ginger, sesame oil, and 2 minced scallions together for the marinade. Marinate tofu in a bag in the fridge for 1 hour to overnight.
+Press tofu between paper towels to remove excess moisture. Whisk
+gochujang, soy sauce, brown sugar, mirin, gochugaru, garlic, 1 T
+ginger, sesame oil, and 2 minced scallions together for the marinade.
+Marinate tofu in a bag in the fridge for 1 hour to overnight.
 
-Combine 2 bunches sliced scallions, 1/2 C ginger, neutral oil, and sherry vinegar for the sauce; season with salt. Pulse kimchi in a food processor for the puree.
+Combine 2 bunches sliced scallions, 1/2 C ginger, neutral oil, and
+sherry vinegar for the sauce; season with salt. Pulse kimchi in a food
+processor for the puree.
 
-Grill over indirect heat (or pan-fry): cook tofu 7 minutes per side over medium heat. Brush with reserved marinade, then sear 1-2 minutes per side until lightly charred. Cut into bite-size pieces.
+Grill over indirect heat (or pan-fry): cook tofu 7 minutes per side
+over medium heat. Brush with reserved marinade, then sear 1-2 minutes
+per side until lightly charred. Cut into bite-size pieces.
 
-Serve with lettuce, rice, ginger-scallion sauce, and kimchi puree for wrapping.
+Serve with lettuce, rice, ginger-scallion sauce, and kimchi puree for
+wrapping.
 
-Source: https://meatwave.com/recipes/korean-spicy-tofu-bulgogi-lettuce-wraps-ssam-recipe
+Source: https://meatwave.com/recipes/korean-spicy-tofu-bulgogi-
+lettuce-wraps-ssam-recipe
 
 \label{korean-spicy-tofu-bulgogi-ssam}

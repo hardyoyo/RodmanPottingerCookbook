@@ -22,27 +22,28 @@ from Teff Love, by Kittee Berns
 
 ---
 
-Optionally toast the ground flaxseeds in a small skillet for a minute or so.
-Then add them to a small bowl with 3/4 C of water, stir well, let rest while the
-onion cooks.
+Optionally toast the ground flaxseeds in a small skillet for a minute
+or so. Then add them to a small bowl with 3/4 C of water, stir well,
+let rest while the onion cooks.
 
-In a large pot, sauté the onion with olive oil, basil and salt. Cook over medium
-heat, stirring frequently, until very soft and golden brown, about 10-12
-minutes. Add the garlic and ginger, cook, stirring frequently to keep the ginger
-from burning, about 1 minute. Increase the heat to high, add in the greens and
-the remaining 1/4 C of water. Stir constantly, from the bottom to the top,
-incorporating the onion mixture with the greens. Once the greens have wilted
-dramatically, after 1-2 minutes, reduce heat to medium. Give the flaxseed
-mixture one last stir, and add it to the greens, and stir well to combine. Cover
-and cook, stirring frequently, until the greens are quite tender, about 10
-minutes. Add up to 1/4 C more water, as needed, if the greens are becoming dry.
-Add the pepper (if you’re using it), simmer uncovered until the sauce has
-thickened and the greens are very tender, about 5 minutes longer. Season to
-taste with salt and pepper.
+In a large pot, sauté the onion with olive oil, basil and salt. Cook
+over medium heat, stirring frequently, until very soft and golden
+brown, about 10-12 minutes. Add the garlic and ginger, cook, stirring
+frequently to keep the ginger from burning, about 1 minute. Increase
+the heat to high, add in the greens and the remaining 1/4 C of water.
+Stir constantly, from the bottom to the top, incorporating the onion
+mixture with the greens. Once the greens have wilted dramatically,
+after 1-2 minutes, reduce heat to medium. Give the flaxseed mixture
+one last stir, and add it to the greens, and stir well to combine.
+Cover and cook, stirring frequently, until the greens are quite
+tender, about 10 minutes. Add up to 1/4 C more water, as needed, if
+the greens are becoming dry. Add the pepper (if you’re using it),
+simmer uncovered until the sauce has thickened and the greens are very
+tender, about 5 minutes longer. Season to taste with salt and pepper.
 
-Try to finish this dish up in a day or so, it doesn’t keep well in the fridge.
-Neither does Injera (the large flat bread, made with Teff). You can freeze the
-Injera... Gomen Be’Telba doesn’t freeze well.
+Try to finish this dish up in a day or so, it doesn’t keep well in the
+fridge. Neither does Injera (the large flat bread, made with Teff).
+You can freeze the Injera... Gomen Be’Telba doesn’t freeze well.
 
 See also Misir Wot (page \pageref{misir-wot}).
 

@@ -12,8 +12,8 @@
 
 ---
 
-Combine everything in a food processor and blitz until it resembles fine crumbs.
-Store in a jar in the fridge. Sprinkle on pasta, chili, baked potatoes, or
-anything that wants a cheesy kick.
+Combine everything in a food processor and blitz until it resembles
+fine crumbs. Store in a jar in the fridge. Sprinkle on pasta, chili,
+baked potatoes, or anything that wants a cheesy kick.
 
 \label{faux-parmesan}

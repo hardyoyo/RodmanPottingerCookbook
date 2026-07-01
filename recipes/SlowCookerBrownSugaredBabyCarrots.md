@@ -16,11 +16,12 @@ from: pillsburry.com, their URL is huge and has a tracker in it
 
 ---
 
-Spray a large slow cooker with cooking spray. Add carrots, sprinkle with salt,
-brown sugar and butter. Cover, cook on high for 4-5 hours, stiring after 2
-hours. It’s done whenever the carrots are at the tenderness you desire. You can
-serve from a serving dish, if you want, but usually you’ll have this parked on a
-buffet with all the other slow cookers, so, no need for fancy. Remember to bring
-a spoon, and don’t forget to bring it back home!
+Spray a large slow cooker with cooking spray. Add carrots, sprinkle
+with salt, brown sugar and butter. Cover, cook on high for 4-5 hours,
+stiring after 2 hours. It’s done whenever the carrots are at the
+tenderness you desire. You can serve from a serving dish, if you want,
+but usually you’ll have this parked on a buffet with all the other
+slow cookers, so, no need for fancy. Remember to bring a spoon, and
+don’t forget to bring it back home!
 
 \label{slow-cooker-brown-sugared-baby-carrots}

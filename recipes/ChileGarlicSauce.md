@@ -13,7 +13,7 @@
 
 ---
 
-Dump everything into a small food processor and blend until smooth. Pour into a
-squeeze bottle. Keeps in the fridge for months.
+Dump everything into a small food processor and blend until smooth.
+Pour into a squeeze bottle. Keeps in the fridge for months.
 
 \label{chile-garlic-sauce}

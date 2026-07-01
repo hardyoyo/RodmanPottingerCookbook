@@ -21,7 +21,8 @@ from: The Saucy Vegetarian, by Joanne Stepaniak
 
 Combine all ingredients in a blender, and process until fairly smooth.
 
-This makes for a lightning-fast dinner, and is a very common meal at our house.
+This makes for a lightning-fast dinner, and is a very common meal at
+our house.
 
 When our kids were young, we called this “Dad’s famous Pasta.”
 

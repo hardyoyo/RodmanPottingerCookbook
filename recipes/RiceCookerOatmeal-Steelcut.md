@@ -1,8 +1,8 @@
 # Rice Cooker Oatmeal - Steelcut Oats
 
-The oatmeal button takes 20-23 minutes, you can delay the start, and set this up
-before going to bed, if you want. Experiment with the delayed start before you
-try for this overnight.
+The oatmeal button takes 20-23 minutes, you can delay the start, and
+set this up before going to bed, if you want. Experiment with the
+delayed start before you try for this overnight.
 
 *Rice Cooker, vegan*
 
@@ -19,7 +19,7 @@ try for this overnight.
 
 Dump ingredients, press the oatmeal button.
 
-When it’s done, don’t freak out if it seems really watery. Just stir it a bit,
-it’s fine.
+When it’s done, don’t freak out if it seems really watery. Just stir
+it a bit, it’s fine.
 
 \label{rice-cooker-oatmeal-steelcut-oats}

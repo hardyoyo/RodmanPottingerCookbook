@@ -1,8 +1,8 @@
 # Nepalese Lentil Soup (AKA Dal)
 
-Hardy synthesized this recipe from several found online. We usually make this
-slightly thicker and eat it as Dal, but it does make a nice soup if you add
-enough water.
+Hardy synthesized this recipe from several found online. We usually
+make this slightly thicker and eat it as Dal, but it does make a nice
+soup if you add enough water.
 
 *Instant Pot, soup, vegan, dal*
 
@@ -29,18 +29,18 @@ want soup)
 
 ---
 
-Heat oils, add onion, sauté until brown at edges, add garlic for 30 seconds, add
-everything else, put on cooker lid, press the soup or manual button, set time
-for 7 minutes. Natural pressure release is better, but you can do a quick
-release if you want. Stir in lemon and cilantro, serve either as a soup, or over
-rice.
+Heat oils, add onion, sauté until brown at edges, add garlic for 30
+seconds, add everything else, put on cooker lid, press the soup or
+manual button, set time for 7 minutes. Natural pressure release is
+better, but you can do a quick release if you want. Stir in lemon and
+cilantro, serve either as a soup, or over rice.
 
 ### NOTES
 
 - Almost any sort of recipe ready/diced tomatoes will work, but be careful, some
-of the “fire roasted” options will include spices. “Salsa Style” *will* be spicy
-hot. Which is fine, if that’s what you want, but spicy Dal isn’t everyone’s cup
-of tea.
+of the “fire roasted” options will include spices. “Salsa Style”
+*will* be spicy hot. Which is fine, if that’s what you want, but spicy
+Dal isn’t everyone’s cup of tea.
 - If you’re going for Dal instead of soup (thicker texture) don’t add an entire
 can of water, try slightly less than a full can.
 - START THE RICE FIRST!

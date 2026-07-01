@@ -1,8 +1,9 @@
 # Black Bean Soup
 
-Based loosely on the Black Bean Soup recipe in _The New Laurel’s Kitchen_ by
-Laurel Robertson, Carol Flinders and Brian Ruppenthal, but the timings are from
-the tiny Instant Pot cookbook that comes with the cooker.
+Based loosely on the Black Bean Soup recipe in _The New Laurel’s
+Kitchen_ by Laurel Robertson, Carol Flinders and Brian Ruppenthal, but
+the timings are from the tiny Instant Pot cookbook that comes with the
+cooker.
 
 *Instant Pot, soup, vegan*
 
@@ -28,12 +29,14 @@ the tiny Instant Pot cookbook that comes with the cooker.
 
 ---
 
-Set the cooker to sauté and sauté the onions until they turn brown a bit at the
-edges, add the garlic, sauté for 30 seconds more, then add the green chilies
-(if using), celery, and carrots. Stir and sauté for a minute more, then add the tomatoes and all of
-their liquid, stir a bunch, then add water to the same can and toss that in to
-the cooker. Stir, then add the beans. Add all the spices. Add the potatoes. Pop
-on the lid, set the cooker for 15 minutes on beans/chili. Release the pressure,
-pop open the lid, fish out the bay leaf. Add the cilantro and lime juice. Salt and pepper to taste.
+Set the cooker to sauté and sauté the onions until they turn brown a
+bit at the edges, add the garlic, sauté for 30 seconds more, then add
+the green chilies (if using), celery, and carrots. Stir and sauté for
+a minute more, then add the tomatoes and all of their liquid, stir a
+bunch, then add water to the same can and toss that in to the cooker.
+Stir, then add the beans. Add all the spices. Add the potatoes. Pop on
+the lid, set the cooker for 15 minutes on beans/chili. Release the
+pressure, pop open the lid, fish out the bay leaf. Add the cilantro
+and lime juice. Salt and pepper to taste.
 
 \label{black-bean-soup}

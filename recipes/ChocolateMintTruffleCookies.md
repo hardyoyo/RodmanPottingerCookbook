@@ -1,10 +1,10 @@
 # Chocolate Mint Truffle Cookies
 
-This is a holiday favorite. The mint truffle Hershey’s Kisses are a seasonal
-thing, you’ll only see them around Christmas. Keep an eye out for their
-appearance, and snag a few, so you can make a batch or two of these. They make
-perfect gifts for neighbors or the mail man, so make a bunch, just try not to
-eat them all at once.
+This is a holiday favorite. The mint truffle Hershey’s Kisses are a
+seasonal thing, you’ll only see them around Christmas. Keep an eye out
+for their appearance, and snag a few, so you can make a batch or two
+of these. They make perfect gifts for neighbors or the mail man, so
+make a bunch, just try not to eat them all at once.
 
 *dessert*
 
@@ -28,25 +28,27 @@ eat them all at once.
 
 ---
 
-Preheat oven to 350°F. Line a baking sheet with a silicone mat or parchment
-paper. In a bowl, whisk together flour, cocoa powder, baking powder, baking
-soda, and salt. Set aside. Combine sugar, cream cheese and melted butter in a
-large bowl and whisk until the mixture forms a smooth paste. Whisk in oil. Add
-egg, milk, and vanilla extract and stir (with a wooden spoon, don’t try to use
-the whisk for this part, poor whisk) until smooth. Fold in flour mixture until
-all the flour is incorporated and no dry ingredients remain. Dough will be soft,
-but should still be workable. If not, refrigerate it for about 15-20 minutes
-until it is. Use a medium cookie scoop to portion out about 2 T of dough. Press
-a kiss in the center, shape into a ball around it. Arrange on prepared baking
-sheet, leaving about 2 inches of space between each cookie. Bake for 11-13
-minutes, until cookies are set and cracked. Cool on the baking sheet for 3
-minutes, then transfer to a wire rack to cool completely. Store in an airtight
-container at room temperature for up to 1 week.
+Preheat oven to 350°F. Line a baking sheet with a silicone mat or
+parchment paper. In a bowl, whisk together flour, cocoa powder, baking
+powder, baking soda, and salt. Set aside. Combine sugar, cream cheese
+and melted butter in a large bowl and whisk until the mixture forms a
+smooth paste. Whisk in oil. Add egg, milk, and vanilla extract and
+stir (with a wooden spoon, don’t try to use the whisk for this part,
+poor whisk) until smooth. Fold in flour mixture until all the flour is
+incorporated and no dry ingredients remain. Dough will be soft, but
+should still be workable. If not, refrigerate it for about 15-20
+minutes until it is. Use a medium cookie scoop to portion out about 2
+T of dough. Press a kiss in the center, shape into a ball around it.
+Arrange on prepared baking sheet, leaving about 2 inches of space
+between each cookie. Bake for 11-13 minutes, until cookies are set and
+cracked. Cool on the baking sheet for 3 minutes, then transfer to a
+wire rack to cool completely. Store in an airtight container at room
+temperature for up to 1 week.
 
-> 1 bag of kisses = 1 batch (enough for us, not enough to share).
-> 2 bags = 2 batches (Merry Christmas!)
+> 1 bag of kisses = 1 batch (enough for us, not enough to share). > 2
+bags = 2 batches (Merry Christmas!)
 
-Source:
-http://www.loveandoliveoil.com/2012/12/chocolate-mint-truffle-cookies.html
+Source: http://www.loveandoliveoil.com/2012/12/chocolate-mint-truffle-
+cookies.html
 
 \label{chocolate-mint-truffle-cookies}

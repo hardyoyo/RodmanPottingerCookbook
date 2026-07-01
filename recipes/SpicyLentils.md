@@ -22,22 +22,25 @@ from http://www.thefresh20.com/
 
 ---
 
-Hit the saute button, add oil, saute onion and carrots for 3-4 minutes. Add
-garlic, saute for 30 more seconds. Add chipotle, tomato paste, cumin, saute for
-1 minute. Stir well. Add lentils, bay leaf, and broth, put on cover, hit manual button, set for 15 minutes. When the cooker
-beeps, do a natural release... or a quick release, it doesn’t matter, these are
-lentils. When you have the lid open, stir in the lime juice.
+Hit the saute button, add oil, saute onion and carrots for 3-4
+minutes. Add garlic, saute for 30 more seconds. Add chipotle, tomato
+paste, cumin, saute for 1 minute. Stir well. Add lentils, bay leaf,
+and broth, put on cover, hit manual button, set for 15 minutes. When
+the cooker beeps, do a natural release... or a quick release, it
+doesn’t matter, these are lentils. When you have the lid open, stir in
+the lime juice.
 
 ### USES, NOTES
 
-Taco filling, salad topping, or tear up some kale and put it in a tortilla to
-make an awesome wrap. I recommend goddess dressing with a splash of Sriracha as
-a sauce for the wrap.
+Taco filling, salad topping, or tear up some kale and put it in a
+tortilla to make an awesome wrap. I recommend goddess dressing with a
+splash of Sriracha as a sauce for the wrap.
 
-This is also one of the main ingredients in [Koshari](./Koshari.md) (see page \pageref{koshari}).
+This is also one of the main ingredients in [Koshari](./Koshari.md)
+(see page \pageref{koshari}).
 
-If you can only find a 7 oz. can of Chipotle peppers, don’t fret, just chop the
-entire can, then keep the extra in a small jar in the fridge, because I can
-guarantee you’ll make this recipe again.
+If you can only find a 7 oz. can of Chipotle peppers, don’t fret, just
+chop the entire can, then keep the extra in a small jar in the fridge,
+because I can guarantee you’ll make this recipe again.
 
 \label{spicy-lentils}

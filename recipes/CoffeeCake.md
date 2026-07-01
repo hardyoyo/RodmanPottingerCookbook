@@ -1,8 +1,8 @@
 # Coffee Cake
 
-This recipe is a secret/filler recipe from the Better Homes and Gardens
-Cookbook, 10th edition, page 64. It’s not in the TOC or index. It’s just there
-on the page.
+This recipe is a secret/filler recipe from the Better Homes and
+Gardens Cookbook, 10th edition, page 64. It’s not in the TOC or index.
+It’s just there on the page.
 
 *breakfast*
 
@@ -26,12 +26,13 @@ on the page.
 
 ---
 
-In a medium bowl, mix the dry ingredients. In a smaller bowl, mix the wet.
-Combine both bowls and mix well. Pour into a greased 9 x 9 x 2 baking pan.
+In a medium bowl, mix the dry ingredients. In a smaller bowl, mix the
+wet. Combine both bowls and mix well. Pour into a greased 9 x 9 x 2
+baking pan.
 
-For the topping, mix the brown sugar, flour and cinnamon, cut in the butter with
-a fork or a pastry blender. Mix in the nuts, then sprinkle over the batter in
-the baking pan.
+For the topping, mix the brown sugar, flour and cinnamon, cut in the
+butter with a fork or a pastry blender. Mix in the nuts, then sprinkle
+over the batter in the baking pan.
 
 Bake in a 350°F oven for 30 minutes.
 

@@ -24,12 +24,13 @@ from Teff Love, by Kittee Berns
 
 ---
 
-Put the olive oil, carrot, onion, ginger, garlic and salt in a large saucepan.
-Cook over medium heat, stirring frequently to avoid sticking or burning, until
-the onion is soft and translucent, about 5 minutes. Stir in the spices and
-cook for another minute. Add water and cabbage and stir well to combine. Cover
-and cook for 10 minutes. Add the peppers, cover, and cook until the cabbage is
-very tender and the carrots are soft, about 5 minutes longer. Season to taste
-with salt and pepper.
+Put the olive oil, carrot, onion, ginger, garlic and salt in a large
+saucepan. Cook over medium heat, stirring frequently to avoid sticking
+or burning, until the onion is soft and translucent, about 5 minutes.
+Stir in the spices and cook for another minute. Add water and cabbage
+and stir well to combine. Cover and cook for 10 minutes. Add the
+peppers, cover, and cook until the cabbage is very tender and the
+carrots are soft, about 5 minutes longer. Season to taste with salt
+and pepper.
 
 \label{ye-tikil-gomen-be-karot}

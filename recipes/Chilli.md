@@ -27,14 +27,15 @@ This is our usual, “anything goes”, chilli recipe.
 
 ---
 
-Eh, most of these ingredients are optional, use what you have, and feel free to
-improvise. Dice/chop everything that needs chopping, hit the sauté button on the
-cooker, sauté the onion, celery and carrot. When the onion looks like it’s
-getting a bit brown, add in whatever else you’re adding (peppers, chillies,
-mushrooms) and sauté a bit more until it all smells good, add the spices, add
-the tomatoes, add the beans, add the TVP. Pop on a lid, hit the chilli button,
-set the time for 3 minutes (longer if you put in lots of fresh tomatoes, or any
-frozen stuff... if you did, 10 minutes should do it). Natural release. Maybe
-make some corn bread while you wait.
+Eh, most of these ingredients are optional, use what you have, and
+feel free to improvise. Dice/chop everything that needs chopping, hit
+the sauté button on the cooker, sauté the onion, celery and carrot.
+When the onion looks like it’s getting a bit brown, add in whatever
+else you’re adding (peppers, chillies, mushrooms) and sauté a bit more
+until it all smells good, add the spices, add the tomatoes, add the
+beans, add the TVP. Pop on a lid, hit the chilli button, set the time
+for 3 minutes (longer if you put in lots of fresh tomatoes, or any
+frozen stuff... if you did, 10 minutes should do it). Natural release.
+Maybe make some corn bread while you wait.
 
 \label{basic-chilli}

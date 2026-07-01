@@ -1,9 +1,10 @@
 # Soy Curls Fajita Filling
 
-[Butler Soy Curls](https://www.butlerfoods.com/soycurls.html) are an Oregon
-thing, but you can order them online. They keep forever and are easy to handle.
-You should have some in your pantry, and probably in your prepper box, too.
-This fajita filling is also perfect for burritos.
+[Butler Soy Curls](https://www.butlerfoods.com/soycurls.html) are an
+Oregon thing, but you can order them online. They keep forever and are
+easy to handle. You should have some in your pantry, and probably in
+your prepper box, too. This fajita filling is also perfect for
+burritos.
 
 *vegan, soy-curls*
 
@@ -24,14 +25,15 @@ This fajita filling is also perfect for burritos.
 
 ---
 
-Put it all into a medium bowl. Let the Soy Curls soak for about 10 minutes.
-Drain the liquid (you can save it for making fajita sauce if you want, see
-below). Squish the Soy Curls in your hands to squeeze out more of the remaining
-liquid (or don’t, if you prefer very wet Soy Curls). You can sauté them up
-plain, if you’re in a hurry or feeling lazy. Or get fancy with onions and bell
-peppers (the best option). You can make a quick fajita sauce with 1 C leftover
-liquid from soaking the Soy Curls, salsa, lime juice and liquid smoke. Put half
-the sauce in while you’re sautéing the soy curls and friends, and add the
+Put it all into a medium bowl. Let the Soy Curls soak for about 10
+minutes. Drain the liquid (you can save it for making fajita sauce if
+you want, see below). Squish the Soy Curls in your hands to squeeze
+out more of the remaining liquid (or don’t, if you prefer very wet Soy
+Curls). You can sauté them up plain, if you’re in a hurry or feeling
+lazy. Or get fancy with onions and bell peppers (the best option). You
+can make a quick fajita sauce with 1 C leftover liquid from soaking
+the Soy Curls, salsa, lime juice and liquid smoke. Put half the sauce
+in while you’re sautéing the soy curls and friends, and add the
 remaining half closer to the end of your sautéing.
 
 \label{soy-curls-fajita-filling}

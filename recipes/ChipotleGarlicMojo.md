@@ -15,6 +15,7 @@
 
 ---
 
-Whisk everything together. Use immediately or refrigerate for up to a week.
+Whisk everything together. Use immediately or refrigerate for up to a
+week.
 
 \label{chipotle-garlic-mojo}
