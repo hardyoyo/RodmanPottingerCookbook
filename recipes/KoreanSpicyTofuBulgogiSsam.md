@@ -16,10 +16,9 @@
 - *1 T* ginger, minced (for marinade)
 - *2 T* sesame oil
 - *2* scallions, minced (for marinade)
-- *2 bunches* scallions, thinly sliced (for sauce)
 - *1/2 C* ginger, minced (for sauce)
 - *1/4 C* neutral oil
-- *3/4 t* sherry vinegar
+- *3/4 t* rice vinegar
 - *1 C* kimchi
 - *1 head* bibb lettuce, leaves separated
 - *2-3 C* cooked white rice
@@ -31,8 +30,8 @@ gochujang, soy sauce, brown sugar, mirin, gochugaru, garlic, 1 T
 ginger, sesame oil, and 2 minced scallions together for the marinade.
 Marinate tofu in a bag in the fridge for 1 hour to overnight.
 
-Combine 2 bunches sliced scallions, 1/2 C ginger, neutral oil, and
-sherry vinegar for the sauce; season with salt. Pulse kimchi in a food
+Combine 2 sliced scallions, 1/2 C ginger, neutral oil, and
+rice vinegar for the sauce; season with salt. Pulse kimchi in a food
 processor for the puree.
 
 Grill over indirect heat (or pan-fry): cook tofu 7 minutes per side
