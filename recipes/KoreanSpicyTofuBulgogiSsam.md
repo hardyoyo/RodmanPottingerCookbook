@@ -16,10 +16,8 @@
 - *1 T* ginger, minced (for marinade)
 - *2 T* sesame oil
 - *2* scallions, minced (for marinade)
-- *1/2 C* ginger, minced (for sauce)
-- *1/4 C* neutral oil
-- *3/4 t* rice vinegar
 - *1 C* kimchi
+- *1/4 C* prepared ssamjang
 - *1 head* bibb lettuce, leaves separated
 - *2-3 C* cooked white rice
 
@@ -30,15 +28,13 @@ gochujang, soy sauce, brown sugar, mirin, gochugaru, garlic, 1 T
 ginger, sesame oil, and 2 minced scallions together for the marinade.
 Marinate tofu in a bag in the fridge for 1 hour to overnight.
 
-Combine 2 sliced scallions, 1/2 C ginger, neutral oil, and
-rice vinegar for the sauce; season with salt. Pulse kimchi in a food
-processor for the puree.
+Pulse kimchi in a food processor for the puree.
 
 Grill over indirect heat (or pan-fry): cook tofu 7 minutes per side
 over medium heat. Brush with reserved marinade, then sear 1-2 minutes
 per side until lightly charred. Cut into bite-size pieces.
 
-Serve with lettuce, rice, ginger-scallion sauce, and kimchi puree for
+Serve with lettuce, rice, prepared ssamjang, and kimchi puree for
 wrapping.
 
 Source: https://meatwave.com/recipes/korean-spicy-tofu-bulgogi-
